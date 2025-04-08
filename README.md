@@ -15,7 +15,7 @@ Hi, I'm Joseph Black, a very passionate Computer Engineering student at **West V
 ### **F1TENTH Autonomous Racing Team**  
 **WVU Team Lead** — Morgantown, WV  
 *September 2023 – December 2024*  
-- Led the team to a **2nd place finish** in the **International F1Tenth Autonomous Grand Prix**.
+-  **2nd place finish** in the **International F1Tenth Autonomous Grand Prix**.
 - Developed path-planning algorithms and integrated sensor data with motor and power systems for efficient decision-making.
 - Optimized motor control using **PID controllers** and **VESC software**, improving system performance.
 
