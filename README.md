@@ -34,15 +34,16 @@ Hi, I'm Joseph Black, a very passionate Computer Engineering student at **West V
 - **Software Development**: Autonomous Systems, Control Systems, AI, Robotics, Cloud Security
 
 ---
-
-## 🔧 Projects
-
-### **Autonomous Navigation Research (WVU)**  
-- Designed and debugged ROS2-based control strategies for autonomous vehicle navigation.  
-- Developed and validated real-time localization algorithms using sensor fusion.
+## Recent Projects
 
 ### **F1TENTH Autonomous Racing**  
 - Optimized autonomous race car performance using PID control, path-planning algorithms, and sensor data integration.
+
+### **MSP432 Microcontroller Robot**  
+- Programmed a robot using bare-metal C to interpret sensor data and perform obstacle avoidance.
+
+### **Discord Call of Duty Statistics Bot*  
+- Programmed and deployed a Discord bot used to keep track of player's Call of Duty Ranked Play stats.
 
 ### **MPX Operating System Kernel**  
 - Designed a cooperative multitasking OS kernel using C and x86 assembly, implementing core system routines and context-switching.
@@ -53,33 +54,11 @@ Hi, I'm Joseph Black, a very passionate Computer Engineering student at **West V
 ### **MSP432 Microcontroller Robot**  
 - Programmed a robot using bare-metal C to interpret sensor data and perform obstacle avoidance.
 
-### **UDP Probe Network Utility**  
-- Developed a command-line tool for testing UDP connectivity, assessing latency, and identifying packet loss.
+### **ASM OS**  
+- Developed a command-line interface for an embedded OS that was 90 percent programmed in x86 ASM.
 
 ### **Keke RTOS App (Hobby Project)**  
 - Developed a real-time operating system (RTOS) for stock inventory management, integrating AI and SQL for dynamic decision-making.
-
----
-
-## 🌐 Contact & Social Links
-- 📧 Email: [jrb00013wvu@gmail.com](mailto:jrb00013wvu@gmail.com)  
-- 📱 Phone: 724-884-6670  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/joseph-black-wvu)
-
----
-
-## 💡 About Me
-
-I'm an enthusiastic Computer Engineering student driven by a passion for **embedded systems**, **real-time software**, and **autonomous systems**. With hands-on experience in **FPGA design**, **sensor fusion**, **motor control**, and **low-level firmware development**, I am eager to further develop my skills and contribute to cutting-edge technology.
-
-Some of my key interests include:
-- **Autonomous Systems**  
-- **AI Optimization**  
-- **Real-Time Control Systems**  
-- **Embedded Systems**  
-- **Networking & Cybersecurity**
-
-In my free time, I enjoy **reading**, **listening to music**, **gaming**, and producing my own music. I’m a lifelong learner who thrives in collaborative environments and I am eager to join a company where I can learn from more experienced professionals.
 
 ---
 
@@ -99,4 +78,9 @@ I am passionate about **FPGAs**, **AI**, and **real-time embedded systems**. The
 
 I am excited to contribute my skills, and I'm particularly interested in working on projects that combine **hardware** and **software** to create innovative, high-performance systems.
 
+---
+
+
+## 🌐 LinkedIn
+- 🔗 [LinkedIn](https://www.linkedin.com/in/joseph-black-wvu)
 ---
