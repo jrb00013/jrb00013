@@ -42,7 +42,7 @@ Hi, I'm Joseph Black, a very passionate Computer Engineering student at **West V
 ### **MSP432 Microcontroller Robot**  
 - Programmed a robot using bare-metal C to interpret sensor data and perform obstacle avoidance.
 
-### **Discord Call of Duty Statistics Bot*  
+### **Discord Call of Duty Statistics Bot**  
 - Programmed and deployed a Discord bot used to keep track of player's Call of Duty Ranked Play stats.
 
 ### **MPX Operating System Kernel**  
