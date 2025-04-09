@@ -3,23 +3,6 @@
 Hi, I'm Joseph Black, a very passionate Computer Engineering student at **West Virginia University**, graduating in **May 2025**.
 
 ---
-## Background
-
-### **Autonomous Vehicular Systems Research Assistant**  
-**WVU Research Assistant** — Morgantown, WV  
-*May 2024 – September 2024*  
-- Researched sensor fusion and real-time decision-making techniques to enhance autonomous vehicle pose estimation accuracy.
-- Designed and debugged ROS2-based control strategies in dynamic environments.
-- Implemented and optimized LiDAR-integrated algorithms for improved localization accuracy.
-
-### **F1TENTH Autonomous Racing Team**  
-**WVU Team Lead** — Morgantown, WV  
-*September 2023 – December 2024*  
--  **2nd place finish** in the **International F1Tenth Autonomous Grand Prix**.
-- Developed path-planning algorithms and integrated sensor data with motor and power systems for efficient decision-making.
-- Optimized motor control using **PID controllers** and **VESC software**, improving system performance.
-
----
 
 ### **Programming Languages & Tools:**
 - **C, C++, Java, Python**  
