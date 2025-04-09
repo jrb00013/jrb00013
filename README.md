@@ -55,14 +55,6 @@ Hi, I'm Joseph Black, a very passionate Computer Engineering student at **West V
 
 ---
 
-## 🚀 What Drives Me
-
-I am passionate about **FPGAs**, **AI**, and **real-time embedded systems**. The ability to build custom hardware architectures that optimize performance for complex algorithms excites me, and I am driven to continue learning and growing in this field.
-
-I am excited to contribute my skills, and I'm particularly interested in working on projects that combine **hardware** and **software** to create innovative, high-performance systems.
-
----
-
 
 ## 🌐 LinkedIn
 - 🔗 [LinkedIn](https://www.linkedin.com/in/joseph-black-wvu)
