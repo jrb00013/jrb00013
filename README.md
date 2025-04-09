@@ -22,6 +22,9 @@ Hi, I'm Joseph Black, a very passionate Computer Engineering student at **West V
 ### **F1TENTH Autonomous Racing**  
 - Optimized autonomous race car performance using PID control, path-planning algorithms, and sensor data integration.
 
+###  **ExamJam**  
+- Interactive study platform for WVU students. Link: https://examjam-firebase.firebaseapp.com/
+
 ### **MSP432 Microcontroller Robot**  
 - Programmed a robot using bare-metal C to interpret sensor data and perform obstacle avoidance.
 
