@@ -11,10 +11,17 @@ Hi, I'm Joseph Black, a very passionate Computer Engineering student at **West V
 - **Kali Linux, Wireshark, AWS, GCP, Azure**  
 - **MATLAB, SolidWorks, Simulink, Quartus Prime, AutoCAD, Unity, Vulkan**
 
-### **Specializations:**
-- **Embedded Systems**: FPGA, ROS, Microcontrollers (MSP432), Sensor Integration, Motor Control  
+### **Web and Network:**
 - **Networking & Security**: VLANs, VPNs, Firewalls, Network Protocols, Penetration Testing, Digital Forensics  
 - **Software Development**: Autonomous Systems, Control Systems, AI, Robotics, Cloud Security
+
+##  Electrical Hardware and Circuit Design
+
+- **Embedded Systems**: FPGA, ROS, Microcontrollers (MSP432), Sensor Integration, Motor Control  
+- **ADC/DAC Interfacing**:Signal acquisition and processing on FPGAs.
+- **Bare Metal Programming**: Low-level applications on ARM Cortex-M microcontrollers.
+- **Digital Filtering**: Created simple digital filters
+- **Diagnostic Equipment**: Skilled in using hands-on lab equipment like multimeters, oscilloscopes and logic analyzers for system debugging.
 
 ---
 ## Recent Projects
@@ -46,15 +53,6 @@ Hi, I'm Joseph Black, a very passionate Computer Engineering student at **West V
 ### **Keke RTOS App (Hobby Project)**  
 - Developed a real-time operating system (RTOS) for stock inventory management, integrating AI and SQL for dynamic decision-making.
 
----
-
-## 🔧 Hardware and Circuit Design
-
-- **ADC/DAC Interfacing**: Developed interfaces for signal acquisition and processing on FPGAs.
-- **Bare Metal Programming**: Implemented low-level applications on ARM Cortex-M microcontrollers.
-- **Digital Filtering**: Created simple digital filters and eager to expand this work.
-- **Complex Algorithm Design**: Developed path-planning algorithms for autonomous systems under dynamic constraints.
-- **Diagnostic Equipment**: Skilled in using oscilloscopes and logic analyzers for system debugging.
 
 ---
 
