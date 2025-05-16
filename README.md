@@ -50,7 +50,7 @@ Hi, I'm Joseph Black, a very passionate Computer Engineering student at **West V
 ### **ASM OS**  
 - Developed a command-line interface for an embedded OS that was 90 percent programmed in x86 ASM.
 
-### **Aamati: Machine Learning VST3 Audio Filtering / Layering Plugin **  
+### **Aamati: Machine Learning VST3 Audio Filtering / Layering Plugin**  
 - Developed a machine learning Python script that filters and layers audio reactively in real time. Cross platform.
 
 ### **JaxK Website**  
