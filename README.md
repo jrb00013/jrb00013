@@ -50,6 +50,12 @@ Hi, I'm Joseph Black, a very passionate Computer Engineering student at **West V
 ### **ASM OS**  
 - Developed a command-line interface for an embedded OS that was 90 percent programmed in x86 ASM.
 
+### **Aamati: Machine Learning VST3 Audio Filtering / Layering Plugin **  
+- Developed a machine learning Python script that filters and layers audio reactively in real time. Cross platform.
+
+### **JaxK Website**  
+- Upcoming Full Stack React website powered with Vite and deployed with Firebase. Functionality is undetermined as of writing.
+
 ### **Keke RTOS App (Hobby Project)**  
 - Developed a real-time operating system (RTOS) for stock inventory management, integrating AI and SQL for dynamic decision-making.
 
@@ -57,6 +63,5 @@ Hi, I'm Joseph Black, a very passionate Computer Engineering student at **West V
 ---
 
 
-## 🌐 LinkedIn
-- 🔗 [LinkedIn](https://www.linkedin.com/in/joseph-black-wvu)
----
+## 🌐 [LinkedIn](https://www.linkedin.com/in/joseph-black-wvu)
+
