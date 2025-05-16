@@ -32,6 +32,9 @@ Hi, I'm Joseph Black, a very passionate Computer Engineering student at **West V
 ###  **ExamJam**  
 - Interactive study platform for WVU students. Link: https://examjam-firebase.firebaseapp.com/
 
+###  **MPX OS**  
+- Built a cooperative multitasking kernel in C and x86 assembly with system calls, interrupt handling, context switching, and modular shell support. Developed custom memory management, PCB handling, a serial driver (polling and interrupt modes), software timer, internal watchdog, and real-time I/O scheduling.
+
 ### **MSP432 Microcontroller Robot**  
 - Programmed a robot using bare-metal C to interpret sensor data and perform obstacle avoidance.
 
@@ -51,13 +54,13 @@ Hi, I'm Joseph Black, a very passionate Computer Engineering student at **West V
 - Developed a command-line interface for an embedded OS that was 90 percent programmed in x86 ASM.
 
 ### **Aamati: Machine Learning VST3 Audio Filtering / Layering Plugin**  
-- Developed a machine learning Python script that filters and layers audio reactively in real time. Cross platform.
+- Current developing a machine learning Python script that filters and layers audio reactively in real time. Cross platform.
 
 ### **JaxK Website**  
 - Upcoming Full Stack React website powered with Vite and deployed with Firebase. Functionality is undetermined as of writing.
 
-### **Keke RTOS App (Hobby Project)**  
-- Developed a real-time operating system (RTOS) for stock inventory management, integrating AI and SQL for dynamic decision-making.
+### **Keke RTOS App**  
+- Current developing a real-time operating system (RTOS) for stock inventory management, integrating AI and SQL for dynamic decision-making.
 
 
 ---
