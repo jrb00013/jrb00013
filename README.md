@@ -1,6 +1,6 @@
 # Joseph Black - Computer Engineering Student | Autonomous Systems | Software Design | Embedded Systems | Robotics | PLC Design | Cybersecurity and Firmware Security
 
-Hi, I'm Joseph Black, a very passionate Computer Engineering student at **West Virginia University**, graduating in **May 2025**.
+Hi I'm Joseph Black! I just graduated from **West Virginia University** in May 2025 and I'm looking for a job. My skills and interests are listed below.
 
 ---
 
