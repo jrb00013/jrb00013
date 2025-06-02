@@ -7,6 +7,7 @@ I'm a Computer Engineering graduate from West Virginia University with a strong 
 Some of my skills and interests are listed below. I have links to some of my uploaded project code by which I recently started pushing updates to again.
 
 Have a good day.
+
 ---
 
 ### **Programming Languages & Tools:**
