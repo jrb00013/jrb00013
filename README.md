@@ -7,27 +7,6 @@ I'm a Computer Engineering graduate from West Virginia University with a strong 
 Some of my skills and interests are listed below. I have links to some of my uploaded project code by which I recently started pushing updates to again.
 
 Have a good day.
-
----
-
-### **Programming Languages & Tools:**
-- **C, C++, Java, Python**  
-- **HTML, CSS, JavaScript, React.js, Node.js, Vue.js, PHP**  
-- **VHDL, Assembly, OpenGL, SQL**  
-- **Kali Linux, Wireshark, AWS, GCP, Azure**  
-- **MATLAB, SolidWorks, Simulink, Quartus Prime, AutoCAD, Unity, Vulkan**
-
-### **Web and Network Skills:**
-- **Networking & Security**: VLANs, VPNs, Firewalls, Network Protocols, Penetration Testing, Digital Forensics  
-- **Software Development**: Security Robotics, Cloud Security
-
-###  Electrical Hardware and Circuit Design Skills
-
-- **Embedded Systems**: FPGA, ROS, Microcontrollers (MSP432), Sensor Integration, Motor Control  
-- **ADC/DAC Interfacing**:Signal acquisition and processing on FPGAs.
-- **Bare Metal Programming**: Low-level applications on ARM Cortex-M microcontrollers.
-- **Digital Filtering**: Created simple digital filters
-- **Diagnostic Equipment**: Skilled in using hands-on lab equipment like multimeters, oscilloscopes and logic analyzers for system debugging.
   
 ---
 ## Most Recent Projects
@@ -64,6 +43,28 @@ Have a good day.
 
 ### **JaxK Website**  
 - Upcoming Full Stack React website powered with Vite and deployed with Firebase. Functionality is undetermined as of writing.
+
+---
+
+### **Programming Languages & Tools:**
+- **C, C++, Java, Python**  
+- **HTML, CSS, JavaScript, React.js, Node.js, Vue.js, PHP**  
+- **VHDL, Assembly, OpenGL, SQL**  
+- **Kali Linux, Wireshark, AWS, GCP, Azure**  
+- **MATLAB, SolidWorks, Simulink, Quartus Prime, AutoCAD, Unity, Vulkan**
+
+### **Web and Network Skills:**
+- **Networking & Security**: VLANs, VPNs, Firewalls, Network Protocols, Penetration Testing, Digital Forensics  
+- **Software Development**: Security Robotics, Cloud Security
+
+###  Electrical Hardware and Circuit Design Skills
+
+- **Embedded Systems**: FPGA, ROS2, Microcontrollers, Sensor Integration, Motor Control  
+- **ADC/DAC Interfacing**: Signal acquisition and processing on FPGAs.
+- **Bare Metal Programming**: Low-level applications on ARM Cortex-M microcontrollers.
+- **Digital Filtering**: Created simple digital filters
+- **Diagnostic Equipment**: Skilled in using hands-on lab equipment like multimeters, oscilloscopes and logic analyzers for system debugging.
+- **Familiar Electrical Hardware & Components**: NVIDIA Jetson, SiC/GaN Power Modules, Texas Instruments DSPs, STM32s, STSPIN Motors, Bosch BNO055, Hokuyo and Ouster Lidars, VESC Speed Controllers, ARM Micocontrollers, Altera FPGA
 
 ---
 
