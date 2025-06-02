@@ -1,4 +1,4 @@
-# Joseph Black - Bachelor of Science in Computer Engineering| Autonomous Systems | Software Design | Embedded Systems | Robotics | PLC Design | Cybersecurity and Firmware Security
+# Joseph Black - Bachelor of Science in Computer Engineering| Interests and skills in: Autonomous Systems, Software Design, Embedded Systems, Robotics, PLC Design Basics, Cybersecurity and Firmware Security
 
 Hi I'm Joseph Black, and I'm currently looking for a job.
 
