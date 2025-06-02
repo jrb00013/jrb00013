@@ -28,7 +28,7 @@ Have a good day.
 - **Bare Metal Programming**: Low-level applications on ARM Cortex-M microcontrollers.
 - **Digital Filtering**: Created simple digital filters
 - **Diagnostic Equipment**: Skilled in using hands-on lab equipment like multimeters, oscilloscopes and logic analyzers for system debugging.
-
+  
 ---
 ## Most Recent Projects
 
