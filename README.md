@@ -30,44 +30,46 @@ Have a good day.
 - **Diagnostic Equipment**: Skilled in using hands-on lab equipment like multimeters, oscilloscopes and logic analyzers for system debugging.
 
 ---
-## Recent Projects
+## Most Recent Projects
 
 ### **F1TENTH Autonomous Racing**  
-- Optimized autonomous race car performance using PID control, path-planning algorithms, and sensor data integration.
+- Led the development of a 1/10th scale autonomous race car as part of WVU's F1TENTH team, achieving 2nd place at the 19th IEEE International F1TENTH Grand Prix. Engineered and tuned custom PID control loops for throttle and steering using VESC firmware, dramatically improving control precision and stability at high speeds. Implemented real-time path planning algorithms including pure pursuit, gap following, and dynamic obstacle avoidance using ROS2, Python, and LiDAR sensor fusion. Served as technical lead, learning ROS2 independently and training team members on framework integration, algorithm deployment, and hardware communication protocols.
 
 ###  **ExamJam**  
-- Interactive study platform for WVU students. Link: https://examjam-firebase.firebaseapp.com/
+- Developed a full-stack collaborative study platform specifically designed for West Virginia University students, providing free access to course-organized flashcards and study materials. Built using React.js frontend with Firebase authentication and MySQL backend, featuring dynamic search functionality, class-based organization, and responsive UI design. Implemented secure user authentication, real-time data synchronization, and intuitive course categorization to eliminate paywalls common in commercial study apps. Collaborated in an Agile development environment with Git version control, contributing to architectural design, component logic, and testing infrastructure.
 
 ###  **MPX OS**  
-- Built a cooperative multitasking kernel in C and x86 assembly with system calls, interrupt handling, context switching, and modular shell support. Developed custom memory management, PCB handling, a serial driver (polling and interrupt modes), software timer, internal watchdog, and real-time I/O scheduling.
+- Designed and implemented a bare-metal cooperative multitasking OS kernel using C and x86 assembly, mimicking early embedded RTOS architectures with precise timing and interrupt control. Developed custom interrupt service routines, system call interfaces, and process management using Process Control Blocks (PCBs) and Memory Control Blocks (MCBs). Implemented full context-switching mechanisms managing register states and stack frames, along with modular shell support, serial drivers (polling and interrupt modes), software timers, and real-time I/O scheduling without relying on existing operating systems.
 
 ### **MSP432 Microcontroller Robot**  
-- Programmed a robot using bare-metal C to interpret sensor data and perform obstacle avoidance.
+- Created a fully functional bootable operating system written in pure x86 assembly, designed to run in real mode on legacy x86 architecture. Developed a custom 512-byte bootloader that initializes CPU, loads kernel from disk using BIOS INT 13h, and implements a command-line shell with keyboard input handling. Integrated FAT12 file system parsing, custom interrupt handlers through IVT modification, and basic memory management with segment:offset addressing. Successfully deployed on PlayStation 2 hardware using Free McBoot and DMS3 modchip, demonstrating low-level hardware interaction and embedded system design principles.
 
 ### **Discord Call of Duty Statistics Bot**  
-- Programmed and deployed a Discord bot used to keep track of player's Call of Duty Ranked Play stats.
+- Developed and deployed a feature-rich Discord bot for gaming community management, integrating with Call of Duty APIs to track ranked play statistics. Implemented RESTful API communication, asynchronous programming patterns, and real-time message parsing for interactive user commands. Features modular event-driven architecture with comprehensive error handling, logging systems, and live testing protocols. Maintains active deployment with version control and community-driven feature updates.
 
 ### **MPX Operating System Kernel**  
 - Designed a cooperative multitasking OS kernel using C and x86 assembly, implementing core system routines and context-switching.
 
 ### **VHDL-Based CPU Design**  
-- Designed a custom 8-bit CPU with VHDL, supporting basic arithmetic, logic operations, and memory-mapped I/O.
+- Engineered a custom 8-bit CPU from scratch using VHDL, emphasizing instruction-level control and finite state machine design. Created custom instruction set, hardcoded ALU, register file, and memory-mapped I/O interface with ModelSim simulation for timing analysis. Implemented FSMs for instruction fetch/decode/execute cycles, addressing real-world timing constraints including clock domain crossing and synchronous resets. Designed architecture supports basic arithmetic, logic operations, and I/O interfacing, laying groundwork for future FPGA-based projects.
 
 ### **MSP432 Microcontroller Robot**  
-- Programmed a robot using bare-metal C to interpret sensor data and perform obstacle avoidance.
+- Programmed an autonomous robot using bare-metal C on MSP432 microcontroller, achieving real-time sensor interpretation and motor control without operating system dependencies. Implemented GPIO-based sensor integration, PWM motor control, and obstacle avoidance algorithms optimized for resource-constrained environments. Developed precise timing mechanisms and interrupt handling for responsive real-time control, demonstrating embedded systems programming and hardware-software integration in autonomous navigation applications.
 
-### **ASM OS**  
-- Developed a command-line interface for an embedded OS that was 90 percent programmed in x86 ASM.
+### **ASM x86 Real Mode OS**  
+- Created a fully functional bootable operating system written in pure x86 assembly, designed to run in real mode on legacy x86 architecture. Developed a custom 512-byte bootloader that initializes CPU, loads kernel from disk using BIOS INT 13h, and implements a command-line shell with keyboard input handling. Integrated FAT12 file system parsing, custom interrupt handlers through IVT modification, and basic memory management with segment:offset addressing. Successfully deployed on PlayStation 2 hardware using Free McBoot and DMS3 modchip, demonstrating low-level hardware interaction and embedded system design principles.
 
 ### **Aamati: Machine Learning VST3 Audio Filtering / Layering Plugin**  
-- Current developing a machine learning Python script that filters and layers audio reactively in real time. Cross platform.
+- Currently developing an intelligent VST3 audio plugin using JUCE framework (C++) and PyTorch for real-time drum rhythm manipulation based on psychoacoustic analysis. Implements machine learning-driven rhythm morphing that dynamically adjusts grooves using energy, intensity, and mood detection. Features real-time MIDI/audio analysis, perception-driven groove engine, and interactive UI for frequency filtering and energy modulation. Trained on labeled MIDI datasets with plans for LSTM/RNN integration and cross-DAW compatibility for professional music production environments.
 
 ### **JaxK Website**  
 - Upcoming Full Stack React website powered with Vite and deployed with Firebase. Functionality is undetermined as of writing.
 
 ### **Keke RTOS App**  
-- Current developing a real-time operating system (RTOS) for stock inventory management, integrating AI and SQL for dynamic decision-making.
+- Currently developing a lightweight real-time operating system that integrates AI decision-making with SQL database management for autonomous stock inventory control. Built using C/C++ with custom RTOS concepts, featuring priority-based task scheduling, message passing, and thread-safe inter-process communication. Incorporates SQLite for real-time inventory tracking and REST API integration for live stock data analysis. Implements AI-powered trend forecasting and autonomous reorder suggestions, simulating edge-device intelligence for IoT and logistics applications with local decision-making capabilities.
 
+### **UDP Probe Network Utiltiy Tool**
+- Built a comprehensive Linux-based command-line network diagnostic tool for UDP health assessment and latency analysis. Implemented custom socket programming in C with precise timing mechanisms for round-trip time calculation, jitter analysis, and packet loss statistics. Features robust logging modules and statistical visualization for network behavior analysis under variable conditions. Designed for network administrators requiring detailed UDP connection diagnostics and performance monitoring capabilities.
 
 ---
 
