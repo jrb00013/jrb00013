@@ -11,11 +11,11 @@ Hi I'm Joseph Black! I just graduated from **West Virginia University** in May 2
 - **Kali Linux, Wireshark, AWS, GCP, Azure**  
 - **MATLAB, SolidWorks, Simulink, Quartus Prime, AutoCAD, Unity, Vulkan**
 
-### **Web and Network:**
+### **Web and Network Skills:**
 - **Networking & Security**: VLANs, VPNs, Firewalls, Network Protocols, Penetration Testing, Digital Forensics  
-- **Software Development**: Autonomous Systems, Control Systems, AI, Robotics, Cloud Security
+- **Software Development**: Security Robotics, Cloud Security
 
-##  Electrical Hardware and Circuit Design
+###  Electrical Hardware and Circuit Design Skills
 
 - **Embedded Systems**: FPGA, ROS, Microcontrollers (MSP432), Sensor Integration, Motor Control  
 - **ADC/DAC Interfacing**:Signal acquisition and processing on FPGAs.
