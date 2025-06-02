@@ -9,7 +9,7 @@ Some of my skills and interests are listed below. I have links to some of my upl
 Have a good day.
   
 ---
-## Most Recent Projects
+## Projects
 
 ### **F1TENTH Autonomous Racing**  
 - Led the development of a 1/10th scale autonomous race car as part of WVU's F1TENTH team, achieving 2nd place at the 19th IEEE International F1TENTH Grand Prix. Engineered and tuned custom PID control loops for throttle and steering using VESC firmware, dramatically improving control precision and stability at high speeds. Implemented real-time path planning algorithms including pure pursuit, gap following, and dynamic obstacle avoidance using ROS2, Python, and LiDAR sensor fusion. Served as technical lead, learning ROS2 independently and training team members on framework integration, algorithm deployment, and hardware communication protocols.
