@@ -4,7 +4,9 @@ Hi I'm Joseph Black!
 
 I'm a 2025 Computer Engineering graduate from West Virginia University with a strong interest in embedded systems, automation, and cybersecurity. I’ve worked on real-time robotics, firmware development, and low-level C programming, including projects involving designing operating systems, utilizing up to date industry standard frameworks like ROS2 and FreeRTOS, handling buffer overflows, and optimizing motor control. I was a team lead for an autonomous racing team, and I also was a research intern who worked on pushing the boundaries of path planning algorithms. I worked outside as a maintence employee for a cemetery for years all while attending school and earning SAS certifications in data analysis and statistical decision-making. I'm passionate about building practical, AI-powered embedded systems and always looking to grow through challenges.
 
-Some of my skills and interests are listed below. I have links to some of my uploaded project code by which I recently started pushing updates to again.
+Some of my skills and interests are listed below.
+
+I have links to some of my uploaded projects by which I maintain the repos for.
 
 Have a good day.
   
