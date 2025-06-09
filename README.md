@@ -28,7 +28,7 @@ Have a good day.
 ### **Aamati: Machine Learning VST3 Audio Filtering / Layering Plugin**  
 - Currently developing an intelligent VST3 audio plugin using JUCE framework (C++) and PyTorch for real-time drum rhythm manipulation based on psychoacoustic analysis. Implements machine learning-driven rhythm morphing that dynamically adjusts grooves using energy, intensity, and mood detection. Features real-time MIDI/audio analysis, perception-driven groove engine, and interactive UI for frequency filtering and energy modulation. Trained on labeled MIDI datasets with plans for LSTM/RNN integration and cross-DAW compatibility for professional music production environments.
 
-### **VHDL-Based CPU Design**  
+### **VHDL RISC-Style CPU with Custom ISA**  
 - Engineered a custom 8-bit CPU from scratch using VHDL, emphasizing instruction-level control and finite state machine design. Created custom instruction set, hardcoded ALU, register file, and memory-mapped I/O interface with ModelSim simulation for timing analysis. Implemented FSMs for instruction fetch/decode/execute cycles, addressing real-world timing constraints including clock domain crossing and synchronous resets. Designed architecture supports basic arithmetic, logic operations, and I/O interfacing, laying groundwork for future FPGA-based projects.
 
 ###  **ExamJam**  
