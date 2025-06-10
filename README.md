@@ -4,7 +4,7 @@ Hi I'm Joseph Black! Welcome to my GitHub Portfolio.
 
 I'm a 2025 Computer Engineering graduate from West Virginia University with a strong interest in embedded systems, automation, and cybersecurity. I’ve worked on real-time robotics, OS and firmware using, automation tools, audio plugins, apps, and websites. I was a team lead for the WVU autonomous racing team, and I also was a research intern at the Intelligent Cyber-physical Systems Research Lab (iCPS Lab) at WVU, who worked on pushing the boundaries of path planning and obstacle avoidance algorithms utilizing sensor fusion data and techniques. 
 
-On top of my technical skills, I've also worked outside during the summer as a maintence employee for a cemetery for years, all while attending school. I learned how to work hard in a team and enjoy the little things while on the job. I have earned SAS certifications in data analysis and statistical decision-making. I'm passionate about building practical, AI-powered embedded systems and always looking to grow through challenges.
+On top of my technical skills, I've also worked outside during the summer as a maintence employee for my hometown cemetery for years, all while attending school. I learned how to work hard in a team and enjoy the little things while on the job. I have earned SAS certifications in data analysis and statistical decision-making. I'm passionate about building practical, AI-powered embedded systems and always looking to grow through challenges.
 
 Some of my skills and interests are listed below. I have links to some of my uploaded projects by which I maintain the repos for.
 
