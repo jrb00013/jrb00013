@@ -19,14 +19,14 @@ Have a good day.
 ### **ASM x86 Real Mode OS**  
 - Created a fully functional bootable operating system written in pure x86 assembly, designed to run in real mode on legacy x86 architecture. Developed a custom 512-byte bootloader that initializes CPU, loads kernel from disk using BIOS INT 13h, and implements a command-line shell with keyboard input handling. Integrated FAT12 file system parsing, custom interrupt handlers through IVT modification, and basic memory management with segment:offset addressing. Successfully deployed on PlayStation 2 hardware using Free McBoot and DMS3 modchip, demonstrating low-level hardware interaction and embedded system design principles.
 
+### **Aamati: Machine Learning VST3 Audio Filtering / Layering Plugin**  
+- Currently developing an early development intelligent VST3 audio plugin using JUCE framework (C++) and PyTorch for real-time drum rhythm manipulation based on psychoacoustic analysis. 
+
 ### **MSP432 Microcontroller Robot**  
 - Programmed a fully autonomous robot using bare-metal C on the MSP432 microcontroller with no operating system. Integrated analog and digital sensors via GPIO and implemented real-time obstacle avoidance logic using timer interrupts and PWM-based motor control. Focused on efficient resource usage, low-latency decision-making, and precise motor speed modulation to achieve responsive navigation in dynamic environments. Demonstrated deep understanding of embedded systems design, peripheral configuration, and hardware-level programming.
 
 ### **MPX OS Kernel**  
 - Designed and implemented a bare-metal cooperative multitasking OS kernel using C and x86 assembly, mimicking early embedded RTOS architectures with precise timing and interrupt control. Developed custom interrupt service routines, system call interfaces, and process management using Process Control Blocks (PCBs) and Memory Control Blocks (MCBs). Implemented full context-switching mechanisms managing register states and stack frames, along with modular shell support, serial drivers (polling and interrupt modes), software timers, and real-time I/O scheduling without relying on existing operating systems.
-
-### **Aamati: Machine Learning VST3 Audio Filtering / Layering Plugin**  
-- Currently developing an early development intelligent VST3 audio plugin using JUCE framework (C++) and PyTorch for real-time drum rhythm manipulation based on psychoacoustic analysis. 
 
 ### **VHDL RISC-Style CPU with Custom ISA**  
 - Engineered a custom 8-bit CPU from scratch using VHDL, emphasizing instruction-level control and finite state machine design. Created custom instruction set, hardcoded ALU, register file, and memory-mapped I/O interface with ModelSim simulation for timing analysis. Implemented FSMs for instruction fetch/decode/execute cycles, addressing real-world timing constraints including clock domain crossing and synchronous resets. Designed architecture supports basic arithmetic, logic operations, and I/O interfacing, laying groundwork for future FPGA-based projects.
