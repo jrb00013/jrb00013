@@ -49,7 +49,7 @@ Have a good day.
 ---
 
 ### **Programming Languages & Tools:**
-- **C, C++, Java, Python, Rust**  
+- **C, C++, Java, Python, Go Rust**  
 - **HTML, CSS, JavaScript, React.js, Node.js, Vue.js, PHP**  
 - **VHDL, Assembly, OpenGL, SQL**  
 - **Kali Linux, Wireshark, AWS, GCP, Azure**  
