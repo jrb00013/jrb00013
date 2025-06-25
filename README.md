@@ -8,7 +8,7 @@ On top of my technical skills, I've also worked outside during my college summer
 
 Some of my skills and interests are listed below. I have links to some of my uploaded projects by which I maintain the repos for.
 
-Thanks for stopping by, have a great day! 
+Thanks for stopping by, enjoy your day! 
   
 ---
 ## Projects
