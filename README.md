@@ -28,6 +28,9 @@ Have a good safe day!
 ###  **ExamJam**  
 - Developed a full-stack collaborative study platform specifically designed for West Virginia University students, providing free access to course-organized flashcards and study materials. Built using React.js frontend with Firebase authentication and MySQL backend, featuring dynamic search functionality, class-based organization, and responsive UI design. Implemented secure user authentication, real-time data synchronization, and intuitive course categorization to eliminate paywalls common in commercial study apps. Collaborated in an Agile development environment with Git version control, contributing to architectural design, component logic, and testing infrastructure.
 
+### **PortGremlin**  
+- Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles through multiple USB device classes (HID keyboard, audio, printer, gamepad, MIDI) with randomized vendor/product IDs to spoof USB identities. Implemented timed USB descriptor switching and VID/PID spoofing using TI’s TivaWare USB library to test host OS device enumeration, driver stability, and security assumptions. Designed optional malformed descriptors to evaluate host resilience against unexpected USB device behaviors.
+
 ### **404NotFound MPX OS**  
 - Designed and implemented a bare-metal cooperative multitasking OS kernel using C and x86 assembly, mimicking early embedded RTOS architectures with precise timing and interrupt control. Developed custom interrupt service routines, system call interfaces, and process management using Process Control Blocks (PCBs) and Memory Control Blocks (MCBs). Implemented full context-switching mechanisms managing register states and stack frames, along with modular shell support, serial drivers (polling and interrupt modes), software timers, and real-time I/O scheduling without relying on existing operating systems.
 
