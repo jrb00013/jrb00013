@@ -44,7 +44,7 @@ Thanks for stopping by, enjoy your day!
 ### **Keke FreeRTOS App**  
 - Currently developing a lightweight real-time operating system that integrates AI decision-making with SQL database management for autonomous stock inventory control. 
 
-### **UDP Probe Network Utiltiy Tool**
+### **UDP Probe Network Utility Tool**
 - Built a comprehensive Linux-based command-line network diagnostic tool for UDP health assessment and latency analysis. Implemented custom socket programming in C with precise timing mechanisms for round-trip time calculation, jitter analysis, and packet loss statistics. Features robust logging modules and statistical visualization for network behavior analysis under variable conditions. Designed for network administrators requiring detailed UDP connection diagnostics and performance monitoring capabilities.
 
 ### **JaxK Website**  
