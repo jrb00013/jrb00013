@@ -41,7 +41,7 @@ Thanks for stopping by, enjoy your day!
 ### **Discord Call of Duty Statistics Bot**  
 - Developed and deployed a feature-rich Discord bot for gaming community management, integrating with Call of Duty API (https://codapi.dev/) to track ranked play statistics. Implemented RESTful API communication, asynchronous programming patterns, and real-time message parsing for interactive user commands. Features modular event-driven architecture with comprehensive error handling, logging systems, and live testing protocols. Maintains active deployment with version control and community-driven feature updates. 
 
-### **Keke RTOS App**  
+### **Keke FreeRTOS App**  
 - Currently developing a lightweight real-time operating system that integrates AI decision-making with SQL database management for autonomous stock inventory control. 
 
 ### **UDP Probe Network Utiltiy Tool**
