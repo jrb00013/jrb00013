@@ -20,17 +20,20 @@ Thanks for stopping by, enjoy your day!
 ### **ASM x86 Real Mode OS**  
 - Created a fully functional bootable operating system written in pure x86 assembly, designed to run in real mode on legacy x86 architecture. Developed a custom 512-byte bootloader that initializes CPU, loads kernel from disk using BIOS INT 13h, and implements a command-line shell with keyboard input handling. Integrated FAT12 file system parsing, custom interrupt handlers through IVT modification, and basic memory management with segment:offset addressing. Successfully deployed on PlayStation 2 hardware using Free McBoot and a DMS3 modchip. Currently updating.
 
-### **Aamati: Machine Learning VST3 Audio Filtering / Layering Plugin**  
+### **Aamati: AI-Powered MIDI Groove Synthesizer VST3 Plugin**  
 - Currently developing an early development intelligent VST3 audio plugin using JUCE framework (C++) and PyTorch for real-time drum rhythm manipulation based on psychoacoustic analysis. 
 
 ### **MSP432 Microcontroller Robot**  
 - Programmed a fully autonomous robot using bare-metal C on the MSP432 microcontroller with no operating system. Integrated analog and digital sensors via GPIO and implemented real-time obstacle avoidance logic using timer interrupts and PWM-based motor control. Focused on efficient resource usage, low-latency decision-making, and precise motor speed modulation to achieve responsive navigation in dynamic environments. Demonstrated deep understanding of embedded systems design, peripheral configuration, and hardware-level programming.
 
-###  **ExamJam**  
+###  **ExamJam: Interactive Full-Stack Study Platform**  
 - Developed a full-stack collaborative study platform specifically designed for West Virginia University students, providing free access to course-organized flashcards and study materials. Built using React.js frontend with Firebase authentication and MySQL backend, featuring dynamic search functionality, class-based organization, and responsive UI design. Implemented secure user authentication, real-time data synchronization, and intuitive course categorization to eliminate paywalls common in commercial study apps. Collaborated in an Agile development environment with Git version control, contributing to architectural design, component logic, and testing infrastructure. Link: https://examjam-firebase.firebaseapp.com/
 
-### **PortGremlin**  
+### **PortGremlin: USB Spoofing Firmware**  
 - Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles through multiple USB device classes (HID keyboard, audio, printer, gamepad, MIDI) with randomized vendor/product IDs to spoof USB identities. Implemented timed USB descriptor switching and VID/PID spoofing using TI’s TivaWare USB library to test host OS device enumeration, driver stability, and security assumptions. Designed malformed descriptors to evaluate host resilience against unexpected USB device behaviors.
+
+### **Lydlr: Multimodal Edge AI Compression System**
+- Developed a real-time multimodal sensor data compression system using ROS 2 and PyTorch, targeting edge devices like Raspberry Pi and NVIDIA Jetson. The system fuses camera, LiDAR, IMU, and audio inputs through convolutional and recurrent neural networks to achieve efficient learned compression with temporal context. Integrated a reinforcement learning-based adaptive compression controller that dynamically balances compression quality and system resource usage, guided by live perceptual quality assessment (LPIPS) and system metrics. Developed synthetic data pipelines for robust simulation and benchmarking, and prepared the model for quantized deployment on resource-constrained hardware.
 
 ### **404NotFound MPX OS**  
 - Designed and implemented a bare-metal cooperative multitasking OS kernel using C and x86 assembly, mimicking early embedded RTOS architectures with precise timing and interrupt control. Developed custom interrupt service routines, system call interfaces, and process management using Process Control Blocks (PCBs) and Memory Control Blocks (MCBs). Implemented full context-switching mechanisms managing register states and stack frames, along with modular shell support, serial drivers (polling and interrupt modes), software timers, and real-time I/O scheduling without relying on existing operating systems.
