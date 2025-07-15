@@ -1,13 +1,13 @@
 # Joseph Black - B.S. in Computer Engineering | Interests and Skills in: Robotics, Embedded Systems, Software Design, Electrical Design, Cybersecurity and Firmware Security
 
 ## About Me
-Hi! Welcome to my GitHub Portfolio!
+Hi, welcome to my GitHub Portfolio!
 
 My name is Joseph Black, and I'm a junior engineer who graduated in 2025 from West Virginia University with a strong interest in machine learning, embedded systems, automation, and cybersecurity. I’ve worked on real-time robotics, OS and firmware development, automation tools, audio plugins, apps, and websites. I was a team lead for the WVU autonomous racing team, and I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab (iCPS Lab) at WVU, who worked on pushing the boundaries of utilizing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms. I also have earned SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects. I'm interested in building dynamic AI-powered embedded systems and always looking to grow through the challenges that come with making them.
 
 On top of my technical skills, I've also worked outside during my college summers as a maintence worker at my hometown cemetery, where I learned how to work with grit but also enjoy the little things while on the job. I'm thankful for the opportunities that I have.
 
-Some of my skills and interests are listed below. I have links to some of my uploaded projects by which I maintain the repos for.
+Some of my skills and interests are listed below. I have links to some of my old uploaded projects by which I maintain the repos for and occasional update. I'm also working on a few new projects as well. 
 
 Thanks for stopping by, enjoy your day! 
   
