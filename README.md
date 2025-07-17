@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Joseph Black
 
-🎓 B.S. in Computer Engineering (May 2025)  
-🤖 Robotics • 🧠 AI • 🔧 Embedded Systems • 🌐 IoT • 🔐 Hardware Security
-
+Welcome to my GitHub Portfolio!
 
 ## About Me
-Hi, welcome to my GitHub Portfolio!
+🎓 B.S. in Computer Engineering  
+🤖 Robotics • 🧠 AI • 🔧 Embedded Systems • 🌐 IoT • 🔐 Hardware Security
 
-My name is Joseph Black, and I'm a junior engineer who graduated in 2025 from West Virginia University with a strong interest in machine learning, embedded systems, automation, and cybersecurity. I’ve worked on real-time robotics, OS and firmware development, automation tools, audio plugins, apps, and websites. I was a team lead for the WVU autonomous racing team, and I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab (iCPS Lab) at WVU, who worked on pushing the boundaries of utilizing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms. I also have earned SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects. I'm interested in building dynamic AI-powered embedded systems and always looking to grow through the challenges that come with making them.
+I'm a junior engineer who just graduated in 2025 from West Virginia University with a strong interest in machine learning, embedded systems, automation, and cybersecurity. I’ve worked on real-time robotics, OS and firmware development, automation tools, audio plugins, apps, and websites. I was a team lead for the WVU autonomous racing team, and I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab (iCPS Lab) at WVU, who worked on pushing the boundaries of utilizing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms. I also have earned SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects. I'm interested in building dynamic AI-powered embedded systems and always looking to grow through the challenges that come with making them.
 
 On top of my technical skills, I've also worked outside during my college summers as a maintence worker at my hometown cemetery, where I learned how to work with grit but also enjoy the little things while on the job. I'm thankful for the opportunities that I have.
 
