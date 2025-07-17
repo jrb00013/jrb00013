@@ -3,6 +3,8 @@
 ### 🎓 B.S. in Computer Engineering @ WVU (2025)  
 Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Hardware
 
+### 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu)
+
 ## Welcome to my GitHub Portfolio!
 
 ## 📊 Top Languages
@@ -80,10 +82,7 @@ Thanks for stopping by, enjoy your day!
 - **Diagnostic Equipment**: Skilled in using hands-on lab equipment like multimeters, oscilloscopes and logic analyzers for system debugging.
 - **Familiar Electrical Hardware & Components**: NVIDIA Jetson, SiC/GaN Power Modules, Texas Instruments DSPs, STM32s, STSPIN Motors, Bosch BNO055, Hokuyo and Ouster Lidars, VESC Speed Controllers, ARM Micocontrollers, Altera FPGA
 
----
 
-
-## 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu)
 
 
 
