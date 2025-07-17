@@ -113,7 +113,6 @@ Thanks for stopping by, enjoy your day!
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
 ![nRF](https://img.shields.io/badge/nRF-005F87?style=flat-square)
-![TI](https://img.shields.io/badge/Texas Instruments-A00000?style=flat-square)
 ![Altera FPGA](https://img.shields.io/badge/Altera-0071C5?style=flat-square)
 
 
