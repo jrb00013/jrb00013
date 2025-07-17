@@ -1,7 +1,7 @@
 
 # Joseph Black
 ### 🎓 B.S. in Computer Engineering @ WVU (2025)  
-### Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Hardware
+Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Hardware
 
 ## Welcome to my GitHub Portfolio!
 
