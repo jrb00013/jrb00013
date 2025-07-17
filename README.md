@@ -1,4 +1,6 @@
- # Joe Black | B.S. in Computer Engineering | Interests: Robotics, AI, Embedded Systems, IoT, Security Hardware 
+ # Joe Black 
+
+## B.S. in Computer Engineering | Interests: Robotics, AI, Embedded Systems, IoT, Security Hardware 
 
 ## About Me
 Hi, welcome to my GitHub Portfolio!
