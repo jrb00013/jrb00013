@@ -1,4 +1,4 @@
-# Welcome to my GitHub Portfolio
+# Welcome to my GitHub Portfolio!
 
 ## Joseph Black
 ### 🎓 B.S. in Computer Engineering @ WVU (2025)  
