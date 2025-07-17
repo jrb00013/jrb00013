@@ -1,7 +1,6 @@
- # Joe Black 
+ # Joseph Black | B.S. in Computer Engineering, West Virginia University
 
-## B.S. in Computer Engineering, West Virginia University
-Interests: Robotics, AI, Embedded Systems, IoT, Security Hardware 
+## Robotics, AI, Embedded Systems, IoT, Security Hardware 
 
 
 ## About Me
