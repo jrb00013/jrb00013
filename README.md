@@ -1,6 +1,6 @@
 # Welcome to my GitHub Portfolio!
 
-## My name is Joseph Black and I enjoy building intelligent systems.
+## My name is Joseph Black, and I enjoy building intelligent systems...
 ### 🎓 B.S. in Computer Engineering @ WVU (2025)  
 ### Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Hardware
 
