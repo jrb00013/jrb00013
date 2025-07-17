@@ -1,4 +1,4 @@
-# Joseph Black - B.S. in Computer Engineering | Interests and Skills in: Robotics, Embedded Systems, Software Design, Electrical Design, Cybersecurity and Firmware Security
+#*Joe Black*
 
 ## About Me
 Hi, welcome to my GitHub Portfolio!
