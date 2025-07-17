@@ -3,10 +3,6 @@
 ### 🎓 B.S. in Computer Engineering @ WVU (2025)  
 Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Hardware
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 
 # 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu)
 
@@ -69,26 +65,56 @@ Thanks for stopping by, enjoy your day!
 ---
 
 ### **Programming Languages & Tools:**
-- **C, C++, Java, Python, Go Rust**  
-- **HTML, CSS, JavaScript, React.js, Node.js, Vue.js, PHP**  
-- **VHDL, Assembly, OpenGL, SQL**  
-- **Kali Linux, Wireshark, AWS, GCP, Azure**  
-- **MATLAB, SolidWorks, Simulink, Quartus Prime, AutoCAD, Unity, Vulkan**
-
-### **Web and Network Skills:**
-- **Networking & Security**: VLANs, VPNs, Firewalls, Network Protocols, Penetration Testing, Digital Forensics  
-- **Software Development**: Security Robotics, Cloud Security
-
-###  Electrical Hardware and Circuit Design Skills
-
-- **Embedded Systems**: FPGA, ROS2, Microcontrollers, Sensor Integration, Motor Control  
-- **ADC/DAC Interfacing**: Signal acquisition and processing on FPGAs.
-- **Bare Metal Programming**: Low-level applications on ARM Cortex-M microcontrollers.
-- **Digital Filtering**: Created simple digital filters
-- **Diagnostic Equipment**: Skilled in using hands-on lab equipment like multimeters, oscilloscopes and logic analyzers for system debugging.
-- **Familiar Electrical Hardware & Components**: NVIDIA Jetson, SiC/GaN Power Modules, Texas Instruments DSPs, STM32s, STSPIN Motors, Bosch BNO055, Hokuyo and Ouster Lidars, VESC Speed Controllers, ARM Micocontrollers, Altera FPGA
-
-
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cpp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![XML](https://img.shields.io/badge/XML-E44D26?style=flat-square)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-452F84?style=flat-square)
+![UART](https://img.shields.io/badge/UART-555555?style=flat-square)
+![I2C](https://img.shields.io/badge/I2C-003366?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=solidworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat-square)
+![LTSpice](https://img.shields.io/badge/LTSpice-A4373A?style=flat-square)
+![ModelSim](https://img.shields.io/badge/ModelSim-005F87?style=flat-square)
+![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=flat-square)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E34F26?style=flat-square&logo=autodesk&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-B61C1C?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
+![nRF](https://img.shields.io/badge/nRF-005F87?style=flat-square)
+![TI](https://img.shields.io/badge/Texas Instruments-A00000?style=flat-square)
+![Altera FPGA](https://img.shields.io/badge/Altera-0071C5?style=flat-square)
 
 
 
