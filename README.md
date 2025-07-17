@@ -2,15 +2,19 @@
 # Joseph Black
 ### 🎓 B.S. in Computer Engineering @ WVU (2025)  
 Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Hardware
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
 
 # 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu)
 
 ## Welcome to my GitHub Portfolio!
 
 ## 📊  Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=jrb00013&theme=radical)
 ![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=pie&theme=radical)
+
 
 ## 📝  About Me
 
