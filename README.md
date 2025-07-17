@@ -1,4 +1,7 @@
- # Joseph Black | B.S. in Computer Engineering | Robotics, AI, Embedded Systems, IoT, Security Hardware 
+# 👋 Hi, I'm Joseph Black
+
+🎓 B.S. in Computer Engineering (May 2025)  
+🤖 Robotics • 🧠 AI • 🔧 Embedded Systems • 🌐 IoT • 🔐 Hardware Security
 
 
 ## About Me
