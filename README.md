@@ -5,6 +5,10 @@
 ### Building intelligent, real-time software and hardware systems.
 ### Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Hardware
 
+## 📊 Quick Stats
+
+![Joseph’s GitHub stats](https://github-readme-stats.vercel.app/api?username=jrb00013&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=compact&theme=radical)
 
 
 ## About Me
