@@ -7,11 +7,11 @@ Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Har
 
 ## Welcome to my GitHub Portfolio!
 
-## 📊 Top Languages
+## 📊  Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=compact&theme=radical)
 
 
-## 📝 About Me
+## 📝  About Me
 
 I'm a junior engineer who just graduated from West Virginia University in 2025. I've worked on real-time robotics, OS and firmware development, automation tools, audio plugins, apps, and websites. I was a team lead for the WVU autonomous racing team, and I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab (iCPS Lab) at WVU, who worked on pushing the boundaries of utilizing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms. I also have earned SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects. I'm interested in building dynamic AI-powered embedded systems and always looking to grow through the challenges that come with making them.
 
@@ -22,7 +22,7 @@ Some of my skills and interests are listed below. I have links to some of my old
 Thanks for stopping by, enjoy your day! 
   
 ---
-## 🔧 Projects
+## 🔧  Projects
 
 ### **F1TENTH Autonomous Racing**  
 - Led the development of a 1/10th scale autonomous race car as part of WVU's F1TENTH team, achieving 2nd place at the 19th IEEE International F1TENTH Grand Prix. Engineered and tuned custom PID control loops for throttle and steering using VESC firmware, dramatically improving control precision and stability at high speeds. Implemented real-time path planning algorithms including pure pursuit, gap following, and dynamic obstacle avoidance using ROS2, Python, and LiDAR sensor fusion. Served as technical lead, learning ROS2 independently and training team members on framework integration, algorithm deployment, and hardware communication protocols.
