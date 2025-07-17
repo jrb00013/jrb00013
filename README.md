@@ -1,6 +1,8 @@
  # Joe Black 
 
-## B.S. in Computer Engineering | Interests: Robotics, AI, Embedded Systems, IoT, Security Hardware 
+## B.S. in Computer Engineering, West Virginia University
+Interests: Robotics, AI, Embedded Systems, IoT, Security Hardware 
+
 
 ## About Me
 Hi, welcome to my GitHub Portfolio!
