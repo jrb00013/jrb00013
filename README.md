@@ -1,4 +1,4 @@
-#*Joe Black*
+ # Joe Black | B.S. in Computer Engineering | Robotics, AI, Embedded Systems, IoT, Security Hardware 
 
 ## About Me
 Hi, welcome to my GitHub Portfolio!
