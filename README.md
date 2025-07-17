@@ -2,6 +2,7 @@
 # Joseph Black
 ### 🎓 B.S. in Computer Engineering @ WVU (2025)  
 Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Hardware
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
