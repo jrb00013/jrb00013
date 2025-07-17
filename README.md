@@ -7,9 +7,12 @@ Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Har
 
 ## Welcome to my GitHub Portfolio!
 
-## 📊  Top Languages
+## 📊  Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=compact&theme=radical)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=jrb00013&theme=radical)
+[![My GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jrb00013&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![trophy](https://github-profile-trophy.vercel.app/?username=jrb00013&theme=darkhub)
+![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=pie&theme=radical)
 
 ## 📝  About Me
 
