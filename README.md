@@ -81,4 +81,7 @@ Thanks for stopping by, enjoy your day!
 
 ## 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jrb00013.readme)
+
+
 
