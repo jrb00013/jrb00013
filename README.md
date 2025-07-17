@@ -1,8 +1,7 @@
 # Welcome to my GitHub Portfolio!
 
-## Joseph Black
+## My name is Joseph Black and I enjoy building intelligent systems.
 ### 🎓 B.S. in Computer Engineering @ WVU (2025)  
-### Building intelligent, real-time software and hardware systems.
 ### Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Hardware
 
 ## 📊 Top Languages
@@ -11,7 +10,7 @@
 
 ## About Me
 
-My name is Joseph Black, and I'm a junior engineer who just graduated from West Virginia University in 2025. I've worked on real-time robotics, OS and firmware development, automation tools, audio plugins, apps, and websites. I was a team lead for the WVU autonomous racing team, and I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab (iCPS Lab) at WVU, who worked on pushing the boundaries of utilizing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms. I also have earned SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects. I'm interested in building dynamic AI-powered embedded systems and always looking to grow through the challenges that come with making them.
+I'm a junior engineer who just graduated from West Virginia University in 2025. I've worked on real-time robotics, OS and firmware development, automation tools, audio plugins, apps, and websites. I was a team lead for the WVU autonomous racing team, and I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab (iCPS Lab) at WVU, who worked on pushing the boundaries of utilizing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms. I also have earned SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects. I'm interested in building dynamic AI-powered embedded systems and always looking to grow through the challenges that come with making them.
 
 On top of my technical skills, I've also worked outside during my college summers as a maintence worker at my hometown cemetery, where I learned how to work with grit but also enjoy the little things while on the job. I'm thankful for the opportunities that I have.
 
