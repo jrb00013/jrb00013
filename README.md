@@ -2,7 +2,7 @@
 🎓 Computer Engineering @ WVU (2025)  
 🚀 Building intelligent, real-time systems in Robotics, AI, Embedded, IoT, and Secure Hardware
 
-Welcome to my GitHub Portfolio!
+### Welcome to my GitHub Portfolio!
 
 ## About Me
 
