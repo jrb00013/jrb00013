@@ -28,16 +28,15 @@ Thanks for stopping by, enjoy your day!
 
 ### **F1TENTH Autonomous Racing**  
 - Led the development of a 1/10th scale autonomous race car as part of WVU's F1TENTH team, achieving 2nd place at the 19th IEEE International F1TENTH Grand Prix. Engineered and tuned custom PID control loops for throttle and steering using VESC firmware, dramatically improving control precision and stability at high speeds. Implemented real-time path planning algorithms including pure pursuit, gap following, and dynamic obstacle avoidance using ROS2, Python, and LiDAR sensor fusion. Served as technical lead, learning ROS2 independently and training team members on framework integration, algorithm deployment, and hardware communication protocols.
-- 
-
-### **ASM x86 Real Mode OS**  
-- Created a fully functional bootable operating system written in pure x86 assembly, designed to run in real mode on legacy x86 architecture. Developed a custom 512-byte bootloader that initializes CPU, loads kernel from disk using BIOS INT 13h, and implements a command-line shell with keyboard input handling. Integrated FAT12 file system parsing, custom interrupt handlers through IVT modification, and basic memory management with segment:offset addressing. Successfully deployed on PlayStation 2 hardware using Free McBoot and a DMS3 modchip. Currently updating.
 
 ### **Aamati: AI-Powered MIDI Groove Synthesizer VST3 Plugin**  
 - Developing an early development intelligent VST3 audio plugin using JUCE framework (C++) and PyTorch for real-time MIDI rhythm manipulation based on psychoacoustic 
 
 ### **Lydlr: Multimodal Edge AI Compression System**
 - Currently designing a real-time multimodal sensor data compression system using ROS 2 and PyTorch, targeting edge devices. At the moment, I'm deploying my nodes onto a Raspberry Pi, and eventually plan to utilize an NVIDIA Jetson. The system fuses camera, LiDAR, IMU, and audio inputs through convolutional and recurrent neural networks to achieve efficient learned compression with temporal context. Integrated a reinforcement learning-based adaptive compression controller that dynamically balances compression quality and system resource usage, guided by live perceptual quality assessment (LPIPS) and system metrics. Developed synthetic data pipelines for robust simulation and benchmarking, and prepared the model for quantized deployment on resource-constrained hardware.
+
+### **ASM x86 Real Mode OS**  
+- Created a fully functional bootable operating system written in pure x86 assembly, designed to run in real mode on legacy x86 architecture. Developed a custom 512-byte bootloader that initializes CPU, loads kernel from disk using BIOS INT 13h, and implements a command-line shell with keyboard input handling. Integrated FAT12 file system parsing, custom interrupt handlers through IVT modification, and basic memory management with segment:offset addressing. Successfully deployed on PlayStation 2 hardware using Free McBoot and a DMS3 modchip. Currently updating.
 
 ### **PortGremlin: USB Spoofing Firmware**  
 - Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles through multiple USB device classes (HID keyboard, audio, printer, gamepad, MIDI) with randomized vendor/product IDs to spoof USB identities. Implemented timed USB descriptor switching and VID/PID spoofing using TI’s TivaWare USB library to test host OS device enumeration, driver stability, and security assumptions. Designed malformed descriptors to evaluate host resilience against unexpected USB device behaviors.
