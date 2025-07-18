@@ -1,10 +1,10 @@
 
 # Joseph Black
 ### 🎓 B.S. in Computer Engineering @ WVU (May 2025)  
-Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Hardware
+Interests: Robotics, AI, Embedded, IoT, Automation, and Secure Hardware
 
 
-# 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu) ![Aspiring Robotics Dev](https://img.shields.io/badge/Robotics-crimson?logo=robot) ![Aspiring AI Dev](https://img.shields.io/badge/AI-cyan?logo=robot) ![Aspiring ML Dev](https://img.shields.io/badge/ML-green?logo=robot) ![Aspiring Embedded Dev](https://img.shields.io/badge/Embedded-blue?logo=robot) ![Aspiring Application Dev](https://img.shields.io/badge/Application-Engineering-grey?logo=robot) ![Aspiring Firmware Engineer](https://img.shields.io/badge/Firmware-orange?logo=robot) ![Aspiring Cybersecurity Professional](https://img.shields.io/badge/Cybersecurity-purple?logo=robot) ![Aspiring Electrical Engineer](https://img.shields.io/badge/Electrical-Systems-gold?logo=robot) 
+# 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu) ![Aspiring Robotics Dev](https://img.shields.io/badge/Robotics-crimson?logo=robot) ![Aspiring AI Dev](https://img.shields.io/badge/AI-cyan?logo=robot) ![Aspiring ML Dev](https://img.shields.io/badge/ML-green?logo=robot) ![Aspiring Embedded Dev](https://img.shields.io/badge/Embedded-blue?logo=robot) 
 
 ## Welcome to my GitHub Portfolio!
 
