@@ -12,7 +12,7 @@ Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Har
 ![GitHub Streak](https://streak-stats.demolab.com?user=jrb00013&theme=radical)
 ![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=pie&theme=radical)
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/lydlr?color=blue&label=Last%2520Commit)
-![Code Quality](https://img.shields.io/codefactor/grade/github/jrb00013/lydlr?color=blue)
+![Code Quality](https://img.shields.io/codefactor/grade/github/jrb00013/lydlr)
 
 ## 📝  About Me
 
