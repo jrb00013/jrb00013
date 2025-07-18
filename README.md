@@ -4,7 +4,7 @@
 Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Hardware
 
 
-# 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu) ![Aspiring Robotics Dev]https://img.shields.io/badge/Robotics-Enthusiast-FF6F00?logo=robot
+# 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu) ![Aspiring Robotics Dev](https://img.shields.io/badge/Robotics-Enthusiast-FF6F00?logo=robot)
 
 ## Welcome to my GitHub Portfolio!
 
