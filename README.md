@@ -1,6 +1,6 @@
 
 # Joseph Black
-### 🎓 B.S. in Computer Engineering @ WVU (2025)  
+### 🎓 B.S. in Computer Engineering @ WVU (May 2025)  
 Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Hardware
 
 
