@@ -4,7 +4,7 @@
 Interests: Robotics, AI, Embedded, IoT, Automation, Cybersecurity and Secure Hardware
 
 
-# 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu) ![Aspiring Robotics Dev](https://img.shields.io/badge/Robotics-crimson?logo=robot) ![Aspiring AI Dev](https://img.shields.io/badge/ML-green?logo=robot) ![Aspiring Embedded Dev](https://img.shields.io/badge/Embedded-blue?logo=robot) ![Aspiring Application Dev](https://img.shields.io/badge/Applications-yellow?logo=robot) ![Aspiring Cybersecurity Professional](https://img.shields.io/badge/Cybersecurity-light-blue?logo=robot) 
+# 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu) ![Aspiring Robotics Dev](https://img.shields.io/badge/Robotics-crimson?logo=robot) ![Aspiring AI Dev](https://img.shields.io/badge/ML-green?logo=robot) ![Aspiring Embedded Dev](https://img.shields.io/badge/Embedded-blue?logo=robot) ![Aspiring Application Dev](https://img.shields.io/badge/Applications-yellow?logo=robot) ![Aspiring Firmware Engineer](https://img.shields.io/badge/Firmware-orange?logo=robot) ![Aspiring Cybersecurity Professional](https://img.shields.io/badge/Cybersecurity-purple?logo=robot) 
 
 ## Welcome to my GitHub Portfolio!
 
