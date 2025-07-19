@@ -71,7 +71,10 @@ Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles
   <summary><strong>ExamJam: Interactive Full-Stack Study Platform</strong></summary>
 
 Developed a full-stack collaborative study platform specifically designed for West Virginia University students, providing free access to course-organized flashcards and study materials. Built using React.js frontend with Firebase authentication and MySQL backend, featuring dynamic search functionality, class-based organization, and responsive UI design. Implemented secure user authentication, real-time data synchronization, and intuitive course categorization to eliminate paywalls common in commercial study apps. Collaborated in an Agile development environment with Git version control, contributing to architectural design, component logic, and testing infrastructure.  
-[Link](https://examjam-firebase.firebaseapp.com/)
+
+[Live App](https://examjam-firebase.firebaseapp.com/)  
+[GitHub Repo](https://github.com/WVU-CS230-2024-01-Group01/exam-jam)  
+![Last Commit](https://img.shields.io/github/last-commit/WVU-CS230-2024-01-Group01/exam-jam?color=orange&label=ExamJam-Last-Commit)
 
 
 </details>
@@ -79,8 +82,9 @@ Developed a full-stack collaborative study platform specifically designed for We
 <details>
   <summary><strong>404NotFound MPX OS</strong></summary>
 
-Designed and implemented a bare-metal cooperative multitasking OS kernel using C and x86 assembly, mimicking early embedded RTOS architectures with precise timing and interrupt control. Developed custom interrupt service routines, system call interfaces, and process management using Process Control Blocks (PCBs) and Memory Control Blocks (MCBs). Implemented full context-switching mechanisms managing register states and stack frames, along with modular shell support, serial drivers (polling and interrupt modes), software timers, and real-time I/O scheduling without relying on existing operating systems.
+Designed and implemented a cooperative multitasking OS kernel using C and x86 assembly, mimicking early embedded RTOS architectures with precise timing and interrupt control. Developed custom interrupt service routines, system call interfaces, and process management using Process Control Blocks (PCBs) and Memory Control Blocks (MCBs). Implemented full context-switching mechanisms managing register states and stack frames, along with modular shell support, serial drivers (polling and interrupt modes), software timers, and real-time I/O scheduling without relying on existing operating systems.
 
+[Group GitHub](https://github.com/WVU-CS450/404NotFound/)
 </details>
 
 <details>
@@ -89,6 +93,7 @@ Designed and implemented a bare-metal cooperative multitasking OS kernel using C
 Programmed a fully autonomous robot using bare-metal C on the MSP432 microcontroller with no operating system. Integrated analog and digital sensors via GPIO and implemented real-time obstacle avoidance logic using timer interrupts and PWM-based motor control. Focused on efficient resource usage, low-latency decision-making, and precise motor speed modulation to achieve responsive navigation in dynamic environments. Demonstrated deep understanding of embedded systems design, peripheral configuration, and hardware-level programming.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/MSP432BOT?color=teal&label=MSP432BOT-Last-Commit)
+
 </details>
 
 <details>
