@@ -41,7 +41,7 @@ Developing an early development intelligent VST3 audio plugin using JUCE framewo
 <details>
   <summary><strong>Lydlr: Multimodal Edge AI Compression System</strong></summary>
 
-Currently designing a real-time multimodal sensor data compression system using ROS 2 and PyTorch, targeting edge devices. At the moment, I'm deploying my nodes onto a Raspberry Pi, and eventually plan to utilize an NVIDIA Jetson. The system fuses camera, LiDAR, IMU, and audio inputs through convolutional and recurrent neural networks to achieve efficient learned compression with temporal context. Integrated a reinforcement learning-based adaptive compression controller that dynamically balances compression quality and system resource usage, guided by live perceptual quality assessment (LPIPS) and system metrics. I also prepared the data for quantization for AI edge hardware.
+Currently designing a real-time multimodal sensor data compression system using ROS2 and PyTorch, targeting edge devices. At the moment, I'm deploying my nodes onto a Raspberry Pi, and eventually plan to utilize an NVIDIA Jetson. The system fuses camera, LiDAR, IMU, and audio inputs through convolutional and recurrent neural networks to achieve efficient learned compression with temporal context. Integrated a reinforcement learning-based adaptive compression controller that dynamically balances compression quality and system resource usage, guided by live perceptual quality assessment (LPIPS) and system metrics. I also prepared the data for quantization for AI edge hardware.
 
 </details>
 
