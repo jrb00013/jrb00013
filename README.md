@@ -73,7 +73,9 @@ Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles
 Developed a full-stack collaborative study platform specifically designed for West Virginia University students, providing free access to course-organized flashcards and study materials. Built using React.js frontend with Firebase authentication and MySQL backend, featuring dynamic search functionality, class-based organization, and responsive UI design. Implemented secure user authentication, real-time data synchronization, and intuitive course categorization to eliminate paywalls common in commercial study apps. Collaborated in an Agile development environment with Git version control, contributing to architectural design, component logic, and testing infrastructure.  
 
 [Live App](https://examjam-firebase.firebaseapp.com/)  
+
 [GitHub Repo](https://github.com/WVU-CS230-2024-01-Group01/exam-jam)  
+
 ![Last Commit](https://img.shields.io/github/last-commit/WVU-CS230-2024-01-Group01/exam-jam?color=purple&label=ExamJam-Last-Commit)
 
 
@@ -85,6 +87,7 @@ Developed a full-stack collaborative study platform specifically designed for We
 Designed and implemented a cooperative multitasking OS kernel using C and x86 assembly, mimicking early embedded RTOS architectures with precise timing and interrupt control. Developed custom interrupt service routines, system call interfaces, and process management using Process Control Blocks (PCBs) and Memory Control Blocks (MCBs). Implemented full context-switching mechanisms managing register states and stack frames, along with modular shell support, serial drivers (polling and interrupt modes), software timers, and real-time I/O scheduling without relying on existing operating systems.
 
 [Group GitHub](https://github.com/WVU-CS450/404NotFound/)
+
 ![Last Commit](https://img.shields.io/github/last-commit/WVU-CS450/404NotFound?color=gold&label=404NotFound-Last-Commit)
 
 </details>
