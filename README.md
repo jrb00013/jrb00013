@@ -38,7 +38,7 @@ Led the development of a 1/10th scale autonomous race car as part of WVU's F1TEN
 
 Developing an early development intelligent VST3 audio plugin using JUCE framework (C++) and PyTorch for real-time MIDI rhythm manipulation based on psychoacoustic modeling.
 
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Aamati?color=blue&label=Aamati-Last-Commit)
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Aamati?color=green&label=Aamati-Last-Commit)
 </details>
 
 <details>
@@ -74,7 +74,7 @@ Developed a full-stack collaborative study platform specifically designed for We
 
 [Live App](https://examjam-firebase.firebaseapp.com/)  
 [GitHub Repo](https://github.com/WVU-CS230-2024-01-Group01/exam-jam)  
-![Last Commit](https://img.shields.io/github/last-commit/WVU-CS230-2024-01-Group01/exam-jam?color=orange&label=ExamJam-Last-Commit)
+![Last Commit](https://img.shields.io/github/last-commit/WVU-CS230-2024-01-Group01/exam-jam?color=purple&label=ExamJam-Last-Commit)
 
 
 </details>
@@ -85,7 +85,7 @@ Developed a full-stack collaborative study platform specifically designed for We
 Designed and implemented a cooperative multitasking OS kernel using C and x86 assembly, mimicking early embedded RTOS architectures with precise timing and interrupt control. Developed custom interrupt service routines, system call interfaces, and process management using Process Control Blocks (PCBs) and Memory Control Blocks (MCBs). Implemented full context-switching mechanisms managing register states and stack frames, along with modular shell support, serial drivers (polling and interrupt modes), software timers, and real-time I/O scheduling without relying on existing operating systems.
 
 [Group GitHub](https://github.com/WVU-CS450/404NotFound/)
-![Last Commit](https://img.shields.io/github/last-commit/WVU-CS450/404NotFound?color=purple&label=404NotFound-Last-Commit)
+![Last Commit](https://img.shields.io/github/last-commit/WVU-CS450/404NotFound?color=gray&label=404NotFound-Last-Commit)
 
 </details>
 
@@ -120,7 +120,7 @@ Developed and deployed a feature-rich Discord bot for gaming community managemen
 
 Built a comprehensive Linux-based command-line network diagnostic tool for UDP health assessment and latency analysis. Implemented custom socket programming in C with precise timing mechanisms for round-trip time calculation, jitter analysis, and packet loss statistics. Features robust logging modules and statistical visualization for network behavior analysis under variable conditions. Designed for network administrators requiring detailed UDP connection diagnostics and performance monitoring capabilities.
 
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/udp-probe?color=green&label=udp-probe-Last-Commit)
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/udp-probe?color=cyan&label=udp-probe-Last-Commit)
 
 
 </details>
@@ -129,7 +129,7 @@ Built a comprehensive Linux-based command-line network diagnostic tool for UDP h
 
 Upcoming Full Stack React website powered with Vite and deployed with Firebase. Functionality is undetermined as of writing.
 
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=gray&label=JaxK-Last-Commit)
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=pink&label=JaxK-Last-Commit)
 </details>
 
 ---
