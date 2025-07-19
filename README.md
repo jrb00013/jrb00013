@@ -10,8 +10,7 @@ Interests: Robotics, AI, Embedded, IoT, Automation, and Secure Hardware
 ## 📊  Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=jrb00013&theme=radical)
 ![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=pie&theme=radical)
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/lydlr?color=crimson&label=Lydlr-Last-Commit)
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Aamati?color=green&label=Aamati-Last-Commit)
+
 ## 📝  About Me
 
 I'm a junior engineer who just graduated from West Virginia University in 2025. I've worked on real-time robotics, OS and firmware development, automation tools, audio plugins, apps, and websites. I was a team lead for the WVU autonomous racing team, and I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab ([iCPS Lab](https://sites.google.com/site/amrselwakeel/intelligent-cyber-physical-systems-research-lab-icps-lab)) at WVU, who worked with utilizing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms. I also have earned SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects. I'm interested in building dynamic AI-powered embedded systems and always looking to grow through the challenges that come with making them.
