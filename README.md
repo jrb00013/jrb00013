@@ -85,6 +85,8 @@ Developed a full-stack collaborative study platform specifically designed for We
 Designed and implemented a cooperative multitasking OS kernel using C and x86 assembly, mimicking early embedded RTOS architectures with precise timing and interrupt control. Developed custom interrupt service routines, system call interfaces, and process management using Process Control Blocks (PCBs) and Memory Control Blocks (MCBs). Implemented full context-switching mechanisms managing register states and stack frames, along with modular shell support, serial drivers (polling and interrupt modes), software timers, and real-time I/O scheduling without relying on existing operating systems.
 
 [Group GitHub](https://github.com/WVU-CS450/404NotFound/)
+![Last Commit](https://img.shields.io/github/last-commit/WVU-CS450/404NotFound?color=purple&label=404NotFound-Last-Commit)
+
 </details>
 
 <details>
