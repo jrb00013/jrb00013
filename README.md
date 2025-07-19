@@ -33,7 +33,6 @@ Led the development of a 1/10th scale autonomous race car as part of WVU's F1TEN
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/F1TENTH?color=blue&label=F1TENTH-Last-Commit)
 </details>
-</details>
 
 <details>
   <summary><strong>Aamati: AI-Powered MIDI Groove Synthesizer VST3 Plugin</strong></summary>
