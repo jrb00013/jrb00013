@@ -120,10 +120,12 @@ Built a comprehensive Linux-based command-line network diagnostic tool for UDP h
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/udp-probe?color=green&label=udp-probe-Last-Commit)
 
 
+</details>
 <details>
   <summary><strong>JaxK Website</strong></summary>
 
 Upcoming Full Stack React website powered with Vite and deployed with Firebase. Functionality is undetermined as of writing.
+
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=gray&label=JaxK-Last-Commit)
 </details>
 
