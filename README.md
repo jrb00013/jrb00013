@@ -103,6 +103,7 @@ Engineered a custom 8-bit CPU from scratch using VHDL, emphasizing instruction-l
 
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/vhdl-cpu?color=indigo&label=VHDL-CPU-Last-Commit)
+</details>
 
 <details>
   <summary><strong>Discord Call of Duty Statistics Bot</strong></summary>
