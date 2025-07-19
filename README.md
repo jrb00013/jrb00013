@@ -38,6 +38,7 @@ Led the development of a 1/10th scale autonomous race car as part of WVU's F1TEN
   <summary><strong>Aamati: AI-Powered MIDI Groove Synthesizer VST3 Plugin</strong></summary>
 
 Developing an early development intelligent VST3 audio plugin using JUCE framework (C++) and PyTorch for real-time MIDI rhythm manipulation based on psychoacoustic modeling.
+
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Aamati?color=blue&label=Aamati-Last-Commit)
 </details>
 
@@ -48,7 +49,6 @@ Currently designing a real-time multimodal sensor data compression system using 
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Lydlr?color=crimson&label=Lydlr-Last-Commit)
 </details>
-</details>
 
 <details>
   <summary><strong>ASM x86 Real Mode OS</strong></summary>
@@ -56,7 +56,6 @@ Currently designing a real-time multimodal sensor data compression system using 
 Created a bootable operating system written in pure x86 assembly, designed to run in real mode on legacy x86 architecture. Developed a custom 512-byte bootloader that initializes CPU, loads kernel from disk using BIOS INT 13h, and implements a command-line shell with keyboard input handling. Integrated FAT12 file system parsing, custom interrupt handlers through IVT modification, and basic memory management with segment:offset addressing. Successfully deployed on PlayStation 2 hardware using Free McBoot and a DMS3 modchip. Currently updating.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/asmOS?color=orange&label=asmOS-Last-Commit)
-</details>
 
 </details>
 
@@ -75,7 +74,6 @@ Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles
 Developed a full-stack collaborative study platform specifically designed for West Virginia University students, providing free access to course-organized flashcards and study materials. Built using React.js frontend with Firebase authentication and MySQL backend, featuring dynamic search functionality, class-based organization, and responsive UI design. Implemented secure user authentication, real-time data synchronization, and intuitive course categorization to eliminate paywalls common in commercial study apps. Collaborated in an Agile development environment with Git version control, contributing to architectural design, component logic, and testing infrastructure.  
 [Link](https://examjam-firebase.firebaseapp.com/)
 
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/MSP432BOT?color=teal&label=MSP432BOT-Last-Commit)
 
 </details>
 
@@ -91,6 +89,7 @@ Designed and implemented a bare-metal cooperative multitasking OS kernel using C
 
 Programmed a fully autonomous robot using bare-metal C on the MSP432 microcontroller with no operating system. Integrated analog and digital sensors via GPIO and implemented real-time obstacle avoidance logic using timer interrupts and PWM-based motor control. Focused on efficient resource usage, low-latency decision-making, and precise motor speed modulation to achieve responsive navigation in dynamic environments. Demonstrated deep understanding of embedded systems design, peripheral configuration, and hardware-level programming.
 
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/MSP432BOT?color=teal&label=MSP432BOT-Last-Commit)
 </details>
 
 <details>
@@ -98,13 +97,15 @@ Programmed a fully autonomous robot using bare-metal C on the MSP432 microcontro
 
 Engineered a custom 8-bit CPU from scratch using VHDL, emphasizing instruction-level control and finite state machine design. Created custom instruction set, hardcoded ALU, register file, and memory-mapped I/O interface with ModelSim simulation for timing analysis. Implemented FSMs for instruction fetch/decode/execute cycles, addressing real-world timing constraints including clock domain crossing and synchronous resets. Designed architecture supports basic arithmetic, logic operations, and I/O interfacing, laying groundwork for future FPGA-based projects.
 
-</details>
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/vhdl-cpu?color=indigo&label=VHDL-CPU-Last-Commit)
 
 <details>
   <summary><strong>Discord Call of Duty Statistics Bot</strong></summary>
 
 Developed and deployed a feature-rich Discord bot for gaming community management, integrating with Call of Duty API (https://codapi.dev/) to track ranked play statistics. Implemented RESTful API communication, asynchronous programming patterns, and real-time message parsing for interactive user commands. Features modular event-driven architecture with comprehensive error handling, logging systems, and live testing protocols. Maintains active deployment with version control and community-driven feature updates.
 
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/CDLstatsBOT?color=blueviolet&label=CDLstatsBOT-Last-Commit)
 </details>
 
 <details>
@@ -114,14 +115,12 @@ Built a comprehensive Linux-based command-line network diagnostic tool for UDP h
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/udp-probe?color=green&label=udp-probe-Last-Commit)
 
-</details>
 
 <details>
   <summary><strong>JaxK Website</strong></summary>
 
 Upcoming Full Stack React website powered with Vite and deployed with Firebase. Functionality is undetermined as of writing.
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=gray&label=JaxK-Last-Commit)
-</details>
 </details>
 
 ---
