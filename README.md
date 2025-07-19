@@ -29,13 +29,17 @@ Thanks for stopping by, enjoy your day!
 
 Led the development of a 1/10th scale autonomous race car as part of WVU's F1TENTH team, achieving 2nd place at the 19th IEEE International F1TENTH Grand Prix. Engineered and tuned custom PID control loops for throttle and steering using VESC firmware, dramatically improving control precision and stability at high speeds. Implemented real-time path planning algorithms including pure pursuit, gap following, and dynamic obstacle avoidance using ROS2, Python, and LiDAR sensor fusion. Served as technical lead, learning ROS2 independently and training team members on framework integration, algorithm deployment, and hardware communication protocols.
 
+![F1TENTH Racecar](https://lh3.googleusercontent.com/LqdATUbfeKjWm_AX8nueY7zuI64AqzevwxXC5jvd4dJGyIidzxzvGDYFLif9PH-U5f0-QbPbhVuxXI4UFx38qYgk6CRqYfD69JpTeZHB6b8jGBd1BYI8cXgfDcvLIGOdY4SNXoMww2g=w16383)
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/F1TENTH?color=blue&label=F1TENTH-Last-Commit)
+</details>
 </details>
 
 <details>
   <summary><strong>Aamati: AI-Powered MIDI Groove Synthesizer VST3 Plugin</strong></summary>
 
 Developing an early development intelligent VST3 audio plugin using JUCE framework (C++) and PyTorch for real-time MIDI rhythm manipulation based on psychoacoustic modeling.
-
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Aamati?color=blue&label=Aamati-Last-Commit)
 </details>
 
 <details>
@@ -43,12 +47,17 @@ Developing an early development intelligent VST3 audio plugin using JUCE framewo
 
 Currently designing a real-time multimodal sensor data compression system using ROS2 and PyTorch, targeting edge devices. At the moment, I'm deploying my nodes onto a Raspberry Pi, and eventually plan to utilize an NVIDIA Jetson. The system fuses camera, LiDAR, IMU, and audio inputs through convolutional and recurrent neural networks to achieve efficient learned compression with temporal context. Integrated a reinforcement learning-based adaptive compression controller that dynamically balances compression quality and system resource usage, guided by live perceptual quality assessment (LPIPS) and system metrics. I also prepared the data for quantization for AI edge hardware.
 
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Lydlr?color=crimson&label=Lydlr-Last-Commit)
+</details>
 </details>
 
 <details>
   <summary><strong>ASM x86 Real Mode OS</strong></summary>
 
 Created a bootable operating system written in pure x86 assembly, designed to run in real mode on legacy x86 architecture. Developed a custom 512-byte bootloader that initializes CPU, loads kernel from disk using BIOS INT 13h, and implements a command-line shell with keyboard input handling. Integrated FAT12 file system parsing, custom interrupt handlers through IVT modification, and basic memory management with segment:offset addressing. Successfully deployed on PlayStation 2 hardware using Free McBoot and a DMS3 modchip. Currently updating.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/asmOS?color=orange&label=asmOS-Last-Commit)
+</details>
 
 </details>
 
@@ -57,6 +66,8 @@ Created a bootable operating system written in pure x86 assembly, designed to ru
 
 Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles through multiple USB device classes (HID keyboard, audio, printer, gamepad, MIDI) with randomized vendor/product IDs to spoof USB identities. Implemented timed USB descriptor switching and VID/PID spoofing using TI’s TivaWare USB library to test host OS device enumeration, driver stability, and security assumptions. Designed malformed descriptors to evaluate host resilience against unexpected USB device behaviors.
 
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/PortGremlin?color=yellow&label=PortGremlin-Last-Commit)
+
 </details>
 
 <details>
@@ -64,6 +75,8 @@ Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles
 
 Developed a full-stack collaborative study platform specifically designed for West Virginia University students, providing free access to course-organized flashcards and study materials. Built using React.js frontend with Firebase authentication and MySQL backend, featuring dynamic search functionality, class-based organization, and responsive UI design. Implemented secure user authentication, real-time data synchronization, and intuitive course categorization to eliminate paywalls common in commercial study apps. Collaborated in an Agile development environment with Git version control, contributing to architectural design, component logic, and testing infrastructure.  
 [Link](https://examjam-firebase.firebaseapp.com/)
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/MSP432BOT?color=teal&label=MSP432BOT-Last-Commit)
 
 </details>
 
@@ -100,13 +113,16 @@ Developed and deployed a feature-rich Discord bot for gaming community managemen
 
 Built a comprehensive Linux-based command-line network diagnostic tool for UDP health assessment and latency analysis. Implemented custom socket programming in C with precise timing mechanisms for round-trip time calculation, jitter analysis, and packet loss statistics. Features robust logging modules and statistical visualization for network behavior analysis under variable conditions. Designed for network administrators requiring detailed UDP connection diagnostics and performance monitoring capabilities.
 
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/udp-probe?color=green&label=udp-probe-Last-Commit)
+
 </details>
 
 <details>
   <summary><strong>JaxK Website</strong></summary>
 
 Upcoming Full Stack React website powered with Vite and deployed with Firebase. Functionality is undetermined as of writing.
-
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=gray&label=JaxK-Last-Commit)
+</details>
 </details>
 
 ---
