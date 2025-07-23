@@ -8,6 +8,7 @@ Interests: Robotics, AI, Embedded, IoT, Automation, and Secure Hardware
 ## Welcome to my GitHub Portfolio!
 
 ## 📊  Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jrb00013&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=jrb00013&theme=radical)
 ![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=pie&theme=radical)
 
