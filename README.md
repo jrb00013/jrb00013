@@ -32,6 +32,7 @@ Thanks for stopping by, enjoy your day!
 Led the development of a 1/10th scale autonomous race car as part of WVU's F1TENTH team, achieving 2nd place at the 19th IEEE International F1TENTH Grand Prix. Engineered and tuned custom PID control loops for throttle and steering using VESC firmware, dramatically improving control precision and stability at high speeds. Implemented real-time path planning algorithms including pure pursuit, gap following, and dynamic obstacle avoidance using ROS2, Python, and LiDAR sensor fusion. Served as technical lead, learning ROS2 independently and training team members on framework integration, algorithm deployment, and hardware communication protocols.
 
 ![Workshop Desk View](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/f1tenth-image-1.png)
+
 ![Track Test](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/f1tenth-image-2.png)
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/F1TENTH?color=blue&label=F1TENTH-Last-Commit)
@@ -75,6 +76,10 @@ Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles
   <summary><strong>ExamJam: Interactive Full-Stack Study Platform</strong></summary>
 
 Developed a full-stack collaborative study platform specifically designed for West Virginia University students, providing free access to course-organized flashcards and study materials. Built using React.js frontend with Firebase authentication and MySQL backend, featuring dynamic search functionality, class-based organization, and responsive UI design. Implemented secure user authentication, real-time data synchronization, and intuitive course categorization to eliminate paywalls common in commercial study apps. Collaborated in an Agile development environment with Git version control, contributing to architectural design, component logic, and testing infrastructure.  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jrb00013/jrb00013/main/logoimage.jpeg" alt="Exam Jam Logo" width="200"/>
+</p>
 
 [Live App](https://examjam-firebase.firebaseapp.com/)  
 
