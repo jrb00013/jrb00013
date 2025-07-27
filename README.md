@@ -1,8 +1,6 @@
 ![Profile Logo](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/joseph-black-logo.jpeg)
-## Welcome to my GitHub Portfolio!
-### 🎓 B.S. in Computer Engineering @ WVU (May 2025)  
-Interests: Robotics, AI, Embedded, IoT, Automation, and Secure Hardware
-# 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu)
+## Welcome to my GitHub Portfolio! 
+
 
 ## 📊  Stats
 <!-- 
@@ -21,6 +19,10 @@ On top of my technical skills, I've also worked outside during my college summer
 Some of my skills and interests are listed below. I have links to some of my old uploaded projects by which I maintain the repos for and occasional update. I'm also working on a few new projects as well. 
 
 Thanks for stopping by, enjoy your day! 
+
+### Education: 🎓 B.S. in Computer Engineering @ WVU (May 2025)  
+## Interests: Robotics, AI, Embedded, IoT, Automation, and Secure Hardware
+# 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu)
 
 ---
 ## 🔧  Projects
