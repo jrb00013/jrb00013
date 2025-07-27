@@ -16,9 +16,7 @@ My name is Joseph Black, and I'm a junior engineer who just graduated from West 
 
 On top of my technical skills, I've also worked outside during my college summers as a maintence worker at my hometown cemetery, where I learned how to work with grit but also enjoy the little things while on the job. I'm thankful for the opportunities that I have.
 
-Some of my skills and interests are listed below. I have links to some of my old uploaded projects by which I maintain the repos for and occasional update. I'm also working on a few new projects as well. 
-
-Thanks for stopping by, enjoy your day! 
+My education, interests, and projects are listed below. I have links to some of my old uploaded projects by which I maintain the repos for and occasional update. I'm also working on a few new projects as well that you might be interested in taking a look at.
 
 ## 🎓 Education
 West Virginia University, B.S. in Computer Engineering (Graduated May 2025)  
