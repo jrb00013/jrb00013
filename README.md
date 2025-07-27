@@ -77,9 +77,7 @@ Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles
 
 Developed a full-stack collaborative study platform specifically designed for West Virginia University students, providing free access to course-organized flashcards and study materials. Built using React.js frontend with Firebase authentication and MySQL backend, featuring dynamic search functionality, class-based organization, and responsive UI design. Implemented secure user authentication, real-time data synchronization, and intuitive course categorization to eliminate paywalls common in commercial study apps. Collaborated in an Agile development environment with Git version control, contributing to architectural design, component logic, and testing infrastructure.  
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jrb00013/jrb00013/main/logoimage.jpeg" alt="Exam Jam Logo" width="200"/>
-</p>
+![ExamJam Logo Image](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/logoimage.jpeg)
 
 [Live App](https://examjam-firebase.firebaseapp.com/)  
 
