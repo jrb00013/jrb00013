@@ -20,7 +20,9 @@ Some of my skills and interests are listed below. I have links to some of my old
 
 Thanks for stopping by, enjoy your day! 
 
-## Education: 🎓 B.S. in Computer Engineering @ WVU (May 2025)  
+## Education
+🎓 B.S. in Computer Engineering @ WVU (May 2025)  
+
 ### Interests: Robotics, AI, Embedded, IoT, Automation, and Secure Hardware
 # 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu)
 
