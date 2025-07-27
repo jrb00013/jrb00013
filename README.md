@@ -41,7 +41,7 @@ Led the development of a 1/10th scale autonomous race car as part of WVU's F1TEN
 <details>
   <summary><strong>Aamati: AI-Powered MIDI Groove Synthesizer VST3 Plugin</strong></summary>
 
-Developing an early development intelligent VST3 audio plugin using JUCE framework (C++) and PyTorch for real-time MIDI rhythm manipulation based on psychoacoustic modeling.
+Developing an early development intelligent VST3 audio plugin using the JUCE framework with C++ and PyTorch for real-time MIDI rhythm manipulation based on psychoacoustic modeling.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Aamati?color=green&label=Aamati-Last-Commit)
 </details>
