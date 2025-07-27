@@ -1,7 +1,5 @@
 ![Profile Logo](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/joseph-black-logo.jpeg)
 
-
-# Joseph Black
 ### 🎓 B.S. in Computer Engineering @ WVU (May 2025)  
 Interests: Robotics, AI, Embedded, IoT, Automation, and Secure Hardware
 
