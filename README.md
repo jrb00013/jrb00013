@@ -20,7 +20,7 @@ Some of my skills and interests are listed below. I have links to some of my old
 
 Thanks for stopping by, enjoy your day! 
 
-##🎓 Education
+## 🎓 Education
 West Virginia University, B.S. in Computer Engineering (Graduated May 2025)  
 
 ### Interests: Robotics, AI, Embedded, IoT, Automation, and Secure Hardware
