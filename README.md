@@ -38,7 +38,7 @@ Led the development of a 1/10th scale autonomous race car as part of WVU's F1TEN
 
 ![Track Test](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/f1tenth-image-2.png)
 
-![Car On Track](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/f1tenth-image-3.png)
+![Car On Track](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/f1tenth-image-3.jpeg)
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/F1TENTH?color=blue&label=F1TENTH-Last-Commit)
 </details>
