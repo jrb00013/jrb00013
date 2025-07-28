@@ -145,7 +145,7 @@ Upcoming Full Stack React website powered with Vite and deployed with Firebase. 
 
 ---
 
-### **Programming Languages & Tools:**
+### **Programming Languages & Frameworks:**
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cpp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
