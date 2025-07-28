@@ -30,11 +30,12 @@ West Virginia University, B.S. in Computer Engineering (Graduated May 2025)
 <details>
   <summary><strong>F1TENTH Autonomous Racecar</strong></summary>
 
-Led the development of a 1/10th scale autonomous race car as part of WVU's F1TENTH team, achieving 2nd place at the 19th IEEE International F1TENTH Grand Prix. Engineered and tuned custom PID control loops for throttle and steering using VESC firmware, dramatically improving control precision and stability at high speeds. Implemented real-time path planning algorithms including pure pursuit, gap following, and dynamic obstacle avoidance using ROS2, Python, and LiDAR sensor fusion. Served as technical lead, learning ROS2 independently and training team members on framework integration, algorithm deployment, and hardware communication protocols.
+Led the development of a 1/10th scale autonomous race car as part of WVU's F1TENTH team, achieving 2nd place at the 19th IEEE International F1TENTH Grand Prix. Engineered and tuned custom PID control loops for throttle and steering using VESC firmware, dramatically improving control precision and stability at high speeds. Implemented real-time path planning algorithms including pure pursuit, gap following, and dynamic obstacle avoidance using ROS2, Python, and LiDAR sensor fusion. Served as technical lead, learning ROS2 independently and training team members on framework integration, algorithm deployment, and hardware communication protocols. My team went on to secure 2nd Place at the International F1Tenth Grand Prix in Niagara Falls, Canada. [Statler Media Post](https://media.statler.wvu.edu/public/emails/signals/fall2024.html)
 
 ![Workshop Desk View](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/f1tenth-image-1.png)
 
 ![Track Test](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/f1tenth-image-2.png)
+
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/F1TENTH?color=blue&label=F1TENTH-Last-Commit)
 </details>
