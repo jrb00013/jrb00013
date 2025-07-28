@@ -40,8 +40,6 @@ Led the development of a 1/10th scale autonomous race car as part of WVU's F1TEN
 
 ![F1Tenth Article Picture](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/f1tenth-article.png)
 
-Yes, it is me in those sunglasses.
-
 ![Workshop Desk View](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/f1tenth-image-1.png)
 
 ![Track Test](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/f1tenth-image-2.png)
