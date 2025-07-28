@@ -1,11 +1,12 @@
 ![Profile Logo](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/joseph-black-logo.jpeg)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Projects+down+below+⬇️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Projects+are+down+below+⬇️)](https://git.io/typing-svg)
 
 
 ## 📊  Stats
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jrb00013&theme=radical)
 ![I guess I haven't been working hard enough, because my streak disappeared.](https://github-readme-streak-stats.herokuapp.com/?user=jrb00013)
+-->
 ![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=pie&theme=radical)
 
 
