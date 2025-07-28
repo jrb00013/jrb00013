@@ -1,5 +1,5 @@
 ![Profile Logo](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/joseph-black-logo.jpeg)
-# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Projects+are+down+below+⬇️)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Portfolio!;Some+of+my+projects+are+down+below+⬇️;Thanks+for+stopping+by!)](https://git.io/typing-svg)
 
 
 ## 📊  Stats
