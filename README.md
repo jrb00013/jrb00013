@@ -12,11 +12,19 @@
 
 ## 📝  About Me
 
-I'm a junior engineer who just graduated from West Virginia University in 2025. I've worked on real-time robotics, OS and firmware development, automation tools, audio plugins, apps, and websites. I served as team lead for the WVU Autonomous Racing Team, which competed at the 2024 International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured 2nd place Statler Media Post. I also was a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab (iCPS Lab) at WVU, where I worked with analyzing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms for mobile robots. I also have earned SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects. I'm interested in building dynamic AI-powered embedded systems and always looking to grow through the challenges that come with making them.
+I'm a junior engineer who just graduated from West Virginia University and I'm looking for a job. I've worked on real-time robotics, OS and firmware development, automation tools, audio plugins, apps, and websites. 
+
+I served as team lead for the WVU Autonomous Racing Team, which competed at the 2024 International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured 2nd place [Statler Media Post](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
+
+I also was a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab ([iCPS Lab](https://sites.google.com/site/amrselwakeel/intelligent-cyber-physical-systems-research-lab-icps-lab)) at WVU, where I worked with analyzing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms for mobile robots. 
+
+I have SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects and I'm interested in building dynamic AI-powered embedded systems and always looking to grow through the challenges that come with making them.
 
 On top of my technical skills, I've also worked outside during my college summers as a maintence worker at my hometown cemetery, where I learned how to work with grit but also enjoy the little things while on the job. I'm thankful for the opportunities that I have.
 
-My education, interests, and projects are listed below. I have links to some of my old uploaded projects by which I maintain the repos for and occasional update. I'm also working on a few new projects as well that you might be interested in taking a look at.## 🎓 Education
+My education, interests, and projects are listed below. I have links to some of my old uploaded projects by which I maintain the repos for and occasional update. I'm also working on a few new projects as well that you might be interested in taking a look at.
+
+## 🎓 Education
 West Virginia University, B.S. in Computer Engineering (Graduated May 2025)  
 
 ### Interests: Robotics, AI, Embedded, IoT, Automation, and Secure Hardware
