@@ -18,9 +18,7 @@ I served as team lead for the WVU Autonomous Racing Team, which competed at the 
 
 I also was a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab ([iCPS Lab](https://sites.google.com/site/amrselwakeel/intelligent-cyber-physical-systems-research-lab-icps-lab)) at WVU, where I worked with analyzing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms for mobile robots. 
 
-I have SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects and I'm interested in building dynamic AI-powered embedded systems. 
-
-I'm always looking to grow through the challenges that come with intersecting software and hardware, and can perform well in multiple domains.
+I have SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects and I'm interested in building dynamic AI-powered embedded systems.  I'm always looking to grow through the challenges that come with these systems, and can perform well in multiple software and hardware domains.
 
 On top of my technical skills, I've also worked outside during my college summers as a maintence worker at my hometown cemetery, where I learned how to work with grit but also enjoy the little things while on the job. I'm thankful for the opportunities that I have.
 
