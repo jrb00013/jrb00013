@@ -4,8 +4,7 @@
 
 ## 📊  Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jrb00013&theme=radical)
-![I guess I haven't been working hard enough, because my streak disappeared.](https://github-readme-streak-stats.herokuapp.com/?user=jrb00013)
+![I guess I haven't been working hard enough, because my streak disappeared.](https://streak-stats.demolab.com/?user=jrb00013&theme=radical)
 ![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=pie&theme=radical)
 
 
