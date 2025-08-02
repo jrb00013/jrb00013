@@ -10,7 +10,7 @@
 
 ## 📝  About Me
 
-I'm a junior engineer who just graduated from West Virginia University and I'm looking for a job. I've worked on real-time robotics, OS and firmware development, automation tools, audio plugins, apps, and websites. 
+I'm a junior engineer who just graduated from West Virginia University. I've worked on real-time robotics, OS and firmware development, automation tools, audio plugins, apps, and websites. 
 
 I served as team lead for the WVU Autonomous Racing Team, which competed at the 2024 International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured [2nd Place](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
 
