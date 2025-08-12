@@ -10,7 +10,7 @@
 
 ## 📝  About Me
 
-I'm a junior engineer who just graduated from West Virginia University. I've worked on real-time robotics, OS and firmware development, automation tools, audio plugins, apps, and websites. 
+I'm an AI/ML Engineer at Genaiva who graduated from West Virginia University in 2025. I've worked on everything from designing electrical circuits and real-time robotics to developing full-stack websites and machine learning pipelines.
 
 I served as a team lead for the WVU Autonomous Racing Team, which competed at the 2024 International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured [2nd Place](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
 
