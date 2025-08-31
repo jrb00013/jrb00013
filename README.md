@@ -140,6 +140,7 @@ Developed and deployed a feature-rich Discord bot for gaming community managemen
 Built a comprehensive Linux-based command-line network diagnostic tool for UDP health assessment and latency analysis. Implemented custom socket programming in C with precise timing mechanisms for round-trip time calculation, jitter analysis, and packet loss statistics. Features robust logging modules and statistical visualization for network behavior analysis under variable conditions. Designed for network administrators requiring detailed UDP connection diagnostics and performance monitoring capabilities.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/udp-probe?color=cyan&label=udp-probe-Last-Commit)
+</details>
 
 <details>
   <summary><strong>AthletiDB</strong></summary>
@@ -148,7 +149,7 @@ A sports data analysis and management system designed for sports analysts, resea
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/athletidb?color=brown&label=JaxK-Last-Commit)
 </details>
 
-</details>
+
 <details>
   <summary><strong>JaxK Full-Stack Website Template</strong></summary>
 
