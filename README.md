@@ -122,9 +122,16 @@ Programmed a fully autonomous robot using bare-metal C on the MSP432 microcontro
 
 Engineered a custom 8-bit CPU from scratch using VHDL, emphasizing instruction-level control and finite state machine design. Created custom instruction set, hardcoded ALU, register file, and memory-mapped I/O interface with ModelSim simulation for timing analysis. Implemented FSMs for instruction fetch/decode/execute cycles, addressing real-world timing constraints including clock domain crossing and synchronous resets. Designed architecture supports basic arithmetic, logic operations, and I/O interfacing, laying groundwork for future FPGA-based projects.
 
-
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/vhdl-cpu?color=indigo&label=VHDL-CPU-Last-Commit)
 </details>
+
+<details>
+  <summary><strong>AthletiDB</strong></summary>
+A sports data analysis and management system designed for sports analysts, researchers, and enthusiasts. This pipeline provides robust data collection, normalization, analysis, and export capabilities across multiple sports leagues.
+ 
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/athletidb?color=brown&label=JaxK-Last-Commit)
+</details>
+
 
 <details>
   <summary><strong>Discord Call of Duty Statistics Bot</strong></summary>
@@ -141,14 +148,6 @@ Built a comprehensive Linux-based command-line network diagnostic tool for UDP h
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/udp-probe?color=cyan&label=udp-probe-Last-Commit)
 </details>
-
-<details>
-  <summary><strong>AthletiDB</strong></summary>
-A sports data analysis and management system designed for sports analysts, researchers, and enthusiasts. This pipeline provides robust data collection, normalization, analysis, and export capabilities across multiple sports leagues.
- 
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/athletidb?color=brown&label=JaxK-Last-Commit)
-</details>
-
 
 <details>
   <summary><strong>JaxK Full-Stack Website Template</strong></summary>
