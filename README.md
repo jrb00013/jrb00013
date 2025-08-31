@@ -157,6 +157,7 @@ A sports data analysis and management system designed for sports analysts, resea
  
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/athletidb?color=brown&label=JaxK-Last-Commit)
 </details>
+
 ---
 
 ### **Programming Languages & Frameworks:**
