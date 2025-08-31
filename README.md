@@ -144,13 +144,19 @@ Built a comprehensive Linux-based command-line network diagnostic tool for UDP h
 
 </details>
 <details>
-  <summary><strong>JaxK Website</strong></summary>
+  <summary><strong>JaxK Full-Stack Website Template</strong></summary>
 
-Upcoming Full Stack React website powered with Vite and deployed with Firebase. Functionality is undetermined as of writing.
+Blank Full Stack Website Template for younger devs to make their own websites, as well as for me to host some of my projects.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=pink&label=JaxK-Last-Commit)
 </details>
 
+<details>
+  <summary><strong>AthletiDB</strong></summary>
+A comprehensive, enterprise-grade sports data analysis and management system designed for sports analysts, researchers, and enthusiasts. This pipeline provides robust data collection, normalization, analysis, and export capabilities across multiple sports leagues.
+ 
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=pink&label=JaxK-Last-Commit)
+</details>
 ---
 
 ### **Programming Languages & Frameworks:**
