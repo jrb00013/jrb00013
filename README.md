@@ -153,9 +153,9 @@ Blank Full Stack Website Template for younger devs to make their own websites, a
 
 <details>
   <summary><strong>AthletiDB</strong></summary>
-A comprehensive, enterprise-grade sports data analysis and management system designed for sports analysts, researchers, and enthusiasts. This pipeline provides robust data collection, normalization, analysis, and export capabilities across multiple sports leagues.
+A sports data analysis and management system designed for sports analysts, researchers, and enthusiasts. This pipeline provides robust data collection, normalization, analysis, and export capabilities across multiple sports leagues.
  
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=pink&label=JaxK-Last-Commit)
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/athletidb?color=brown&label=JaxK-Last-Commit)
 </details>
 ---
 
