@@ -104,7 +104,7 @@ Designed and implemented a cooperative multitasking OS kernel using C and x86 as
 
 [Group GitHub](https://github.com/WVU-CS450/404NotFound/)
 
-![Last Commit](https://img.shields.io/github/last-commit/WVU-CS450/404NotFound?color=gold&label=404NotFound-Last-Commit)
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/404NotFound?color=gold&label=404NotFound-Last-Commit)
 
 </details>
 
