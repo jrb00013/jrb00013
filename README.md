@@ -2,13 +2,13 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Portfolio!;Projects+are+located+below+⬇️;Thanks+for+stopping+by!)](https://git.io/typing-svg)
 
 
-## 📊  Stats
+## Stats
 
 ![---> GitHub Streak is Down At The Moment <---](https://streak-stats.demolab.com/?user=jrb00013&theme=radical)
 ![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=pie&theme=radical)
 
 
-## 📝  About Me
+## About Me
 
 I'm an AI/ML Engineer at [Genaiva](https://www.genaiva.io) who graduated from West Virginia University in 2025. I'm taking a break from this GitHub profile to contribute to the development of scalable voice AI assistants for restauraunts at my current position. On top of my new job, I've worked on everything from designing electrical circuits and real-time robotics to developing full-stack websites and deploying AI-powered applications.
 
@@ -22,14 +22,14 @@ On top of my technical skills, I've also worked outside during my college summer
 
 My education, interests, and projects are listed below. I have links to some of my old uploaded projects by which I maintain the repos for and occasional update. I'm also working on a few new projects as well that you might be interested in taking a look at.
 
-## 🎓 Education
+## Education
 West Virginia University, B.S. in Computer Engineering (Graduated May 2025)  
 
 ### Interests: Robotics, AI, Embedded, IoT, Automation, and Secure Hardware
 # 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu)
 
 ---
-## 🔧  Projects
+## Projects
 
 <details>
   <summary><strong>F1TENTH Autonomous Racecar</strong></summary>
