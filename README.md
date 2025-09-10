@@ -68,7 +68,7 @@ Currently designing a real-time multimodal sensor data compression system using 
 
 Built a native AI-driven FreeRTOS-based application for analyzing, cleaning, visualizing, and predicting from spreadsheet data. Developed the core processing engine, integrated intelligent data workflows with FreeRTOS, and designed an simple user interface to help with data analysis.
 
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=pink&label=JaxK-Last-Commit)
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/keke?color=white&label=Keke-Last-Commit)
 </details>
 
 
