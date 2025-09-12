@@ -48,6 +48,14 @@ Led the development of a 1/10th scale autonomous race car as part of WVU's F1TEN
 </details>
 
 <details>
+  <summary><strong>Lydlr: Multimodal Edge AI Compression System</strong></summary>
+
+Currently designing a real-time multimodal sensor data compression system using ROS2 and PyTorch, targeting edge devices. At the moment, I'm deploying my nodes onto a Raspberry Pi, and eventually plan to utilize an NVIDIA Jetson. The system fuses camera, LiDAR, IMU, and audio inputs through convolutional and recurrent neural networks to achieve efficient learned compression with temporal context. Integrated a reinforcement learning-based adaptive compression controller that dynamically balances compression quality and system resource usage, guided by live perceptual quality assessment (LPIPS) and system metrics. I also prepared the data for quantization for AI edge hardware.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Lydlr?color=crimson&label=Lydlr-Last-Commit)
+</details>
+
+<details>
   <summary><strong>Aamati: AI-Powered MIDI Groove Synthesizer</strong></summary>
 
 Almost finished with my intelligent MIDI audio pipeline using the JUCE framework with C++ and PyTorch for real-time MIDI rhythm manipulation based on psychoacoustic modeling.
@@ -55,13 +63,6 @@ Almost finished with my intelligent MIDI audio pipeline using the JUCE framework
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Aamati?color=green&label=Aamati-Last-Commit)
 </details>
 
-<details>
-  <summary><strong>Lydlr: Multimodal Edge AI Compression System</strong></summary>
-
-Currently designing a real-time multimodal sensor data compression system using ROS2 and PyTorch, targeting edge devices. At the moment, I'm deploying my nodes onto a Raspberry Pi, and eventually plan to utilize an NVIDIA Jetson. The system fuses camera, LiDAR, IMU, and audio inputs through convolutional and recurrent neural networks to achieve efficient learned compression with temporal context. Integrated a reinforcement learning-based adaptive compression controller that dynamically balances compression quality and system resource usage, guided by live perceptual quality assessment (LPIPS) and system metrics. I also prepared the data for quantization for AI edge hardware.
-
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Lydlr?color=crimson&label=Lydlr-Last-Commit)
-</details>
 
 <details>
   <summary><strong>Keke: Real-time AI-Powered Excel Assistant </strong></summary>
