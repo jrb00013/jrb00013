@@ -50,7 +50,7 @@ Led the development of a 1/10th scale autonomous race car as part of WVU's F1TEN
 <details>
   <summary><strong>Aamati: AI-Powered MIDI Groove Synthesizer</strong></summary>
 
-Developing an early development intelligent VST3 audio plugin using the JUCE framework with C++ and PyTorch for real-time MIDI rhythm manipulation based on psychoacoustic modeling.
+Almost finished with my intelligent MIDI audio pipeline using the JUCE framework with C++ and PyTorch for real-time MIDI rhythm manipulation based on psychoacoustic modeling.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Aamati?color=green&label=Aamati-Last-Commit)
 </details>
@@ -64,7 +64,7 @@ Currently designing a real-time multimodal sensor data compression system using 
 </details>
 
 <details>
-  <summary><strong>Keke - Real-time AI-Powered Excel Assistant </strong></summary>
+  <summary><strong>Keke: Real-time AI-Powered Excel Assistant </strong></summary>
 
 Built a native AI-driven FreeRTOS-based application for analyzing, cleaning, visualizing, and predicting from spreadsheet data. Developed the core processing engine, integrated intelligent data workflows with FreeRTOS, and designed an simple user interface to help with data analysis.
 
