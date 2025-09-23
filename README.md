@@ -146,7 +146,7 @@ A sports data analysis and management system designed for sports analysts, resea
 <details>
   <summary><strong>Discord Call of Duty Statistics Bot</strong></summary>
 
-Developed and deployed a feature-rich Discord bot for gaming community management, integrating with Call of Duty API (https://codapi.dev/) to track ranked play statistics. Implemented RESTful API communication, asynchronous programming patterns, and real-time message parsing for interactive user commands. Features modular event-driven architecture with comprehensive error handling, logging systems, and live testing protocols. Maintains active deployment with version control and community-driven feature updates.
+Developed and deployed a feature-rich Discord bot for gaming community management, integrating with Call of Duty API (https://codapi.dev/) to track ranked play statistics. Implemented REST API communication, asynchronous programming patterns, and real-time message parsing for interactive user commands. Features modular event-driven architecture with comprehensive error handling, logging systems, and live testing protocols. Maintains active deployment with version control and community-driven feature updates.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/CDLstatsBOT?color=blueviolet&label=CDLstatsBOT-Last-Commit)
 </details>
