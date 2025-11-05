@@ -79,7 +79,7 @@ Built a native AI-driven FreeRTOS-based application for analyzing, cleaning, vis
 
 Designed and implemented NeuralGPTOS, an AI-native operating system with kernel-integrated agent runtime, eBPF-based semantic messaging, and vector memory services. Developed GPU memory management, sensory I/O drivers, and WASM/eBPF sandboxing to enable secure, high-performance AI agent execution directly within the OS.
 
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/PortGremlin?color=yellow&label=NeuralFabricOS-Last-Commit)
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/neuralgptos?color=blue&label=NeuralFabricGPTOS-Last-Commit)
 
 </details>
 
