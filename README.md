@@ -74,6 +74,14 @@ Built a native AI-driven FreeRTOS-based application for analyzing, cleaning, vis
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/keke?color=white&label=Keke-Last-Commit)
 </details>
 
+<details>
+  <summary><strong>NeuralGPTOS</strong></summary>
+
+Designed and implemented NeuralGPTOS, an AI-native operating system with kernel-integrated agent runtime, eBPF-based semantic messaging, and vector memory services. Developed GPU memory management, sensory I/O drivers, and WASM/eBPF sandboxing to enable secure, high-performance AI agent execution directly within the OS.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/PortGremlin?color=yellow&label=NeuralFabricOS-Last-Commit)
+
+</details>
 
 <details>
   <summary><strong>ASM x86 Real Mode OS</strong></summary>
@@ -92,6 +100,7 @@ Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/PortGremlin?color=yellow&label=PortGremlin-Last-Commit)
 
 </details>
+
 
 <details>
   <summary><strong>ExamJam: Interactive Full-Stack Study Platform</strong></summary>
