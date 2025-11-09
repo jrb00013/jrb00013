@@ -20,7 +20,7 @@ I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems 
 
 I've obtained SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects and automation pipelines. I'm always looking to grow through the challenges that come with any system I make, and can perform well wherever is needed in multiple hardware and software domains.
 
-On top of my technical skills, I've also worked outside during my college summers as a maintenance worker at my hometown cemetery, where I learned how to work with grit but also enjoy the little things while on the job.
+On top of my technical skills, I also worked outside for three of my college summers as a maintenance worker at my hometown cemetery, where I learned how to work with grit but also enjoy the little things while on the job.
 
 My education, interests, and projects are listed below. I have links to some of my old uploaded projects by which I maintain the repos for and occasional update. I'm also working on a few new projects as well that you might be interested in taking a look at.
 
