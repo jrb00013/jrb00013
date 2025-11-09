@@ -12,7 +12,7 @@
 
 I'm an AI Systems Engineer at [Genaiva](https://www.genaiva.io) who graduated from West Virginia University in 2025. I'm taking a break from this GitHub profile to contribute to the development of scalable voice AI assistants for restauraunts at my current position. 
 
-On top of my new job, I serve as a Lead AI Systems Engineer at a R&D group that I founded in November 2025, named [Deepiri](https://www.github.com/team-deepiri), where I mentor aspiring software developers and teach them how to work on AI projects. I've worked on pretty much on everything from designing electrical circuits and real-time robotics to developing full-stack microservices apps and deploying AI-powered frameworks.
+On top of my new job, I serve as a Lead AI Systems Engineer at a R&D group that I founded in November 2025, named [Deepiri](https://www.github.com/team-deepiri), where I mentor aspiring software developers and teach them how to work on AI projects. I've worked on everything from designing electrical circuits and real-time robotics to developing full-stack microservices apps and deploying AI-powered frameworks.
 
 I served as a team lead for the WVU Autonomous Racing Team, which competed at the 2024 International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured [2nd Place](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
 
