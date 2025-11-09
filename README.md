@@ -14,11 +14,11 @@ I'm an AI Systems Engineer at [Genaiva](https://www.genaiva.io) who graduated fr
 
 On top of my new job, I serve as a Lead AI Systems Engineer at a R&D group that I founded in November 2025, named [Deepiri](https://www.github.com/team-deepiri), where I mentor aspiring software developers and teach them how to work on AI projects. I’ve designed digital circuits, built embedded robotic systems, and developed full-stack and AI-powered platforms from the ground up.
 
-I served as a team lead for the WVU Autonomous Racing Team, which competed at the 2024 International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured [2nd Place](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
+In 2024, I served as a team lead for the WVU Autonomous Racing Team, which competed at the 2024 International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured [2nd Place](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
 
 I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab ([iCPS Lab](https://sites.google.com/site/amrselwakeel/intelligent-cyber-physical-systems-research-lab-icps-lab)) at WVU, where I worked with analyzing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms for mobile robots. 
 
-I have SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects and I'm interested in building dynamic AI-powered embedded systems.  I'm always looking to grow through the challenges that come with these systems, and can perform well in multiple software and hardware domains.
+I've obtained SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects and automation pipelines. I'm always looking to grow through the challenges that come with any system I make, and can perform well wherever is needed in multiple hardware and software domains.
 
 On top of my technical skills, I've also worked outside during my college summers as a maintenance worker at my hometown cemetery, where I learned how to work with grit but also enjoy the little things while on the job.
 
