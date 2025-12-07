@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm an AI Systems Engineer at [Genaiva](https://www.genaiva.io) who graduated from West Virginia University in 2025. I'm taking a break from this GitHub profile to contribute to the development of scalable voice AI assistants for restauraunts at my current position. 
+I'm an AI Software Engineer at [Genaiva](https://www.genaiva.io) who graduated from West Virginia University in 2025. I'm taking a break from this GitHub profile to contribute to the development of scalable voice AI assistants for restauraunts at my current position. 
 
 On top of my new job, I serve as a Lead AI Systems Engineer at an R&D group that I founded in November 2025, named [Deepiri](https://www.github.com/team-deepiri), where I mentor aspiring software developers and teach them how to work on AI projects. I’ve designed digital circuits, built embedded robotic systems, and developed full-stack and AI-powered platforms from the ground up.
 
