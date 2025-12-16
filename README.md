@@ -1,6 +1,9 @@
 ![Profile Logo](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/joseph-black-logo.jpeg)
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Portfolio!;Projects+are+located+below+⬇️;Thanks+for+stopping+by!)](https://git.io/typing-svg)
 
+## About me 
+I’m an AI Software Engineer at Genaiva and a 2025 graduate of West Virginia University, focused on building scalable AI systems. I also founded and lead Deepiri, where I mentor developers and build AI, embedded, and full-stack systems from the ground up. Previously, I led the WVU Autonomous Racing Team to a 2nd place finish at the International F1Tenth Grand Prix and conducted robotics research in sensor fusion and autonomous navigation.
+
 ## Education
 West Virginia University, B.S. in Computer Engineering (Graduated May 2025)  
 
@@ -161,9 +164,9 @@ Blank Full Stack Website Template for younger devs to make their own websites, a
 
 ## About Me
 
-I'm an AI Software Engineer at [Genaiva](https://www.genaiva.io) who graduated from West Virginia University in 2025. I'm taking a break from this GitHub profile to contribute to the development of scalable voice AI assistants for restauraunts at my current position. 
+As I graudated from West Virginia University in 2025, I recieved an offer to work as an AI Software Engineer at Genaiva, a voice AI startup focused on saemlessly designing and integrating agentic restauraunt communication systems.
 
-On top of my new job, I serve as a Lead AI Systems Engineer at an R&D group that I founded named [Deepiri](https://deepiri.com), where I mentor aspiring software developers and teach them how to work on AI projects. I’ve designed digital circuits, built embedded robotic systems, and developed full-stack and AI-powered platforms from the ground up.
+On top of my job, I serve as a Lead AI Systems Engineer at an R&D group that I founded named [Deepiri](https://deepiri.com), where I mentor aspiring software developers and teach them how to work on AI projects. I’ve designed digital circuits, built embedded robotic systems, and developed full-stack and AI-powered platforms from the ground up.
 
 In 2024, I served as a team lead for the WVU Autonomous Racing Team, which competed at the 2024 International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured [2nd Place](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
 
