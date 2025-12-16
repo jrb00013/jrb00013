@@ -1,34 +1,15 @@
 ![Profile Logo](https://raw.githubusercontent.com/jrb00013/jrb00013/main/images/joseph-black-logo.jpeg)
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Portfolio!;Projects+are+located+below+⬇️;Thanks+for+stopping+by!)](https://git.io/typing-svg)
 
+## Education
+West Virginia University, B.S. in Computer Engineering (Graduated May 2025)  
+
+# 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu)
 
 ## Stats
 
 ![---> GitHub Streak is Down At The Moment <---](https://streak-stats.demolab.com/?user=jrb00013&theme=radical)
 ![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=pie&theme=radical)
-
-
-## About Me
-
-I'm an AI Software Engineer at [Genaiva](https://www.genaiva.io) who graduated from West Virginia University in 2025. I'm taking a break from this GitHub profile to contribute to the development of scalable voice AI assistants for restauraunts at my current position. 
-
-On top of my new job, I serve as a Lead AI Systems Engineer at an R&D group that I founded named [Deepiri](https://deepiri.com), where I mentor aspiring software developers and teach them how to work on AI projects. I’ve designed digital circuits, built embedded robotic systems, and developed full-stack and AI-powered platforms from the ground up.
-
-In 2024, I served as a team lead for the WVU Autonomous Racing Team, which competed at the 2024 International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured [2nd Place](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
-
-I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab ([iCPS Lab](https://sites.google.com/site/amrselwakeel/intelligent-cyber-physical-systems-research-lab-icps-lab)) at WVU, where I worked with analyzing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms for mobile robots. 
-
-I've obtained SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects and automation pipelines. I'm always looking to grow through the challenges that come with any system I make, and can perform well wherever is needed in multiple hardware and software domains.
-
-On top of my technical skills, I also worked outside for three of my college summers as a maintenance worker at my hometown cemetery, where I learned how to dig grave footers, pour cement, and work hard with my hands but also be appreciative for the opportunities given to me.
-
-My education, interests, and projects are listed below. I have links to some of my old uploaded projects by which I maintain the repos for and occasional update. I'm also working on a few new projects as well that you might be interested in taking a look at.
-
-## Education
-West Virginia University, B.S. in Computer Engineering (Graduated May 2025)  
-
-### Interests: Robotics, AI, Embedded, IoT, Automation, and Secure Hardware
-# 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu)
 
 ---
 ## Projects
@@ -177,6 +158,22 @@ Blank Full Stack Website Template for younger devs to make their own websites, a
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=pink&label=JaxK-Last-Commit)
 </details>
+
+## About Me
+
+I'm an AI Software Engineer at [Genaiva](https://www.genaiva.io) who graduated from West Virginia University in 2025. I'm taking a break from this GitHub profile to contribute to the development of scalable voice AI assistants for restauraunts at my current position. 
+
+On top of my new job, I serve as a Lead AI Systems Engineer at an R&D group that I founded named [Deepiri](https://deepiri.com), where I mentor aspiring software developers and teach them how to work on AI projects. I’ve designed digital circuits, built embedded robotic systems, and developed full-stack and AI-powered platforms from the ground up.
+
+In 2024, I served as a team lead for the WVU Autonomous Racing Team, which competed at the 2024 International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured [2nd Place](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
+
+I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab ([iCPS Lab](https://sites.google.com/site/amrselwakeel/intelligent-cyber-physical-systems-research-lab-icps-lab)) at WVU, where I worked with analyzing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms for mobile robots. 
+
+I've obtained SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects and automation pipelines. I'm always looking to grow through the challenges that come with any system I make, and can perform well wherever is needed in multiple hardware and software domains.
+
+On top of my technical skills, I also worked outside for three of my college summers as a maintenance worker at my hometown cemetery, where I learned how to dig grave footers, pour cement, and work hard with my hands but also be appreciative for the opportunities given to me.
+
+My education, interests, and projects are listed below. I have links to some of my old uploaded projects by which I maintain the repos for and occasional update. I'm also working on a few new projects as well that you might be interested in taking a look at.
 
 ### **Programming Languages & Frameworks:**
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
