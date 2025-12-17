@@ -5,7 +5,7 @@
 I'm a systems engineer, architect, organizational leader, artist, musician, and a 2025 graduate of West Virginia University, focused on building scalable AI and robotics systems. I also founded and lead Deepiri, where I mentor developers and build AI, embedded, and full-stack systems from the ground up. Previously, I led the WVU Autonomous Racing Team to a 2nd place finish at the International F1Tenth Grand Prix and conducted robotics research in sensor fusion and autonomous navigation.
 
 ## Education
-West Virginia University, B.S. in Computer Engineering (Graduated May 2025)  
+West Virginia University, B.S. in Computer Engineering - (Graduated May 2025)  
 
 # 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu)
 
