@@ -162,7 +162,8 @@ Blank Full Stack Website Template for younger devs to make their own websites, a
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=pink&label=JaxK-Last-Commit)
 </details>
 
-## Background
+<details>
+  # <summary><strong>Background </strong></summary>
 
 As I graudated from West Virginia University in 2025, I recieved an offer to work as an AI Software Engineer at Genaiva, a voice AI startup focused on saemlessly designing and integrating agentic restauraunt communication systems.
 
@@ -177,6 +178,8 @@ I've obtained SAS certifications in data analysis and statistical decision-makin
 On top of my technical skills, I also worked outside for three of my college summers as a maintenance worker at my hometown cemetery, where I dug graves, pour cement, and wasn't afraid of hard work. 
 
 My entire goal is to create something that has everlasting impact.
+
+</details>
 
 ### **Programming Languages & Frameworks:**
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
