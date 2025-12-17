@@ -161,6 +161,7 @@ Blank Full Stack Website Template for younger devs to make their own websites, a
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=pink&label=JaxK-Last-Commit)
 </details>
+
 ---
 
 # Background
