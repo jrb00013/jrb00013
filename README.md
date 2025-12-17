@@ -174,9 +174,9 @@ I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems 
 
 I've obtained SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects and automation pipelines. I'm always looking to grow through the challenges that come with any system I make, and can perform well wherever is needed in multiple hardware and software domains.
 
-On top of my technical skills, I also worked outside for three of my college summers as a maintenance worker at my hometown cemetery, where I learned how to dig grave footers, pour cement, and work hard with my hands but also be appreciative for the opportunities given to me.
+On top of my technical skills, I also worked outside for three of my college summers as a maintenance worker at my hometown cemetery, where I dug graves, pour cement, and wasn't afraid of hard work. 
 
-My education, interests, and projects are listed below. I have links to some of my old uploaded projects by which I maintain the repos for and occasional update. I'm also working on a few new projects as well that you might be interested in taking a look at.
+My entire goal is to create something that has everlasting impact.
 
 ### **Programming Languages & Frameworks:**
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
