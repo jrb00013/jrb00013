@@ -161,10 +161,9 @@ Blank Full Stack Website Template for younger devs to make their own websites, a
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=pink&label=JaxK-Last-Commit)
 </details>
-
+---
+# Background
 <details>
-  # <summary><strong>Background </strong></summary>
-
 As I graudated from West Virginia University in 2025, I recieved an offer to work as an AI Software Engineer at Genaiva, a voice AI startup focused on saemlessly designing and integrating agentic restauraunt communication systems.
 
 On top of my job, I serve as a Lead AI Systems Engineer at an R&D group that I founded named [Deepiri](https://deepiri.com), where I mentor aspiring software developers and teach them how to work on AI projects. I’ve designed digital circuits, built embedded robotic systems, and developed full-stack and AI-powered platforms from the ground up.
