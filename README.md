@@ -2,7 +2,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Portfolio!;Projects+are+located+below+⬇️;Thanks+for+stopping+by!)](https://git.io/typing-svg)
 
 ## About me 
-I'm a systems engineer, organizational leader, musician, and a 2025 graduate of West Virginia University, focused on building scalable AI and robotics systems. I also founded and lead Deepiri, where I mentor developers and build AI, embedded, and full-stack systems from the ground up. Previously, I led the WVU Autonomous Racing Team to a 2nd place finish at the International F1Tenth Grand Prix and conducted robotics research in sensor fusion and autonomous navigation.
+I'm a systems engineer, organizational leader, musician, and a 2025 graduate of West Virginia University, focused on building scalable AI and robotics systems. I also founded and lead Deepiri, where I mentor developers from all over the world and build production scale automation tools and frameworks. Previously, I led the WVU Autonomous Racing Team to a 2nd place finish at the International F1Tenth Grand Prix and conducted robotics research in sensor fusion and autonomous navigation.
 
 ## Education
 West Virginia University, B.S. in Computer Engineering - (Graduated May 2025)  
