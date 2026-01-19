@@ -169,11 +169,11 @@ Blank Full Stack Website Template for younger devs to make their own websites, a
   
 As I graudated from West Virginia University in 2025, I recieved an offer to work as an AI Software Engineer at Genaiva, a voice AI startup focused on saemlessly designing and integrating agentic restauraunt communication systems.
 
-On top of my job, I serve as a Lead AI Systems Engineer at an R&D group that I founded named [Deepiri](https://deepiri.com), where I mentor aspiring software developers and teach them how to work on AI projects. I’ve designed digital circuits, built embedded robotic systems, and developed full-stack and AI-powered platforms from the ground up.
+I left Genaiva after my contract ended and I now serve as a AI Developer at an R&D group that I founded named [Deepiri](https://deepiri.com), where I mentor aspiring software developers and teach them how to work on AI projects. I’ve designed digital circuits, built embedded robotic systems, and developed full-stack and AI-powered platforms from the ground up. 
 
 In 2024, I served as a team lead for the WVU Autonomous Racing Team, which competed at the 2024 International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured [2nd Place](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
 
-I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab ([iCPS Lab](https://sites.google.com/site/amrselwakeel/intelligent-cyber-physical-systems-research-lab-icps-lab)) at WVU, where I worked with analyzing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms for mobile robots. 
+During my time at WVU, I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab ([iCPS Lab](https://sites.google.com/site/amrselwakeel/intelligent-cyber-physical-systems-research-lab-icps-lab)), where I worked with analyzing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms for mobile robots. 
 
 I've obtained SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects and automation pipelines. I'm always looking to grow through the challenges that come with any system I make, and can perform well wherever is needed in multiple hardware and software domains.
 
