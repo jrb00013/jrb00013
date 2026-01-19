@@ -12,7 +12,7 @@ West Virginia University, B.S. in Computer Engineering - (Graduated May 2025)
 ## Stats
 
 ![---> GitHub Streak is Down At The Moment <---](https://streak-stats.demolab.com/?user=jrb00013&theme=radical)
-
+![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=pie&theme=radical)
 ---
 ## Projects
 
@@ -233,7 +233,3 @@ My entire goal is to create something that has everlasting impact.
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
 ![nRF](https://img.shields.io/badge/nRF-005F87?style=flat-square)
 ![Altera FPGA](https://img.shields.io/badge/Altera-0071C5?style=flat-square)
-
-
-![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=pie&theme=radical)
-
