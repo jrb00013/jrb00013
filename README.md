@@ -58,6 +58,14 @@ Built a native AI-driven FreeRTOS-based application for analyzing, cleaning, vis
 </details>
 
 <details>
+  <summary><strong>tripblip </strong></summary>
+
+Designed and implemented a small interactive agentic social gathering, local event planning, and trip advisory platform with OpenAI integrations. 
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/tripblip?color=orange&label=tripblip-Last-Commit)
+</details>
+
+<details>
   <summary><strong>NeuralGPTOS</strong></summary>
 
 Designed and implemented NeuralGPTOS, an AI-native operating system with kernel-integrated agent runtime, eBPF-based semantic messaging, and vector memory services. Developed GPU memory management, sensory I/O drivers, and WASM/eBPF sandboxing to enable secure, high-performance AI agent execution directly within the OS.
