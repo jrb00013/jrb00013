@@ -156,7 +156,7 @@ Developed and deployed a feature-rich Discord bot for gaming community managemen
 <details>
   <summary><strong>UDP Probe Network Utility Tool</strong></summary>
 
-Built a comprehensive Linux-based command-line network diagnostic tool for UDP health assessment and latency analysis. Implemented custom socket programming in C with precise timing mechanisms for round-trip time calculation, jitter analysis, and packet loss statistics. Features robust logging modules and statistical visualization for network behavior analysis under variable conditions. Designed for network administrators requiring detailed UDP connection diagnostics and performance monitoring capabilities.
+Built a comprehensive Linux-based command-line network diagnostic tool for UDP health assessment and latency analysis. Implemented custom socket programming in Python with precise timing mechanisms for round-trip time calculation, jitter analysis, and packet loss statistics. Features robust logging modules and statistical visualization for network behavior analysis under variable conditions. Designed for network administrators requiring detailed UDP connection diagnostics and performance monitoring capabilities.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/udp-probe?color=cyan&label=udp-probe-Last-Commit)
 </details>
