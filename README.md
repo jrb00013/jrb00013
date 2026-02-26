@@ -182,11 +182,11 @@ Blank Full Stack Website Template for younger devs to make their own websites, a
 # Background
 <details>
   
-As I graudated from West Virginia University in 2025, I recieved an offer to work as an AI Software Engineer at Genaiva, a voice AI startup focused on saemlessly designing and integrating agentic restauraunt communication systems.
+As I graduated from West Virginia University in 2025, I recieved a contract offer to work as an AI Software Engineer at Genaiva, a voice AI startup focused on saemlessly designing and integrating agentic restauraunt communication systems.
 
-I left Genaiva after my contract ended and I now serve as a AI Developer at an R&D group that I founded named [Deepiri](https://deepiri.com), where I mentor aspiring software developers and teach them how to work on AI projects. I’ve designed digital circuits, built embedded robotic systems, and developed full-stack and AI-powered platforms from the ground up. 
+I left Genaiva after my contract ended and recently started working as a Software Engineer for Lighthouse Avionics where I work on optical based aerospace infrastructure and autonomous drones. After work, I also serve as a Lead Developer for an open source R&D group that I founded in November 2025 named [Deepiri](https://deepiri.com), where I mentor aspiring software developers and teach them how to work on generative intelligence platforms and data ingestion/processing pipelines. On top of my high level system design, I’ve built digital logic circuits, designed embedded real-time firmware for robotics, and have developed a few operating systems from scratch.
 
-In 2024, I served as a team lead for the WVU Autonomous Racing Team, which competed at the 2024 International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured [2nd Place](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
+Throughout 2024, I served as a team lead for the WVU Autonomous Racing Team, which competed at the 2024 International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured [2nd Place](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
 
 During my time at WVU, I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab ([iCPS Lab](https://sites.google.com/site/amrselwakeel/intelligent-cyber-physical-systems-research-lab-icps-lab)), where I worked with analyzing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms for mobile robots. 
 
