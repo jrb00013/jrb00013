@@ -66,6 +66,14 @@ Designed and implemented a small interactive agentic social gathering, local eve
 </details>
 
 <details>
+  <summary><strong>Universal Remote Firmware + 3D TV Simulator</strong></summary>
+
+Designed and implemented a multi-protocol universal remote control system in C supporting NEC, RC5, RC6, Sony SIRC, and brand-optimized IR transmission with assembly-level timing for precise 38kHz carrier generation. Built a modular firmware architecture featuring universal TV code scanning, multi-protocol fallback logic, and latency instrumentation for performance profiling. Developed a real-time interactive 3D web-based TV simulator with clickable remote controls, live state synchronization, and IPC bridging between native C firmware and a Python backend, enabling full virtual device control, streaming service shortcuts, and animated UI feedback without physical hardware.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/universal-remote-simulator?color=blue&label=UniversalRemote-Last-Commit)
+
+</details>
+<details>
   <summary><strong>NeuralGPTOS</strong></summary>
 
 Designed and implemented NeuralGPTOS, an AI-native operating system with kernel-integrated agent runtime, eBPF-based semantic messaging, and vector memory services. Developed GPU memory management, sensory I/O drivers, and WASM/eBPF sandboxing to enable secure, high-performance AI agent execution directly within the OS.
