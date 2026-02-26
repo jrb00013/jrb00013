@@ -194,7 +194,7 @@ I've obtained SAS certifications in data analysis and statistical decision-makin
 
 On top of my technical skills, I also worked outside for three of my college summers as a maintenance worker at my hometown cemetery, where I dug graves, pour cement, and wasn't afraid of hard work. 
 
-My entire goal is to create something that has everlasting impact.
+My goal is to create something that has everlasting impact.
 
 </details>
 
