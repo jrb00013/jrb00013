@@ -2,7 +2,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Portfolio!;Projects+are+located+below+⬇️;Thanks+for+stopping+by!)](https://git.io/typing-svg)
 
 ## About me 
-I'm a systems engineer, musician, organization leader, and a 2025 graduate of West Virginia University, focused on building scalable AI and robotics systems. I currently work as a Software Engineer at Lighthouse Avionics in Hilliard, Ohio, and I'm also a lead developer at Deepiri, where I mentor developers from all over the world and build automation tools and frameworks. Previously, I worked as an AI Engineer at Genaiva, a voice AI startup, and led an undergraduate autonomous racing team to a 2nd place finish at the International F1Tenth Grand Prix. I've also worked on robotics research in sensor fusion and autonomous navigation through the iCPS lab, during my time at WVU.
+I'm a systems engineer, musician, organization leader, and a 2025 graduate of West Virginia University, focused on building scalable AI and robotics systems. I currently work as a Software Engineer at Lighthouse Avionics in Hilliard, Ohio, and I'm also a lead developer at Deepiri, where I mentor developers from all over the world and build automation tools and frameworks. Previously, I worked as an AI Engineer at Genaiva, a voice AI startup, and led an undergraduate autonomous racing team to a 2nd place finish at the International F1Tenth Grand Prix. I've also worked on robotics research in sensor fusion and autonomous navigation through the iCPS lab, during my time at West Virginia University.
 
 ## Education
 West Virginia University, B.S. in Computer Engineering - (Graduated May 2025)  
