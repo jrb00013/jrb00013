@@ -66,15 +66,6 @@ Designed and implemented a small interactive agentic social gathering, local eve
 </details>
 
 <details>
-  <summary><strong>3D Smart Home Simulator with Universal Remote</strong></summary>
-
-Engineered a full-stack 3D smart home simulator with autonomous scheduling and interactive control. Developed a multi-protocol C universal remote supporting NEC, RC5, RC6, Sony SIRC, and brand-optimized IR transmission with assembly-level timing for precise 38kHz carrier generation. Built a GPU-accelerated 3D living room environment with responsive TV, dynamic lighting, and clickable remote controls. Implemented modular firmware architecture with universal TV code scanning, multi-protocol fallback, and latency instrumentation for performance profiling. Integrated REST API, WebSocket, MQTT, and Home Assistant/Node-RED adapters, enabling simulation or real device control. Created real-time interactive web UI bridging native C firmware with Python backend for streaming service shortcuts, animated feedback, and full virtual device control.
-
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/universal-remote-simulator?color=purple&label=universal-remote-simulator-Last-Commit)
-
-</details>
-
-<details>
   <summary><strong>Dynodal</strong></summary>
 
 Implemented a research-grade 3D ballistic dynamics simulation framework with high-fidelity physics, UKF state estimation, Neural ODE corrections, Transformer-based impact prediction, and GPU-accelerated surrogate models. Developed Python APIs, integrated real-time 3D visualization, and modularized subsystems for physics, estimation, prediction, and uncertainty quantification.
@@ -93,20 +84,20 @@ Developed a flight simulator combining Unreal Engine 5 and a Python/Flask web ba
 </details>
 
 <details>
-  <summary><strong>3D Autonomous Smart Home Simulator</strong></summary>
-
-Engineered a 3D smart home simulator with autonomous scheduling, multi-protocol C universal remote, and backend integrations for Broadlink, Samsung, LG, HDMI-CEC, REST API, MQTT, and Home Assistant. Built the 3D living room environment with interactive lighting, responsive TV, and GPU graphics. Implemented latency measurement, assembly-optimized IR timing, and modular adapters for simulation or real device control.
-
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/universal-remote-simulator?color=purple&label=universal-remote-simulator-Last-Commit)
-
-</details>
-
-<details>
   <summary><strong>NeuralGPTOS</strong></summary>
 
 Designed and implemented NeuralGPTOS, an AI-native operating system with kernel-integrated agent runtime, eBPF-based semantic messaging, and vector memory services. Developed GPU memory management, sensory I/O drivers, and WASM/eBPF sandboxing to enable secure, high-performance AI agent execution directly within the OS.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/neuralgptos?color=blue&label=NeuralFabricGPTOS-Last-Commit)
+
+</details>
+
+<details>
+  <summary><strong>3D Smart Home Simulator with Universal Remote</strong></summary>
+
+Engineered a full-stack 3D smart home simulator with autonomous scheduling and interactive control. Developed a multi-protocol C universal remote supporting NEC, RC5, RC6, Sony SIRC, and brand-optimized IR transmission with assembly-level timing for precise 38kHz carrier generation. Built a GPU-accelerated 3D living room environment with responsive TV, dynamic lighting, and clickable remote controls. Implemented modular firmware architecture with universal TV code scanning, multi-protocol fallback, and latency instrumentation for performance profiling. Integrated REST API, WebSocket, MQTT, and Home Assistant/Node-RED adapters, enabling simulation or real device control. Created real-time interactive web UI bridging native C firmware with Python backend for streaming service shortcuts, animated feedback, and full virtual device control.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/universal-remote-simulator?color=purple&label=universal-remote-simulator-Last-Commit)
 
 </details>
 
