@@ -97,7 +97,7 @@ Designed and implemented NeuralGPTOS, an AI-native operating system with kernel-
 
 Engineered a full-stack 3D smart home simulator with autonomous scheduling and interactive control. Developed a multi-protocol C universal remote supporting NEC, RC5, RC6, Sony SIRC, and brand-optimized IR transmission with assembly-level timing for precise 38kHz carrier generation. Built a GPU-accelerated 3D living room environment with responsive TV, dynamic lighting, and clickable remote controls. Implemented modular firmware architecture with universal TV code scanning, multi-protocol fallback, and latency instrumentation for performance profiling. Integrated REST API, WebSocket, MQTT, and Home Assistant/Node-RED adapters, enabling simulation or real device control. Created real-time interactive web UI bridging native C firmware with Python backend for streaming service shortcuts, animated feedback, and full virtual device control.
 
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/universal-remote-simulator?color=purple&label=universal-remote-simulator-Last-Commit)
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/smart-home-rc-simulator?color=purple&label=universal-remote-simulator-Last-Commit)
 
 </details>
 
