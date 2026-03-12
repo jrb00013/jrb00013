@@ -11,7 +11,7 @@ West Virginia University, B.S. in Computer Engineering - (Graduated May 2025)
 
 ## Stats
 
-![Stats Are Down](https://github-readme-stats.vercel.app/api?username=jrb00013&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![Stats Are Down](https://github-readme-stats.vercel.app/api?username=jrb00013&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![---> GitHub Streak is Down At The Moment <---](https://streak-stats.demolab.com/?user=jrb00013&theme=radical)
 ![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=pie&theme=radical)
 ---
