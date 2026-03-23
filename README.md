@@ -7,7 +7,7 @@ I'm a systems engineer, musician, organization leader, and a 2025 graduate of We
 ## Education
 West Virginia University, B.S. in Computer Engineering - (Graduated May 2025)  
 
-# 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu)
+# [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Black-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joseph-black-wvu)
 
 ## Stats
 
