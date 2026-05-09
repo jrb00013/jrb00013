@@ -121,6 +121,14 @@ Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles
 
 </details>
 
+<details>
+<summary><strong>ninehoto</strong></summary>
+
+Native photo and video cleanup for iOS and Android: SwiftUI + Photos on iOS, .NET for Android with MediaStore. Swipe left to queue deletes, right to keep; nothing is removed until you confirm. Includes LRU thumbnail caching, prefetching, and a refreshed shell on both platforms.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/ninehoto?color=green&label=ninehoto-Last-Commit)
+
+</details>
 
 <details>
   <summary><strong>ExamJam: Interactive Full-Stack Study Platform</strong></summary>
