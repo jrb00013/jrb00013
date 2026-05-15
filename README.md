@@ -17,7 +17,7 @@ West Virginia University, B.S. in Computer Engineering - (Graduated May 2025)
 ![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=pie&theme=radical)
 ---
 ## Projects
-<details> 
+<details>
   
 <details>
   <summary><strong>F1TENTH Autonomous Racecar</strong></summary>
