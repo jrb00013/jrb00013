@@ -18,6 +18,7 @@ West Virginia University, B.S. in Computer Engineering - (Graduated May 2025)
 ---
 ## Projects
 <details> 
+  
 <details>
   <summary><strong>F1TENTH Autonomous Racecar</strong></summary>
 
