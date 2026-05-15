@@ -17,7 +17,7 @@ West Virginia University, B.S. in Computer Engineering - (Graduated May 2025)
 ![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013&layout=pie&theme=radical)
 ---
 ## Projects
-
+<details> 
 <details>
   <summary><strong>F1TENTH Autonomous Racecar</strong></summary>
 
@@ -204,8 +204,8 @@ Blank Full Stack Website Template for younger devs to make their own websites, a
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=pink&label=JaxK-Last-Commit)
 </details>
+</details>
 
----
 
 # Background
 <details>
