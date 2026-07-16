@@ -70,6 +70,70 @@ Designed and implemented a small interactive agentic social gathering, local eve
 </details>
 
 <details>
+  <summary><strong>Rohomieo: Self-Hosted Remote Desktop</strong></summary>
+
+Built a self-hosted remote desktop stack that streams and controls a computer from a phone over WireGuard + WebRTC. One-command setup across WSL2, Linux, macOS, and Windows, with signaling, host binaries, and session start/stop tooling so you own the full remote path end to end.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/rohomieo?color=teal&label=rohomieo-Last-Commit)
+</details>
+
+<details>
+  <summary><strong>rudycanshoot: Screenshot MCP for AI Assistants</strong></summary>
+
+Shipped an MCP server and CLI that lets AI coding assistants take and view screenshots. Auto-installs into Claude Code, Cursor, Windsurf, Codex, Gemini CLI, OpenCode, Continue, Cline, and related tools so agents can see the screen while they work.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/rudycanshoot?color=red&label=rudycanshoot-Last-Commit)
+</details>
+
+<details>
+  <summary><strong>razochar6e: Firmware Battery Charge Scheduler</strong></summary>
+
+Cross-platform laptop battery charge scheduling that keeps packs in a healthy 20–80% band via firmware-backed charge thresholds. One binary and setup flow for Linux, Windows, macOS, and WSL→Windows host control, with support across common OEM charge-limit interfaces.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/razochar6e?color=yellow&label=razochar6e-Last-Commit)
+</details>
+
+<details>
+  <summary><strong>PDF2Text Studio</strong></summary>
+
+Convert PDFs to plain text or Markdown without losing images: placeholder markers, reversible Base64 embedding, AI image descriptions, or extracted assets. Ships as a CLI, local web UI, and desktop app for archival, accessibility, and doc pipelines.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/pdf2text-studio?color=blue&label=pdf2text-studio-Last-Commit)
+</details>
+
+<details>
+  <summary><strong>pdf-genesis: Research Paper PDF Generator</strong></summary>
+
+Research PDF toolkit that synthesizes structured papers from repo metadata, theory docs, experiments, and benchmarks — or compiles markdown exports into a compendium. Supports JSON export modes and LaTeX math rendering for reproducible research writeups.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/pdf-genesis?color=purple&label=pdf-genesis-Last-Commit)
+</details>
+
+<details>
+  <summary><strong>JMS Porthole: Janus Monitoring Suite</strong></summary>
+
+Python CLI toolkit for remote monitoring, desktop broadcasting, and network recon. Commands cover VNC broadcast, live system metrics, port scanning, service fingerprinting, SSH shells, remote screenshots, and live log tailing under a single `jms` / `porthole` interface.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jms-porthole?color=orange&label=jms-porthole-Last-Commit)
+</details>
+
+<details>
+  <summary><strong>stora6e: Local Storage Cleanup</strong></summary>
+
+Local-only storage cleanup app with a C++ backend that scans for old, large, cache, temp, log, and duplicate files, plus a React UI bound to localhost. Safe trash-first deletes and scoped scanning — nothing leaves the machine.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/stora6e?color=green&label=stora6e-Last-Commit)
+</details>
+
+<details>
+  <summary><strong>brac7: Tournament Bracket Generator</strong></summary>
+
+Tournament bracket generator with CLI, Python library, and Django UI. Supports single/double elimination, seeding, byes, and export to XLSX, PDF, Markdown, and Mermaid, plus interactive winner tracking and a 2D design workspace.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/brac7?color=crimson&label=brac7-Last-Commit)
+</details>
+
+<details>
   <summary><strong>Dynodal</strong></summary>
 
 Implemented a research-grade 3D ballistic dynamics simulation framework with high-fidelity physics, UKF state estimation, Neural ODE corrections, Transformer-based impact prediction, and GPU-accelerated surrogate models. Developed Python APIs, integrated real-time 3D visualization, and modularized subsystems for physics, estimation, prediction, and uncertainty quantification.
