@@ -79,9 +79,9 @@ Led the development of a 1/10th scale autonomous racecar as part of WVU's F1TENT
 <p></p>
 
 <details>
-  <summary><strong>↳ Aamati: AI-Powered MIDI Groove Synthesizer</strong></summary>
+  <summary><strong>↳ Aamati: AI-Powered DAW</strong></summary>
 
-Almost finished with my intelligent MIDI audio pipeline using the JUCE framework with C++ and PyTorch for real-time MIDI rhythm manipulation based on psychoacoustic modeling.
+Building an AI-native DAW with mood intelligence — standalone studio shell plus JUCE audio engine, MIDI workflows, and a Python ML pipeline that trains ONNX models to predict musical mood and drive real-time effects across 10 categories.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Aamati?color=green&label=Aamati-Last-Commit)
 </details>
