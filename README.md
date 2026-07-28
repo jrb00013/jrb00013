@@ -197,6 +197,70 @@ Native photo and video cleanup for iOS and Android: SwiftUI + Photos on iOS, .NE
 </details>
 
 <details>
+  <summary><strong>DescentDefense: Local Network Monitor</strong></summary>
+
+Home-lab defensive monitoring dashboard with LAN device discovery, packet/bandwidth visibility, alerting, and optional live screen viewing for devices on your network.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/descent-defense?color=darkgreen&label=descent-defense-Last-Commit)
+</details>
+
+<details>
+  <summary><strong>Smitical: Generative Materials Discovery</strong></summary>
+
+Research engine for inverse design of crystal structures and alloys from abundant elements, aimed at reducing reliance on scarce specialty metals. Combines structure generation, surrogate filtering, and synthesis-oriented outputs.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/smitical?color=silver&label=smitical-Last-Commit)
+</details>
+
+<details>
+  <summary><strong>Taperforge: Harm-Reduction TUI Planner</strong></summary>
+
+Terminal companion for evidence-informed taper planning and harm-reduction education — check-ins, cited clinical calculators, journaling, and crisis hotlines. Not medical advice.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/taperforge?color=olive&label=taperforge-Last-Commit)
+</details>
+
+<details>
+  <summary><strong>Differential Harness: Salinity-Gradient Energy Research</strong></summary>
+
+Hardware and simulation research stack for salinity-gradient energy concepts: physics models, OpenSCAD part designs, DAQ logging, and bench validation tooling.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/differential-harness?color=navy&label=differential-harness-Last-Commit)
+</details>
+
+<details>
+  <summary><strong>Doctier: Local Context Agent + Browser Extension</strong></summary>
+
+Local-first context agent and Chrome extension that tracks submissions, correlates open tabs, and surfaces live briefings via a gateway, overlay, and dashboard — all running on your machine.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/doctier?color=lightblue&label=doctier-Last-Commit)
+</details>
+
+<details>
+  <summary><strong>TV Stretch: Multi-Room HDMI-CEC Control</strong></summary>
+
+Room-aware TV coordination with ESP32 HDMI-CEC nodes, KiCad hardware, and a FastAPI control plane for power, input, and multi-TV handoff across a home.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/tv-stretch?color=maroon&label=tv-stretch-Last-Commit)
+</details>
+
+<details>
+  <summary><strong>LinkedIn Hiring Scraper</strong></summary>
+
+Personal Playwright toolkit for exporting your own LinkedIn hiring applicant data from a logged-in browser session to CSV or JSON — no API keys required.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/linkedin-scraper?color=skyblue&label=linkedin-scraper-Last-Commit)
+</details>
+
+<details>
+  <summary><strong>Full-Stack AI Microservices Website Template</strong></summary>
+
+Reusable full-stack AI app/website starter distilled from tripblip’s working architecture for faster solo prototyping and staging.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Full-Stack-AI-Microservices-Website-Template?color=gray&label=AI-Website-Template-Last-Commit)
+</details>
+
+<details>
   <summary><strong>ExamJam: Interactive Full-Stack Study Platform</strong></summary>
 
 Developed a full-stack collaborative study platform specifically designed for West Virginia University students, providing free access to course-organized flashcards and study materials. Built using React.js frontend with Firebase authentication and MySQL backend, featuring dynamic search functionality, class-based organization, and responsive UI design. Implemented secure user authentication, real-time data synchronization, and intuitive course categorization to eliminate paywalls common in commercial study apps. Collaborated in an Agile development environment with Git version control, contributing to architectural design, component logic, and testing infrastructure.  
