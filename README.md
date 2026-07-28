@@ -70,7 +70,7 @@ Led the development of a 1/10th scale autonomous racecar as part of WVU's F1TENT
 </details>
 
 <details>
-  <summary><img alt="Click here for more projects" src="https://img.shields.io/badge/Click%20here%20for%20more%20projects-2ea44f?style=for-the-badge"></summary>
+  <summary><strong>Click here for more projects</strong></summary>
 
 <br/>
 
