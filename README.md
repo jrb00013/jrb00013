@@ -18,8 +18,41 @@ West Virginia University, B.S. in Computer Engineering - (Graduated May 2025)
 <!--![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013)-->
 ---
 ## Projects
-<!-- <details> -->
-  
+
+<details>
+  <summary><strong>NeuralGPTOS</strong></summary>
+
+Designed and implemented NeuralGPTOS, an AI-native operating system with kernel-integrated agent runtime, eBPF-based semantic messaging, and vector memory services. Developed GPU memory management, sensory I/O drivers, and WASM/eBPF sandboxing to enable secure, high-performance AI agent execution directly within the OS.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/neuralgptos?color=blue&label=NeuralFabricGPTOS-Last-Commit)
+
+</details>
+
+<details>
+  <summary><strong>Dynodal</strong></summary>
+
+Implemented a research-grade 3D ballistic dynamics simulation framework with high-fidelity physics, UKF state estimation, Neural ODE corrections, Transformer-based impact prediction, and GPU-accelerated surrogate models. Developed Python APIs, integrated real-time 3D visualization, and modularized subsystems for physics, estimation, prediction, and uncertainty quantification.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/dynodal?color=blue&label=dynodal-Last-Commit)
+
+</details>
+
+<details>
+  <summary><strong>Smitical: Generative Materials Discovery</strong></summary>
+
+Research engine for inverse design of crystal structures and alloys from abundant elements, aimed at reducing reliance on scarce specialty metals. Combines structure generation, surrogate filtering, and synthesis-oriented outputs.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/smitical?color=silver&label=smitical-Last-Commit)
+</details>
+
+<details>
+  <summary><strong>Lydlr: Multimodal Edge AI Compression System</strong></summary>
+
+Currently designing a real-time multimodal sensor data compression system using ROS2 and PyTorch, targeting edge devices. At the moment, I'm deploying my nodes onto a Raspberry Pi, and eventually plan to utilize an NVIDIA Jetson. The system fuses camera, LiDAR, IMU, and audio inputs through convolutional and recurrent neural networks to achieve efficient learned compression with temporal context. Integrated a reinforcement learning-based adaptive compression controller that dynamically balances compression quality and system resource usage, guided by live perceptual quality assessment (LPIPS) and system metrics. I also prepared the data for quantization for AI edge hardware.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Lydlr?color=crimson&label=Lydlr-Last-Commit)
+</details>
+
 <details>
   <summary><strong>F1TENTH Autonomous Racecar</strong></summary>
 
@@ -37,12 +70,8 @@ Led the development of a 1/10th scale autonomous racecar as part of WVU's F1TENT
 </details>
 
 <details>
-  <summary><strong>Lydlr: Multimodal Edge AI Compression System</strong></summary>
+  <summary><strong>Click for more projects</strong></summary>
 
-Currently designing a real-time multimodal sensor data compression system using ROS2 and PyTorch, targeting edge devices. At the moment, I'm deploying my nodes onto a Raspberry Pi, and eventually plan to utilize an NVIDIA Jetson. The system fuses camera, LiDAR, IMU, and audio inputs through convolutional and recurrent neural networks to achieve efficient learned compression with temporal context. Integrated a reinforcement learning-based adaptive compression controller that dynamically balances compression quality and system resource usage, guided by live perceptual quality assessment (LPIPS) and system metrics. I also prepared the data for quantization for AI edge hardware.
-
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Lydlr?color=crimson&label=Lydlr-Last-Commit)
-</details>
 
 <details>
   <summary><strong>Aamati: AI-Powered MIDI Groove Synthesizer</strong></summary>
@@ -51,7 +80,6 @@ Almost finished with my intelligent MIDI audio pipeline using the JUCE framework
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Aamati?color=green&label=Aamati-Last-Commit)
 </details>
-
 
 <details>
   <summary><strong>Keke: Real-time AI-Powered Excel Assistant </strong></summary>
@@ -134,29 +162,11 @@ Tournament bracket generator with CLI, Python library, and Django UI. Supports s
 </details>
 
 <details>
-  <summary><strong>Dynodal</strong></summary>
-
-Implemented a research-grade 3D ballistic dynamics simulation framework with high-fidelity physics, UKF state estimation, Neural ODE corrections, Transformer-based impact prediction, and GPU-accelerated surrogate models. Developed Python APIs, integrated real-time 3D visualization, and modularized subsystems for physics, estimation, prediction, and uncertainty quantification.
-
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/dynodal?color=blue&label=dynodal-Last-Commit)
-
-</details>
-
-<details>
   <summary><strong>Sykum Flight Simulator</strong></summary>
 
 Developed a flight simulator combining Unreal Engine 5 and a Python/Flask web backend. Engineered core flight physics, 3D terrain and camera systems, HUD telemetry, and optional YOLOv8 detection. Built a responsive web frontend with chase/cockpit camera, keyboard/remote input, and real-time physics integration.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/sykum-sim?color=green&label=sykum-sim-Last-Commit)
-
-</details>
-
-<details>
-  <summary><strong>NeuralGPTOS</strong></summary>
-
-Designed and implemented NeuralGPTOS, an AI-native operating system with kernel-integrated agent runtime, eBPF-based semantic messaging, and vector memory services. Developed GPU memory management, sensory I/O drivers, and WASM/eBPF sandboxing to enable secure, high-performance AI agent execution directly within the OS.
-
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/neuralgptos?color=blue&label=NeuralFabricGPTOS-Last-Commit)
 
 </details>
 
@@ -202,14 +212,6 @@ Native photo and video cleanup for iOS and Android: SwiftUI + Photos on iOS, .NE
 Home-lab defensive monitoring dashboard with LAN device discovery, packet/bandwidth visibility, alerting, and optional live screen viewing for devices on your network.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/descent-defense?color=darkgreen&label=descent-defense-Last-Commit)
-</details>
-
-<details>
-  <summary><strong>Smitical: Generative Materials Discovery</strong></summary>
-
-Research engine for inverse design of crystal structures and alloys from abundant elements, aimed at reducing reliance on scarce specialty metals. Combines structure generation, surrogate filtering, and synthesis-oriented outputs.
-
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/smitical?color=silver&label=smitical-Last-Commit)
 </details>
 
 <details>
@@ -310,7 +312,6 @@ A sports data analysis and management system designed for sports analysts, resea
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/athletidb?color=brown&label=JaxK-Last-Commit)
 </details>
 
-
 <details>
   <summary><strong>Discord Call of Duty Statistics Bot</strong></summary>
 
@@ -335,7 +336,7 @@ Blank Full Stack Website Template for younger devs to make their own websites, a
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=pink&label=JaxK-Last-Commit)
 </details>
 
-<!-- </details> -->
+</details>
 
 
 # Background
