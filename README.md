@@ -20,12 +20,11 @@ West Virginia University, B.S. in Computer Engineering - (Graduated May 2025)
 ## Projects
 
 <details>
-  <summary><strong>NeuralGPTOS</strong></summary>
+  <summary><strong>Lydlr: Multimodal Edge AI Compression System</strong></summary>
 
-Designed and implemented NeuralGPTOS, an AI-native operating system with kernel-integrated agent runtime, eBPF-based semantic messaging, and vector memory services. Developed GPU memory management, sensory I/O drivers, and WASM/eBPF sandboxing to enable secure, high-performance AI agent execution directly within the OS.
+Currently designing a real-time multimodal sensor data compression system using ROS2 and PyTorch, targeting edge devices. At the moment, I'm deploying my nodes onto a Raspberry Pi, and eventually plan to utilize an NVIDIA Jetson. The system fuses camera, LiDAR, IMU, and audio inputs through convolutional and recurrent neural networks to achieve efficient learned compression with temporal context. Integrated a reinforcement learning-based adaptive compression controller that dynamically balances compression quality and system resource usage, guided by live perceptual quality assessment (LPIPS) and system metrics. I also prepared the data for quantization for AI edge hardware.
 
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/neuralgptos?color=blue&label=NeuralFabricGPTOS-Last-Commit)
-
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Lydlr?color=crimson&label=Lydlr-Last-Commit)
 </details>
 
 <details>
@@ -38,19 +37,20 @@ Implemented a research-grade 3D ballistic dynamics simulation framework with hig
 </details>
 
 <details>
-  <summary><strong>Smitical: Generative Materials Discovery</strong></summary>
+  <summary><strong>ASM x86 Real Mode OS</strong></summary>
 
-Research engine for inverse design of crystal structures and alloys from abundant elements, aimed at reducing reliance on scarce specialty metals. Combines structure generation, surrogate filtering, and synthesis-oriented outputs.
+Designed a bootable operating system written in pure x86 assembly, designed to run in real mode on legacy x86 architecture. Developed a custom 512-byte bootloader that initializes CPU, loads kernel from disk using BIOS INT 13h, and implements a command-line shell with keyboard input handling. Integrated FAT12 file system parsing, custom interrupt handlers through IVT modification, and basic memory management with segment:offset addressing. Successfully deployed on PlayStation 2 hardware using Free McBoot and a DMS3 modchip. Currently updating.
 
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/smitical?color=silver&label=smitical-Last-Commit)
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/asmOS?color=orange&label=asmOS-Last-Commit)
+
 </details>
 
 <details>
-  <summary><strong>Lydlr: Multimodal Edge AI Compression System</strong></summary>
+  <summary><strong>rudycanshoot: Screenshot MCP for AI Assistants</strong></summary>
 
-Currently designing a real-time multimodal sensor data compression system using ROS2 and PyTorch, targeting edge devices. At the moment, I'm deploying my nodes onto a Raspberry Pi, and eventually plan to utilize an NVIDIA Jetson. The system fuses camera, LiDAR, IMU, and audio inputs through convolutional and recurrent neural networks to achieve efficient learned compression with temporal context. Integrated a reinforcement learning-based adaptive compression controller that dynamically balances compression quality and system resource usage, guided by live perceptual quality assessment (LPIPS) and system metrics. I also prepared the data for quantization for AI edge hardware.
+Shipped an MCP server and CLI that lets AI coding assistants take and view screenshots. Auto-installs into Claude Code, Cursor, Windsurf, Codex, Gemini CLI, OpenCode, Continue, Cline, and related tools so agents can see the screen while they work.
 
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Lydlr?color=crimson&label=Lydlr-Last-Commit)
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/rudycanshoot?color=red&label=rudycanshoot-Last-Commit)
 </details>
 
 <details>
@@ -72,97 +72,135 @@ Led the development of a 1/10th scale autonomous racecar as part of WVU's F1TENT
 <details>
   <summary><strong>Click for more projects</strong></summary>
 
+<br/>
+
+---
+
+<p></p>
 
 <details>
-  <summary><strong>Aamati: AI-Powered MIDI Groove Synthesizer</strong></summary>
+  <summary><strong>↳ Aamati: AI-Powered MIDI Groove Synthesizer</strong></summary>
 
 Almost finished with my intelligent MIDI audio pipeline using the JUCE framework with C++ and PyTorch for real-time MIDI rhythm manipulation based on psychoacoustic modeling.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Aamati?color=green&label=Aamati-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>Keke: Real-time AI-Powered Excel Assistant </strong></summary>
+  <summary><strong>↳ NeuralGPTOS</strong></summary>
+
+Designed and implemented NeuralGPTOS, an AI-native operating system with kernel-integrated agent runtime, eBPF-based semantic messaging, and vector memory services. Developed GPU memory management, sensory I/O drivers, and WASM/eBPF sandboxing to enable secure, high-performance AI agent execution directly within the OS.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/neuralgptos?color=blue&label=NeuralFabricGPTOS-Last-Commit)
+
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>↳ Smitical: Generative Materials Discovery</strong></summary>
+
+Research engine for inverse design of crystal structures and alloys from abundant elements, aimed at reducing reliance on scarce specialty metals. Combines structure generation, surrogate filtering, and synthesis-oriented outputs.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/smitical?color=silver&label=smitical-Last-Commit)
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>↳ Keke: Real-time AI-Powered Excel Assistant </strong></summary>
 
 Built a native AI-driven FreeRTOS-based application for analyzing, cleaning, visualizing, and predicting from spreadsheet data. Developed the core processing engine, integrated intelligent data workflows with FreeRTOS, and designed an simple user interface to help with data analysis.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/keke?color=white&label=Keke-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>tripblip </strong></summary>
+  <summary><strong>↳ tripblip </strong></summary>
 
 Designed and implemented a small interactive agentic social gathering, local event planning, and trip advisory platform with OpenAI integrations. 
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/tripblip?color=orange&label=tripblip-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>Rohomieo: Self-Hosted Remote Desktop</strong></summary>
+  <summary><strong>↳ Rohomieo: Self-Hosted Remote Desktop</strong></summary>
 
 Built a self-hosted remote desktop stack that streams and controls a computer from a phone over WireGuard + WebRTC. One-command setup across WSL2, Linux, macOS, and Windows, with signaling, host binaries, and session start/stop tooling so you own the full remote path end to end.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/rohomieo?color=teal&label=rohomieo-Last-Commit)
 </details>
 
-<details>
-  <summary><strong>rudycanshoot: Screenshot MCP for AI Assistants</strong></summary>
-
-Shipped an MCP server and CLI that lets AI coding assistants take and view screenshots. Auto-installs into Claude Code, Cursor, Windsurf, Codex, Gemini CLI, OpenCode, Continue, Cline, and related tools so agents can see the screen while they work.
-
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/rudycanshoot?color=red&label=rudycanshoot-Last-Commit)
-</details>
+<br/>
 
 <details>
-  <summary><strong>razochar6e: Firmware Battery Charge Scheduler</strong></summary>
+  <summary><strong>↳ razochar6e: Firmware Battery Charge Scheduler</strong></summary>
 
 Cross-platform laptop battery charge scheduling that keeps packs in a healthy 20–80% band via firmware-backed charge thresholds. One binary and setup flow for Linux, Windows, macOS, and WSL→Windows host control, with support across common OEM charge-limit interfaces.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/razochar6e?color=yellow&label=razochar6e-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>PDF2Text Studio</strong></summary>
+  <summary><strong>↳ PDF2Text Studio</strong></summary>
 
 Convert PDFs to plain text or Markdown without losing images: placeholder markers, reversible Base64 embedding, AI image descriptions, or extracted assets. Ships as a CLI, local web UI, and desktop app for archival, accessibility, and doc pipelines.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/pdf2text-studio?color=blue&label=pdf2text-studio-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>pdf-genesis: Research Paper PDF Generator</strong></summary>
+  <summary><strong>↳ pdf-genesis: Research Paper PDF Generator</strong></summary>
 
 Research PDF toolkit that synthesizes structured papers from repo metadata, theory docs, experiments, and benchmarks — or compiles markdown exports into a compendium. Supports JSON export modes and LaTeX math rendering for reproducible research writeups.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/pdf-genesis?color=purple&label=pdf-genesis-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>JMS Porthole: Janus Monitoring Suite</strong></summary>
+  <summary><strong>↳ JMS Porthole: Janus Monitoring Suite</strong></summary>
 
 Python CLI toolkit for remote monitoring, desktop broadcasting, and network recon. Commands cover VNC broadcast, live system metrics, port scanning, service fingerprinting, SSH shells, remote screenshots, and live log tailing under a single `jms` / `porthole` interface.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jms-porthole?color=orange&label=jms-porthole-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>stora6e: Local Storage Cleanup</strong></summary>
+  <summary><strong>↳ stora6e: Local Storage Cleanup</strong></summary>
 
 Local-only storage cleanup app with a C++ backend that scans for old, large, cache, temp, log, and duplicate files, plus a React UI bound to localhost. Safe trash-first deletes and scoped scanning — nothing leaves the machine.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/stora6e?color=green&label=stora6e-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>brac7: Tournament Bracket Generator</strong></summary>
+  <summary><strong>↳ brac7: Tournament Bracket Generator</strong></summary>
 
 Tournament bracket generator with CLI, Python library, and Django UI. Supports single/double elimination, seeding, byes, and export to XLSX, PDF, Markdown, and Mermaid, plus interactive winner tracking and a 2D design workspace.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/brac7?color=crimson&label=brac7-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>Sykum Flight Simulator</strong></summary>
+  <summary><strong>↳ Sykum Flight Simulator</strong></summary>
 
 Developed a flight simulator combining Unreal Engine 5 and a Python/Flask web backend. Engineered core flight physics, 3D terrain and camera systems, HUD telemetry, and optional YOLOv8 detection. Built a responsive web frontend with chase/cockpit camera, keyboard/remote input, and real-time physics integration.
 
@@ -170,8 +208,10 @@ Developed a flight simulator combining Unreal Engine 5 and a Python/Flask web ba
 
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>3D Smart Home Simulator with Universal Remote</strong></summary>
+  <summary><strong>↳ 3D Smart Home Simulator with Universal Remote</strong></summary>
 
 Engineered a full-stack 3D smart home simulator with autonomous scheduling and interactive control. Developed a multi-protocol C universal remote supporting NEC, RC5, RC6, Sony SIRC, and brand-optimized IR transmission with assembly-level timing for precise 38kHz carrier generation. Built a GPU-accelerated 3D living room environment with responsive TV, dynamic lighting, and clickable remote controls. Implemented modular firmware architecture with universal TV code scanning, multi-protocol fallback, and latency instrumentation for performance profiling. Integrated REST API, WebSocket, MQTT, and Home Assistant/Node-RED adapters, enabling simulation or real device control. Created real-time interactive web UI bridging native C firmware with Python backend for streaming service shortcuts, animated feedback, and full virtual device control.
 
@@ -179,17 +219,10 @@ Engineered a full-stack 3D smart home simulator with autonomous scheduling and i
 
 </details>
 
-<details>
-  <summary><strong>ASM x86 Real Mode OS</strong></summary>
-
-Designed a bootable operating system written in pure x86 assembly, designed to run in real mode on legacy x86 architecture. Developed a custom 512-byte bootloader that initializes CPU, loads kernel from disk using BIOS INT 13h, and implements a command-line shell with keyboard input handling. Integrated FAT12 file system parsing, custom interrupt handlers through IVT modification, and basic memory management with segment:offset addressing. Successfully deployed on PlayStation 2 hardware using Free McBoot and a DMS3 modchip. Currently updating.
-
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/asmOS?color=orange&label=asmOS-Last-Commit)
-
-</details>
+<br/>
 
 <details>
-  <summary><strong>PortGremlin: USB Spoofing Firmware</strong></summary>
+  <summary><strong>↳ PortGremlin: USB Spoofing Firmware</strong></summary>
 
 Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles through multiple USB device classes (HID keyboard, audio, printer, gamepad, MIDI) with randomized vendor/product IDs to spoof USB identities. Implemented timed USB descriptor switching and VID/PID spoofing using TI’s TivaWare USB library to test host OS device enumeration, driver stability, and security assumptions. Designed malformed descriptors to evaluate host resilience against unexpected USB device behaviors.
 
@@ -197,8 +230,10 @@ Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles
 
 </details>
 
+<br/>
+
 <details>
-<summary><strong>ninehoto</strong></summary>
+<summary><strong>↳ ninehoto</strong></summary>
 
 Native photo and video cleanup for iOS and Android: SwiftUI + Photos on iOS, .NET for Android with MediaStore. Swipe left to queue deletes, right to keep; nothing is removed until you confirm. Includes LRU thumbnail caching, prefetching, and a refreshed shell on both platforms.
 
@@ -206,64 +241,80 @@ Native photo and video cleanup for iOS and Android: SwiftUI + Photos on iOS, .NE
 
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>DescentDefense: Local Network Monitor</strong></summary>
+  <summary><strong>↳ DescentDefense: Local Network Monitor</strong></summary>
 
 Home-lab defensive monitoring dashboard with LAN device discovery, packet/bandwidth visibility, alerting, and optional live screen viewing for devices on your network.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/descent-defense?color=darkgreen&label=descent-defense-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>Taperforge: Harm-Reduction TUI Planner</strong></summary>
+  <summary><strong>↳ Taperforge: Harm-Reduction TUI Planner</strong></summary>
 
 Terminal companion for evidence-informed taper planning and harm-reduction education — check-ins, cited clinical calculators, journaling, and crisis hotlines. Not medical advice.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/taperforge?color=olive&label=taperforge-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>Differential Harness: Salinity-Gradient Energy Research</strong></summary>
+  <summary><strong>↳ Differential Harness: Salinity-Gradient Energy Research</strong></summary>
 
 Hardware and simulation research stack for salinity-gradient energy concepts: physics models, OpenSCAD part designs, DAQ logging, and bench validation tooling.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/differential-harness?color=navy&label=differential-harness-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>Doctier: Local Context Agent + Browser Extension</strong></summary>
+  <summary><strong>↳ Doctier: Local Context Agent + Browser Extension</strong></summary>
 
 Local-first context agent and Chrome extension that tracks submissions, correlates open tabs, and surfaces live briefings via a gateway, overlay, and dashboard — all running on your machine.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/doctier?color=lightblue&label=doctier-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>TV Stretch: Multi-Room HDMI-CEC Control</strong></summary>
+  <summary><strong>↳ TV Stretch: Multi-Room HDMI-CEC Control</strong></summary>
 
 Room-aware TV coordination with ESP32 HDMI-CEC nodes, KiCad hardware, and a FastAPI control plane for power, input, and multi-TV handoff across a home.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/tv-stretch?color=maroon&label=tv-stretch-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>LinkedIn Hiring Scraper</strong></summary>
+  <summary><strong>↳ LinkedIn Hiring Scraper</strong></summary>
 
 Personal Playwright toolkit for exporting your own LinkedIn hiring applicant data from a logged-in browser session to CSV or JSON — no API keys required.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/linkedin-scraper?color=skyblue&label=linkedin-scraper-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>Full-Stack AI Microservices Website Template</strong></summary>
+  <summary><strong>↳ Full-Stack AI Microservices Website Template</strong></summary>
 
 Reusable full-stack AI app/website starter distilled from tripblip’s working architecture for faster solo prototyping and staging.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Full-Stack-AI-Microservices-Website-Template?color=gray&label=AI-Website-Template-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>ExamJam: Interactive Full-Stack Study Platform</strong></summary>
+  <summary><strong>↳ ExamJam: Interactive Full-Stack Study Platform</strong></summary>
 
 Developed a full-stack collaborative study platform specifically designed for West Virginia University students, providing free access to course-organized flashcards and study materials. Built using React.js frontend with Firebase authentication and MySQL backend, featuring dynamic search functionality, class-based organization, and responsive UI design. Implemented secure user authentication, real-time data synchronization, and intuitive course categorization to eliminate paywalls common in commercial study apps. Collaborated in an Agile development environment with Git version control, contributing to architectural design, component logic, and testing infrastructure.  
 
@@ -277,8 +328,10 @@ Developed a full-stack collaborative study platform specifically designed for We
 
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>404NotFound MPX OS</strong></summary>
+  <summary><strong>↳ 404NotFound MPX OS</strong></summary>
 
 Designed and implemented a cooperative multitasking OS kernel using C and x86 assembly, mimicking early embedded RTOS architectures with precise timing and interrupt control. Developed custom interrupt service routines, system call interfaces, and process management using Process Control Blocks (PCBs) and Memory Control Blocks (MCBs). Implemented full context-switching mechanisms managing register states and stack frames, along with modular shell support, serial drivers (polling and interrupt modes), software timers, and real-time I/O scheduling without relying on existing operating systems.
 
@@ -288,8 +341,10 @@ Designed and implemented a cooperative multitasking OS kernel using C and x86 as
 
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>MSP432 Microcontroller Robot</strong></summary>
+  <summary><strong>↳ MSP432 Microcontroller Robot</strong></summary>
 
 Programmed a fully autonomous robot using bare-metal C on the MSP432 microcontroller with no operating system. Integrated analog and digital sensors via GPIO and implemented real-time obstacle avoidance logic using timer interrupts and PWM-based motor control. Focused on efficient resource usage, low-latency decision-making, and precise motor speed modulation to achieve responsive navigation in dynamic environments. Demonstrated deep understanding of embedded systems design, peripheral configuration, and hardware-level programming.
 
@@ -297,39 +352,49 @@ Programmed a fully autonomous robot using bare-metal C on the MSP432 microcontro
 
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>VHDL RISC-Style CPU with Custom ISA</strong></summary>
+  <summary><strong>↳ VHDL RISC-Style CPU with Custom ISA</strong></summary>
 
 Engineered a custom 8-bit CPU from scratch using VHDL, emphasizing instruction-level control and finite state machine design. Created custom instruction set, hardcoded ALU, register file, and memory-mapped I/O interface with ModelSim simulation for timing analysis. Implemented FSMs for instruction fetch/decode/execute cycles, addressing real-world timing constraints including clock domain crossing and synchronous resets. Designed architecture supports basic arithmetic, logic operations, and I/O interfacing, laying groundwork for future FPGA-based projects.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/vhdl-cpu?color=indigo&label=VHDL-CPU-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>AthletiDB</strong></summary>
+  <summary><strong>↳ AthletiDB</strong></summary>
 A sports data analysis and management system designed for sports analysts, researchers, and enthusiasts. This pipeline provides robust data collection, normalization, analysis, and export capabilities across multiple sports leagues.
- 
+
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/athletidb?color=brown&label=JaxK-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>Discord Call of Duty Statistics Bot</strong></summary>
+  <summary><strong>↳ Discord Call of Duty Statistics Bot</strong></summary>
 
 Developed and deployed a feature-rich Discord bot for gaming community management, integrating with Call of Duty API (https://codapi.dev/) to track ranked play statistics. Implemented REST API communication, asynchronous programming patterns, and real-time message parsing for interactive user commands. Features modular event-driven architecture with comprehensive error handling, logging systems, and live testing protocols. Maintains active deployment with version control and community-driven feature updates.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/CDLstatsBOT?color=blueviolet&label=CDLstatsBOT-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>Gotzi - Network Probe Utility Tool</strong></summary>
+  <summary><strong>↳ Gotzi - Network Probe Utility Tool</strong></summary>
 
 Built a comprehensive Linux-based command-line network diagnostic tool for UDP health assessment and latency analysis. Implemented custom socket programming in Python with precise timing mechanisms for round-trip time calculation, jitter analysis, and packet loss statistics. Features robust logging modules and statistical visualization for network behavior analysis under variable conditions. Designed for network administrators requiring detailed UDP connection diagnostics and performance monitoring capabilities.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/gotzi-probe?color=cyan&label=gotzi-Last-Commit)
 </details>
 
+<br/>
+
 <details>
-  <summary><strong>JaxK Full-Stack Website Template</strong></summary>
+  <summary><strong>↳ JaxK Full-Stack Website Template</strong></summary>
 
 Blank Full Stack Website Template for younger devs to make their own websites, as well as for me to host some of my projects.
 
