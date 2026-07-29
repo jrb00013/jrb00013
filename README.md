@@ -79,7 +79,7 @@ Led the development of a 1/10th scale autonomous racecar as part of WVU's F1TENT
 <p></p>
 
 <details>
-  <summary><strong>↳ Aamati: AI-Powered DAW</strong></summary>
+  <summary><strong>Aamati: AI-Powered DAW</strong></summary>
 
 Building an AI-native DAW with mood intelligence — standalone studio shell plus JUCE audio engine, MIDI workflows, and a Python ML pipeline that trains ONNX models to predict musical mood and drive real-time effects across 10 categories.
 
@@ -89,7 +89,7 @@ Building an AI-native DAW with mood intelligence — standalone studio shell plu
 <br/>
 
 <details>
-  <summary><strong>↳ NeuralGPTOS</strong></summary>
+  <summary><strong>NeuralGPTOS</strong></summary>
 
 Designed and implemented NeuralGPTOS, an AI-native operating system with kernel-integrated agent runtime, eBPF-based semantic messaging, and vector memory services. Developed GPU memory management, sensory I/O drivers, and WASM/eBPF sandboxing to enable secure, high-performance AI agent execution directly within the OS.
 
@@ -100,7 +100,7 @@ Designed and implemented NeuralGPTOS, an AI-native operating system with kernel-
 <br/>
 
 <details>
-  <summary><strong>↳ Smitical: Generative Materials Discovery</strong></summary>
+  <summary><strong>Smitical: Generative Materials Discovery</strong></summary>
 
 Research engine for inverse design of crystal structures and alloys from abundant elements, aimed at reducing reliance on scarce specialty metals. Combines structure generation, surrogate filtering, and synthesis-oriented outputs.
 
@@ -110,7 +110,7 @@ Research engine for inverse design of crystal structures and alloys from abundan
 <br/>
 
 <details>
-  <summary><strong>↳ Keke: Real-time AI-Powered Excel Assistant </strong></summary>
+  <summary><strong>Keke: Real-time AI-Powered Excel Assistant </strong></summary>
 
 Built a native AI-driven FreeRTOS-based application for analyzing, cleaning, visualizing, and predicting from spreadsheet data. Developed the core processing engine, integrated intelligent data workflows with FreeRTOS, and designed an simple user interface to help with data analysis.
 
@@ -120,7 +120,7 @@ Built a native AI-driven FreeRTOS-based application for analyzing, cleaning, vis
 <br/>
 
 <details>
-  <summary><strong>↳ tripblip </strong></summary>
+  <summary><strong>tripblip </strong></summary>
 
 Designed and implemented a small interactive agentic social gathering, local event planning, and trip advisory platform with OpenAI integrations. 
 
@@ -130,7 +130,7 @@ Designed and implemented a small interactive agentic social gathering, local eve
 <br/>
 
 <details>
-  <summary><strong>↳ Rohomieo: Self-Hosted Remote Desktop</strong></summary>
+  <summary><strong>Rohomieo: Self-Hosted Remote Desktop</strong></summary>
 
 Built a self-hosted remote desktop stack that streams and controls a computer from a phone over WireGuard + WebRTC. One-command setup across WSL2, Linux, macOS, and Windows, with signaling, host binaries, and session start/stop tooling so you own the full remote path end to end.
 
@@ -140,7 +140,7 @@ Built a self-hosted remote desktop stack that streams and controls a computer fr
 <br/>
 
 <details>
-  <summary><strong>↳ razochar6e: Firmware Battery Charge Scheduler</strong></summary>
+  <summary><strong>razochar6e: Firmware Battery Charge Scheduler</strong></summary>
 
 Cross-platform laptop battery charge scheduling that keeps packs in a healthy 20–80% band via firmware-backed charge thresholds. One binary and setup flow for Linux, Windows, macOS, and WSL→Windows host control, with support across common OEM charge-limit interfaces.
 
@@ -150,7 +150,7 @@ Cross-platform laptop battery charge scheduling that keeps packs in a healthy 20
 <br/>
 
 <details>
-  <summary><strong>↳ PDF2Text Studio</strong></summary>
+  <summary><strong>PDF2Text Studio</strong></summary>
 
 Convert PDFs to plain text or Markdown without losing images: placeholder markers, reversible Base64 embedding, AI image descriptions, or extracted assets. Ships as a CLI, local web UI, and desktop app for archival, accessibility, and doc pipelines.
 
@@ -160,7 +160,7 @@ Convert PDFs to plain text or Markdown without losing images: placeholder marker
 <br/>
 
 <details>
-  <summary><strong>↳ pdf-genesis: Research Paper PDF Generator</strong></summary>
+  <summary><strong>pdf-genesis: Research Paper PDF Generator</strong></summary>
 
 Research PDF toolkit that synthesizes structured papers from repo metadata, theory docs, experiments, and benchmarks — or compiles markdown exports into a compendium. Supports JSON export modes and LaTeX math rendering for reproducible research writeups.
 
@@ -170,7 +170,7 @@ Research PDF toolkit that synthesizes structured papers from repo metadata, theo
 <br/>
 
 <details>
-  <summary><strong>↳ JMS Porthole: Janus Monitoring Suite</strong></summary>
+  <summary><strong>JMS Porthole: Janus Monitoring Suite</strong></summary>
 
 Python CLI toolkit for remote monitoring, desktop broadcasting, and network recon. Commands cover VNC broadcast, live system metrics, port scanning, service fingerprinting, SSH shells, remote screenshots, and live log tailing under a single `jms` / `porthole` interface.
 
@@ -180,7 +180,7 @@ Python CLI toolkit for remote monitoring, desktop broadcasting, and network reco
 <br/>
 
 <details>
-  <summary><strong>↳ stora6e: Local Storage Cleanup</strong></summary>
+  <summary><strong>stora6e: Local Storage Cleanup</strong></summary>
 
 Local-only storage cleanup app with a C++ backend that scans for old, large, cache, temp, log, and duplicate files, plus a React UI bound to localhost. Safe trash-first deletes and scoped scanning — nothing leaves the machine.
 
@@ -190,7 +190,7 @@ Local-only storage cleanup app with a C++ backend that scans for old, large, cac
 <br/>
 
 <details>
-  <summary><strong>↳ brac7: Tournament Bracket Generator</strong></summary>
+  <summary><strong>brac7: Tournament Bracket Generator</strong></summary>
 
 Tournament bracket generator with CLI, Python library, and Django UI. Supports single/double elimination, seeding, byes, and export to XLSX, PDF, Markdown, and Mermaid, plus interactive winner tracking and a 2D design workspace.
 
@@ -200,7 +200,7 @@ Tournament bracket generator with CLI, Python library, and Django UI. Supports s
 <br/>
 
 <details>
-  <summary><strong>↳ Sykum Flight Simulator</strong></summary>
+  <summary><strong>Sykum Flight Simulator</strong></summary>
 
 Developed a flight simulator combining Unreal Engine 5 and a Python/Flask web backend. Engineered core flight physics, 3D terrain and camera systems, HUD telemetry, and optional YOLOv8 detection. Built a responsive web frontend with chase/cockpit camera, keyboard/remote input, and real-time physics integration.
 
@@ -211,7 +211,7 @@ Developed a flight simulator combining Unreal Engine 5 and a Python/Flask web ba
 <br/>
 
 <details>
-  <summary><strong>↳ 3D Smart Home Simulator with Universal Remote</strong></summary>
+  <summary><strong>Smart Home 3D Simulator with Universal Remote</strong></summary>
 
 Engineered a full-stack 3D smart home simulator with autonomous scheduling and interactive control. Developed a multi-protocol C universal remote supporting NEC, RC5, RC6, Sony SIRC, and brand-optimized IR transmission with assembly-level timing for precise 38kHz carrier generation. Built a GPU-accelerated 3D living room environment with responsive TV, dynamic lighting, and clickable remote controls. Implemented modular firmware architecture with universal TV code scanning, multi-protocol fallback, and latency instrumentation for performance profiling. Integrated REST API, WebSocket, MQTT, and Home Assistant/Node-RED adapters, enabling simulation or real device control. Created real-time interactive web UI bridging native C firmware with Python backend for streaming service shortcuts, animated feedback, and full virtual device control.
 
@@ -222,7 +222,7 @@ Engineered a full-stack 3D smart home simulator with autonomous scheduling and i
 <br/>
 
 <details>
-  <summary><strong>↳ PortGremlin: USB Spoofing Firmware</strong></summary>
+  <summary><strong>PortGremlin: USB Spoofing Firmware</strong></summary>
 
 Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles through multiple USB device classes (HID keyboard, audio, printer, gamepad, MIDI) with randomized vendor/product IDs to spoof USB identities. Implemented timed USB descriptor switching and VID/PID spoofing using TI’s TivaWare USB library to test host OS device enumeration, driver stability, and security assumptions. Designed malformed descriptors to evaluate host resilience against unexpected USB device behaviors.
 
@@ -233,7 +233,7 @@ Developed firmware for the EK-TM4C123GXL microcontroller that dynamically cycles
 <br/>
 
 <details>
-<summary><strong>↳ ninehoto</strong></summary>
+<summary><strong>ninehoto</strong></summary>
 
 Native photo and video cleanup for iOS and Android: SwiftUI + Photos on iOS, .NET for Android with MediaStore. Swipe left to queue deletes, right to keep; nothing is removed until you confirm. Includes LRU thumbnail caching, prefetching, and a refreshed shell on both platforms.
 
@@ -244,9 +244,9 @@ Native photo and video cleanup for iOS and Android: SwiftUI + Photos on iOS, .NE
 <br/>
 
 <details>
-  <summary><strong>↳ DescentDefense: Local Network Monitor</strong></summary>
+  <summary><strong>DescentDefense: Local Network Monitor</strong></summary>
 
-Home-lab defensive monitoring dashboard with LAN device discovery, packet/bandwidth visibility, alerting, and optional live screen viewing for devices on your network.
+Home WIFI defensive monitoring dashboard with LAN device discovery, packet/bandwidth visibility, alerting, and optional live screen viewing for devices on your network.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/descent-defense?color=darkgreen&label=descent-defense-Last-Commit)
 </details>
@@ -254,7 +254,7 @@ Home-lab defensive monitoring dashboard with LAN device discovery, packet/bandwi
 <br/>
 
 <details>
-  <summary><strong>↳ Taperforge: Harm-Reduction TUI Planner</strong></summary>
+  <summary><strong>Taperforge: Harm-Reduction TUI Planner</strong></summary>
 
 Terminal companion for evidence-informed taper planning and harm-reduction education — check-ins, cited clinical calculators, journaling, and crisis hotlines. Not medical advice.
 
@@ -264,7 +264,7 @@ Terminal companion for evidence-informed taper planning and harm-reduction educa
 <br/>
 
 <details>
-  <summary><strong>↳ Differential Harness: Salinity-Gradient Energy Research</strong></summary>
+  <summary><strong>Differential Harness: Salinity-Gradient Energy Research</strong></summary>
 
 Hardware and simulation research stack for salinity-gradient energy concepts: physics models, OpenSCAD part designs, DAQ logging, and bench validation tooling.
 
@@ -274,7 +274,7 @@ Hardware and simulation research stack for salinity-gradient energy concepts: ph
 <br/>
 
 <details>
-  <summary><strong>↳ Doctier: Local Context Agent + Browser Extension</strong></summary>
+  <summary><strong>Doctier: Local Context Agent + Browser Extension</strong></summary>
 
 Local-first context agent and Chrome extension that tracks submissions, correlates open tabs, and surfaces live briefings via a gateway, overlay, and dashboard — all running on your machine.
 
@@ -284,34 +284,14 @@ Local-first context agent and Chrome extension that tracks submissions, correlat
 <br/>
 
 <details>
-  <summary><strong>↳ TV Stretch: Multi-Room HDMI-CEC Control</strong></summary>
+  <summary><strong>TV Stretch: Multi-Room HDMI-CEC Control</strong></summary>
 
 Room-aware TV coordination with ESP32 HDMI-CEC nodes, KiCad hardware, and a FastAPI control plane for power, input, and multi-TV handoff across a home.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/tv-stretch?color=maroon&label=tv-stretch-Last-Commit)
 </details>
 
-<br/>
-
-<details>
-  <summary><strong>↳ LinkedIn Hiring Scraper</strong></summary>
-
-Personal Playwright toolkit for exporting your own LinkedIn hiring applicant data from a logged-in browser session to CSV or JSON — no API keys required.
-
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/linkedin-scraper?color=skyblue&label=linkedin-scraper-Last-Commit)
-</details>
-
-<br/>
-
-<details>
-  <summary><strong>↳ Full-Stack AI Microservices Website Template</strong></summary>
-
-Reusable full-stack AI app/website starter distilled from tripblip’s working architecture for faster solo prototyping and staging.
-
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/Full-Stack-AI-Microservices-Website-Template?color=gray&label=AI-Website-Template-Last-Commit)
-</details>
-
-<br/>
+<br/> 
 
 <details>
   <summary><strong>↳ ExamJam: Interactive Full-Stack Study Platform</strong></summary>
