@@ -17,7 +17,7 @@ West Virginia University, B.S. in Computer Engineering - (Graduated May 2025)
 
 <!--![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013)-->
 ---
-## Projects
+## Personal Projects
 
 <details>
   <summary><strong>Lydlr: Multimodal Edge AI Compression System</strong></summary>
