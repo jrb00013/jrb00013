@@ -294,7 +294,7 @@ Room-aware TV coordination with ESP32 HDMI-CEC nodes, KiCad hardware, and a Fast
 <br/> 
 
 <details>
-  <summary><strong>↳ ExamJam: Interactive Full-Stack Study Platform</strong></summary>
+  <summary><strong>ExamJam: Interactive Full-Stack Study Platform</strong></summary>
 
 Developed a full-stack collaborative study platform specifically designed for West Virginia University students, providing free access to course-organized flashcards and study materials. Built using React.js frontend with Firebase authentication and MySQL backend, featuring dynamic search functionality, class-based organization, and responsive UI design. Implemented secure user authentication, real-time data synchronization, and intuitive course categorization to eliminate paywalls common in commercial study apps. Collaborated in an Agile development environment with Git version control, contributing to architectural design, component logic, and testing infrastructure.  
 
@@ -311,7 +311,7 @@ Developed a full-stack collaborative study platform specifically designed for We
 <br/>
 
 <details>
-  <summary><strong>↳ 404NotFound MPX OS</strong></summary>
+  <summary><strong>404NotFound MPX OS</strong></summary>
 
 Designed and implemented a cooperative multitasking OS kernel using C and x86 assembly, mimicking early embedded RTOS architectures with precise timing and interrupt control. Developed custom interrupt service routines, system call interfaces, and process management using Process Control Blocks (PCBs) and Memory Control Blocks (MCBs). Implemented full context-switching mechanisms managing register states and stack frames, along with modular shell support, serial drivers (polling and interrupt modes), software timers, and real-time I/O scheduling without relying on existing operating systems.
 
@@ -324,7 +324,7 @@ Designed and implemented a cooperative multitasking OS kernel using C and x86 as
 <br/>
 
 <details>
-  <summary><strong>↳ MSP432 Microcontroller Robot</strong></summary>
+  <summary><strong>MSP432 Microcontroller Robot</strong></summary>
 
 Programmed a fully autonomous robot using bare-metal C on the MSP432 microcontroller with no operating system. Integrated analog and digital sensors via GPIO and implemented real-time obstacle avoidance logic using timer interrupts and PWM-based motor control. Focused on efficient resource usage, low-latency decision-making, and precise motor speed modulation to achieve responsive navigation in dynamic environments. Demonstrated deep understanding of embedded systems design, peripheral configuration, and hardware-level programming.
 
@@ -335,7 +335,7 @@ Programmed a fully autonomous robot using bare-metal C on the MSP432 microcontro
 <br/>
 
 <details>
-  <summary><strong>↳ VHDL RISC-Style CPU with Custom ISA</strong></summary>
+  <summary><strong>VHDL RISC-Style CPU with Custom ISA</strong></summary>
 
 Engineered a custom 8-bit CPU from scratch using VHDL, emphasizing instruction-level control and finite state machine design. Created custom instruction set, hardcoded ALU, register file, and memory-mapped I/O interface with ModelSim simulation for timing analysis. Implemented FSMs for instruction fetch/decode/execute cycles, addressing real-world timing constraints including clock domain crossing and synchronous resets. Designed architecture supports basic arithmetic, logic operations, and I/O interfacing, laying groundwork for future FPGA-based projects.
 
@@ -345,7 +345,7 @@ Engineered a custom 8-bit CPU from scratch using VHDL, emphasizing instruction-l
 <br/>
 
 <details>
-  <summary><strong>↳ AthletiDB</strong></summary>
+  <summary><strong>AthletiDB</strong></summary>
 A sports data analysis and management system designed for sports analysts, researchers, and enthusiasts. This pipeline provides robust data collection, normalization, analysis, and export capabilities across multiple sports leagues.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/athletidb?color=brown&label=JaxK-Last-Commit)
@@ -354,7 +354,7 @@ A sports data analysis and management system designed for sports analysts, resea
 <br/>
 
 <details>
-  <summary><strong>↳ Discord Call of Duty Statistics Bot</strong></summary>
+  <summary><strong>Discord Call of Duty Statistics Bot</strong></summary>
 
 Developed and deployed a feature-rich Discord bot for gaming community management, integrating with Call of Duty API (https://codapi.dev/) to track ranked play statistics. Implemented REST API communication, asynchronous programming patterns, and real-time message parsing for interactive user commands. Features modular event-driven architecture with comprehensive error handling, logging systems, and live testing protocols. Maintains active deployment with version control and community-driven feature updates.
 
@@ -364,21 +364,11 @@ Developed and deployed a feature-rich Discord bot for gaming community managemen
 <br/>
 
 <details>
-  <summary><strong>↳ Gotzi - Network Probe Utility Tool</strong></summary>
+  <summary><strong>Gotzi - Network Probe Utility Tool</strong></summary>
 
 Built a comprehensive Linux-based command-line network diagnostic tool for UDP health assessment and latency analysis. Implemented custom socket programming in Python with precise timing mechanisms for round-trip time calculation, jitter analysis, and packet loss statistics. Features robust logging modules and statistical visualization for network behavior analysis under variable conditions. Designed for network administrators requiring detailed UDP connection diagnostics and performance monitoring capabilities.
 
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/gotzi-probe?color=cyan&label=gotzi-Last-Commit)
-</details>
-
-<br/>
-
-<details>
-  <summary><strong>↳ JaxK Full-Stack Website Template</strong></summary>
-
-Blank Full Stack Website Template for younger devs to make their own websites, as well as for me to host some of my projects.
-
-![Last Commit](https://img.shields.io/github/last-commit/jrb00013/jaxk-website?color=pink&label=JaxK-Last-Commit)
 </details>
 
 </details>
