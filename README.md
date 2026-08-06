@@ -14,7 +14,12 @@ West Virginia University, B.S. in Computer Engineering - (Graduated May 2025)
 <!--![Stats Are Down](https://github-readme-stats.vercel.app/api?username=jrb00013&theme=dark&hide_border=true&include_all_commits=false&count_private=true)-->
 
 ![---> GitHub Streak is Down At The Moment <---](https://streak-stats.demolab.com/?user=jrb00013&theme=radical)
-
+```mermaid
+pie title Programming Languages Used
+    "Python" : 45
+    "JavaScript" : 35
+    "HTML/CSS" : 20
+```
 [Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=jrb00013)-->
 ---
 ## Personal Projects
