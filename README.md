@@ -383,19 +383,23 @@ Built a comprehensive Linux-based command-line network diagnostic tool for UDP h
 # Background
 <details>
   
-As I graduated from West Virginia University in 2025, I recieved a contract offer to work as an AI Software Engineer at Genaiva, a voice AI startup focused on saemlessly designing and integrating agentic restauraunt communication systems.
-
-I left Genaiva after my contract ended and recently started working as a Software Engineer for Lighthouse Avionics where I work on optical based aerospace infrastructure and autonomous drones. After work, I also serve as a Lead Developer for an open source R&D group that I founded in November 2025 named [Deepiri](https://deepiri.com), where I mentor aspiring software developers and teach them how to work on generative intelligence platforms and data ingestion/processing pipelines. On top of my high level system design, I’ve built digital logic circuits, designed embedded real-time firmware for robotics, and have developed a few operating systems from scratch.
-
-Throughout 2024, I served as a team lead for the WVU Autonomous Racing Team, which competed at the 2024 International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured [2nd Place](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
+I went to college at West Virinia University and served as a team lead for the WVU Autonomous Racing Team in 2024, which competed at the International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured [2nd Place](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
 
 During my time at WVU, I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab ([iCPS Lab](https://sites.google.com/site/amrselwakeel/intelligent-cyber-physical-systems-research-lab-icps-lab)), where I worked with analyzing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms for mobile robots. 
 
+As I graduated in 2025, I received a contract offer to work as an AI Software Engineer at Genaiva, a voice AI startup focused on seamlessly designing and integrating agentic restaurant communication systems.
+
+I left Genaiva after my contract ended and founded [Deepiri](https://deepiri.com), an open-source R&D group founded in November 2025 where I mentor developers and build systems focused on generative intelligence, AI infrastructure, and large-scale data pipelines. This effort was rooted in my own non-traditional path into tech, having never had a formal corporate internship early on and wanting to create opportunities for others facing similar barriers.
+
+Alongside this, I founded and run exovra (Elomix), a small startup focused on building intelligent embodied systems that bridge software, hardware, and real-world environments. This includes developing AI inference platforms, fleet orchestration systems, and custom hardware designed for scalable autonomous operations.
+
+Today, I am a Software Systems Engineer at Lighthouse Avionics, where I work on optical-based aerospace infrastructure and autonomous drone systems. My work spans counter-UAS sensing platforms, terrain-aware drone coverage simulation, geospatial algorithms, and real-time optical/thermal processing pipelines used for mission-critical deployments.
+
+On top of my high-level system design experience, I’ve built digital logic circuits, designed embedded real-time firmware for robotics, and developed operating systems from scratch.
+
 I've obtained SAS certifications in data analysis and statistical decision-making that I have utilized in my ML-based projects and automation pipelines. I'm always looking to grow through the challenges that come with any system I make, and can perform well wherever is needed in multiple hardware and software domains.
 
-On top of my technical skills, I also worked outside for three of my college summers as a maintenance worker at my hometown cemetery, where I dug graves, pour cement, and wasn't afraid of hard work. 
-
-My goal is to create something that has everlasting impact.
+Outside of my technical work, I also spent three of my college summers as a maintenance worker at my hometown cemetery, where I dug graves, poured cement, and wasn't afraid of manual labor. 
 
 </details>
 
