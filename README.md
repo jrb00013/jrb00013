@@ -383,7 +383,7 @@ Built a comprehensive Linux-based command-line network diagnostic tool for UDP h
 # Background
 <details>
   
-I went to college at West Virinia University and served as a team lead for the WVU Autonomous Racing Team in 2024, which competed at the International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured [2nd Place](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
+I went to college at West Virginia University and served as a team lead for the WVU Autonomous Racing Team in 2024, which competed at the International F1Tenth Grand Prix in Niagara Falls, Canada, where we secured [2nd Place](https://media.statler.wvu.edu/news/2024/09/24/wvu-f1tenth-team-places-second-in-international-competition).
 
 During my time at WVU, I was also a Robotics Research Intern at the Intelligent Cyber-physical Systems Research Lab ([iCPS Lab](https://sites.google.com/site/amrselwakeel/intelligent-cyber-physical-systems-research-lab-icps-lab)), where I worked with analyzing sensor fusion data to develop efficient path planning and obstacle avoidance algorithms for mobile robots. 
 
