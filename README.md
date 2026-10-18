@@ -2,7 +2,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Portfolio!;Projects+are+located+below+⬇️;Thanks+for+stopping+by!)](https://git.io/typing-svg)
 
 ## About me 
-I'm a systems engineer, musician, technical leader, and a graduate of West Virginia University, focused on building scalable AI and robotics systems. I currently work as a Software Engineer at Lighthouse Avionics in Hilliard, Ohio, and I'm also the founder of [Deepiri](https://deepiri.com), where I led a global collective of developers in open research and am now guiding the company's transition into a commercial AI product company. I'm also the founder of [exovrix](https://github.com/exovrix), a stealth startup focused on embodied AI solutions. Previously, I worked as an AI Engineer at Genaiva, a voice AI startup, and led an undergraduate autonomous racing team to a 2nd place finish at the International F1Tenth Grand Prix. I've also worked on robotics research in sensor fusion and autonomous navigation through the iCPS lab, during my time at West Virginia University.
+I'm a systems engineer, musician, technical leader, and a graduate of West Virginia University, focused on building scalable AI and robotics systems. I currently work as a Software Engineer at Lighthouse Avionics in Hilliard, Ohio, and I'm also the founder of [Deepiri](https://deepiri.com), where I led a global collective of developers in building AI systems from the ground up and am now steering the company's evolution into a commercial AI product company. I'm also the founder of [exovrix](https://github.com/exovrix), a stealth startup focused on embodied AI solutions. Previously, I worked as an AI Engineer at Genaiva, a voice AI startup, and led an undergraduate autonomous racing team to a 2nd place finish at the International F1Tenth Grand Prix. I've also worked on robotics research in sensor fusion and autonomous navigation through the iCPS lab, during my time at West Virginia University.
 
 ## Education
 West Virginia University, B.S. in Computer Engineering - (Graduated May 2025)  
@@ -391,16 +391,14 @@ As I graduated in 2025, I received a contract offer to work as an AI Software En
 
 I left Genaiva after my contract ended and founded [Deepiri](https://deepiri.com) in November 2025. I led it as a global, non-profit-style research collective, mentoring developers from around the world while we built systems across generative intelligence, AI infrastructure, and large-scale data pipelines. The effort was rooted in my own non-traditional path into tech, having never had a formal corporate internship early on and wanting to create opportunities for others facing similar barriers.
 
-Over that time, the collective shipped a broad body of public work, including:
+Leading that collective, I directed the architecture and delivery of dozens of projects spanning AI tooling, developer infrastructure, and research, including:
 - **Deepiri Emotion**, an AI desktop IDE and coding assistant
-- **Diva**, an in-house programming language designed for compact data representation and high-efficiency execution
+- **Diva**, an in-house programming language built for compact data representation and high-efficiency execution
 - **Topolsea**, a SIMD-accelerated graph-ANN vector database
 - **Bedd**, a stream-native AI worker runtime written in Zig
-- **MemoryMesh** and **Polylogue**, tooling for cross-provider LLM context and shared streaming journals
-- **Tombstone**, a post-training evaluation harness, and **Axiom**, a systems-architect AI subagent
-- Developer tooling such as **Boardman** (AI Kanban assistant), **Conduit** (service port-conflict resolver), and **Wooven** (credentials manager), plus research and creative projects like **Polomni**, **Crankl**, **Lyback**, and **Voxier**
+- **MemoryMesh**, **Polylogue**, **Tombstone**, **Axiom**, and more, covering LLM memory, evaluation, and agentic architecture
 
-Deepiri is now transitioning from open research into a revenue-generating commercial product company. Its core platform and technology are proprietary, and I continue to lead its technical direction through that shift.
+Deepiri is now evolving from open research into a revenue-generating commercial product company built on proprietary technology, and I continue to lead its technical vision through that shift.
 
 Alongside this, I founded and run exovra (Elomix), a small startup focused on building intelligent embodied systems that bridge software, hardware, and real-world environments. This includes developing AI inference platforms, fleet orchestration systems, and custom hardware designed for scalable autonomous operations.
 
