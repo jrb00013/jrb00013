@@ -2,7 +2,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Portfolio!;Projects+are+located+below+⬇️;Thanks+for+stopping+by!)](https://git.io/typing-svg)
 
 ## About me 
-I'm a systems engineer, musician, technical leader, and a graduate of West Virginia University, focused on building scalable AI and robotics systems. I currently work as a Software Engineer at Lighthouse Avionics in Hilliard, Ohio, and I'm also a lead developer at [Deepiri](https://github.com/team-deepiri), where I mentor developers from all over the world and build open source research projects. I'm also the founder of [exovrix](https://github.com/exovrix), a stealth startup focused on embodied AI solutions. Previously, I worked as an AI Engineer at Genaiva, a voice AI startup, and led an undergraduate autonomous racing team to a 2nd place finish at the International F1Tenth Grand Prix. I've also worked on robotics research in sensor fusion and autonomous navigation through the iCPS lab, during my time at West Virginia University.
+I'm a systems engineer, musician, technical leader, and a graduate of West Virginia University, focused on building scalable AI and robotics systems. I currently work as a Software Engineer at Lighthouse Avionics in Hilliard, Ohio, and I'm also the founder of [Deepiri](https://deepiri.com), where I led a global collective of developers in building AI systems from the ground up and am now steering the company's evolution into a commercial AI product company. I'm also the founder of [exovrix](https://github.com/exovrix), a stealth startup focused on embodied AI solutions. Previously, I worked as an AI Engineer at Genaiva, a voice AI startup, and led an undergraduate autonomous racing team to a 2nd place finish at the International F1Tenth Grand Prix. I've also worked on robotics research in sensor fusion and autonomous navigation through the iCPS lab, during my time at West Virginia University.
 
 ## Education
 West Virginia University, B.S. in Computer Engineering - (Graduated May 2025)  
@@ -389,7 +389,16 @@ During my time at WVU, I was also a Robotics Research Intern at the Intelligent 
 
 As I graduated in 2025, I received a contract offer to work as an AI Software Engineer at Genaiva, a voice AI startup focused on seamlessly designing and integrating agentic restaurant communication systems.
 
-I left Genaiva after my contract ended and founded [Deepiri](https://deepiri.com), an open-source R&D group founded in November 2025 where I mentor developers and build systems focused on generative intelligence, AI infrastructure, and large-scale data pipelines. This effort was rooted in my own non-traditional path into tech, having never had a formal corporate internship early on and wanting to create opportunities for others facing similar barriers.
+I left Genaiva after my contract ended and founded [Deepiri](https://deepiri.com) in November 2025. I led it as a global, non-profit-style research collective, mentoring developers from around the world while we built systems across generative intelligence, AI infrastructure, and large-scale data pipelines. The effort was rooted in my own non-traditional path into tech, having never had a formal corporate internship early on and wanting to create opportunities for others facing similar barriers.
+
+Leading that collective, I directed the architecture and delivery of dozens of projects spanning AI tooling, developer infrastructure, and research, including:
+- **Deepiri Emotion**, an AI desktop IDE and coding assistant
+- **Diva**, an in-house programming language built for compact data representation and high-efficiency execution
+- **Topolsea**, a SIMD-accelerated graph-ANN vector database
+- **Bedd**, a stream-native AI worker runtime written in Zig
+- **MemoryMesh**, **Polylogue**, **Tombstone**, **Axiom**, and more, covering LLM memory, evaluation, and agentic architecture
+
+Deepiri is now evolving from open research into a revenue-generating commercial product company built on proprietary technology, and I continue to lead its technical vision through that shift.
 
 Alongside this, I founded and run exovra (Elomix), a small startup focused on building intelligent embodied systems that bridge software, hardware, and real-world environments. This includes developing AI inference platforms, fleet orchestration systems, and custom hardware designed for scalable autonomous operations.
 
