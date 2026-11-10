@@ -377,6 +377,156 @@ Built a comprehensive Linux-based command-line network diagnostic tool for UDP h
 ![Last Commit](https://img.shields.io/github/last-commit/jrb00013/gotzi-probe?color=cyan&label=gotzi-Last-Commit)
 </details>
 
+<br/>
+
+<details>
+  <summary><strong>Couchlink: Low-Latency Online Co-op</strong></summary>
+
+Turns a local emulator session into HD online couch co-op. Stack: Rust host, React/TypeScript friend player, WebRTC + OpenH264 video, WebSocket signaling, Headscale/Tailscale/WireGuard mesh fallback, custom binary pad protocol over DataChannel, and Linux uinput / Windows ViGEm controller injection.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/couchlink?color=orange&label=couchlink-Last-Commit)
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>DualSenseKit: Controller HID Toolkit</strong></summary>
+
+Portable DualSense / DualSense Edge toolkit for HID control and Bluetooth pairing helpers. Stack: C library + Python bindings + Linux/Windows CLIs, CMake builds, hidraw/HIDAPI, udev rules, and OS pairing assistants (`bluetoothctl` / Windows Settings).
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/dualsensekit?color=blue&label=dualsensekit-Last-Commit)
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>Camouzer: Virtual Camera Pipeline</strong></summary>
+
+Real-time webcam image processing published as a native Windows virtual camera (no OBS). Stack: C++ Media Foundation virtual cam, Python/OpenCV + ffmpeg MJPG feed, shared-memory IPC, and PowerShell build/start scripts.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/camouzer?color=pink&label=camouzer-Last-Commit)
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>Calick: AI-Powered Calendar</strong></summary>
+
+AI calendar with meeting prep, document synthesis, and multi-platform clients. Stack: FastAPI backend, React/TypeScript web UI, Chrome/Firefox extensions, SwiftUI iOS, Kotlin Android, Docker/Terraform/Helm, and BYOK multi-LLM integration.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/calick?color=yellow&label=calick-Last-Commit)
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>emu-simkit: Emulator Pack Toolkit</strong></summary>
+
+Generalized Python toolkit for installing and managing emulator/simulator packs — check, plan, install, inventory, uninstall — with pluggable backends, YAML pack format, deep-merge config patches, and backup/restore workflows.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/emu-simkit?color=teal&label=emu-simkit-Last-Commit)
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>joes-gpus: Adaptive Search Puzzle</strong></summary>
+
+Exhaustive adaptive-strategy search for identifying defective GPUs under a binary group-comparator model (including the harder unknown-ratio slow+fast variant). Stack: Python, multiprocessing search, and pytest-verified results for small N.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/joes-gpus?color=purple&label=joes-gpus-Last-Commit)
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>YOLO Video Processing Pipeline</strong></summary>
+
+Containerized person-detection video analytics pipeline with auto source selection (file / webcam / RTSP). Stack: Python + YOLO inference, Vue frontend, Docker Compose orchestration, and supporting C/shell tooling for capture and packaging.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/lighthouse-avionics-video-processing?color=red&label=yolo-pipeline-Last-Commit)
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>mailnotmilk: Agent Mailbox MCP</strong></summary>
+
+Shared agent mailbox that bridges browser AIs with local coding agents across sessions. Stack: Node/JavaScript MCP server + CLI, Playwright browser automation, Chrome/Firefox extension, and auto-install into Cursor / Claude Code / OpenCode and related MCP clients.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/mailnotmilk?color=green&label=mailnotmilk-Last-Commit)
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>Nocturne Harvest: Nighttime Energy Research</strong></summary>
+
+Research sandbox for off-grid nighttime power concepts — physics simulation plus techno-economic modeling. Stack: Python simulation packages, OpenSCAD geometry, editable installs, and pytest-backed experiments (high-level research only).
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/nocturne-harvest?color=navy&label=nocturne-harvest-Last-Commit)
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>tree-compression-lib: Structure-Aware Compression Lab</strong></summary>
+
+Stdlib-only Python lab for lossless, structure-aware compression experiments over large binary trees. Stack: pure Python transforms, lzma backends, format parsers, and pytest round-trip verification (experimental; no proprietary codecs disclosed).
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/tree-compression-lib?color=gray&label=tree-compression-Last-Commit)
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>RPCS3 (fork)</strong></summary>
+
+Personal fork of the open-source PlayStation 3 emulator and debugger. Upstream stack: C++ / CMake / GLSL across Windows, Linux, macOS, and FreeBSD — used for local experimentation, not a claim of ownership.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/rpcs3?color=black&label=rpcs3-fork-Last-Commit)
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>SpaghettiSploit: Authorized Pentest Lab Kit</strong></summary>
+
+Course/lab toolkit for safe, scope-gated offensive-security practice on owned VMs and assigned ranges. Stack: Bash 5.1+, Makefile workflows, Docker lab targets (DVWA / Juice Shop), and Metasploit / John the Ripper notes — authorized use only.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/spaghettisploit?color=darkred&label=spaghettisploit-Last-Commit)
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>OpenAntique: Multi-Vendor Marketplace</strong></summary>
+
+Full-stack marketplace for antique and collectible dealers — inventory, checkout, and vendor shops. Stack: FastAPI/Python API, React/TypeScript frontend, PostgreSQL, Alembic migrations, and Docker Compose (product surface only; internals kept private).
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/OpenAntique?color=gold&label=OpenAntique-Last-Commit)
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>PawPlay: Dog Playdate App</strong></summary>
+
+Demo web app for dog playdates — profiles, discover, messaging, and sitting flows. Stack: Next.js / TypeScript / Tailwind, with companion mobile/desktop scaffolding in the tree (Kotlin / Swift / C#). Feature-level overview only.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/pawplay?color=hotpink&label=pawplay-Last-Commit)
+</details>
+
+<br/>
+
+<details>
+  <summary><strong>ElvesLegs: Local Agent Console</strong></summary>
+
+Defensive local agent console for owned-LAN watch and draft-only rhetoric defense, with human approval on external writes. Stack: Python, Ollama, CrewAI/LangGraph orchestration, Docker, Socket.IO operator UI, and systemd hardening — defensive posture only.
+
+![Last Commit](https://img.shields.io/github/last-commit/jrb00013/elveslegs?color=olive&label=elveslegs-Last-Commit)
+</details>
+
 </details>
 
 
